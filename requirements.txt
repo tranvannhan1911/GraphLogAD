@@ -8,3 +8,7 @@ matplotlib
 tqdm==4.64.1
 sacrebleu
 line_profiler
+torch==1.13.1
+pyarrow==10.0.1
+numpy==2.2.6
+huggingface_hub==0.10.1

@@ -1,0 +1,23 @@
+Using custom data configuration default-2ec6043636ba7f86
+Traceback (most recent call last):
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/NER.py", line 287, in <module>
+    data = load_dataset('json', data_files=gen_data)['train'] # load preprocessed data
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/datasets/load.py", line 1718, in load_dataset
+    builder_instance = load_dataset_builder(
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/datasets/load.py", line 1514, in load_dataset_builder
+    builder_instance: DatasetBuilder = builder_cls(
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/datasets/builder.py", line 355, in __init__
+    self.info = DatasetInfo.from_directory(self._cache_dir)
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/datasets/info.py", line 292, in from_directory
+    with fs.open(path_join(dataset_info_dir, config.DATASET_INFO_FILENAME), "r", encoding="utf-8") as f:
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/fsspec/spec.py", line 1340, in open
+    self.open(
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/fsspec/spec.py", line 1352, in open
+    f = self._open(
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/fsspec/implementations/local.py", line 214, in _open
+    return LocalFileOpener(path, mode, fs=self, **kwargs)
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/fsspec/implementations/local.py", line 391, in __init__
+    self._open()
+  File "/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/fsspec/implementations/local.py", line 396, in _open
+    self.f = open(self.path, mode=self.mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/tranvannhan1911/.cache/huggingface/datasets/json/default-2ec6043636ba7f86/0.0.0/e6070c77f18f01a5ad4551a8b7edfba20b8438b7cad4d94e6ad9378022ce4aab/dataset_info.json'

@@ -40,8 +40,9 @@ class DynamicEncoderDecoder(nn.Module):
             )
         else:
             # # Self-defined graph position embedding
+            max_pos = getattr(self.config, 'max_position_embeddings', 1024)
             self.wpe = nn.Embedding(
-                self.config.max_position_embeddings, 
+                max_pos, 
                 self.embed_dim,
             )
             if self.config.model_type == "gpt2":

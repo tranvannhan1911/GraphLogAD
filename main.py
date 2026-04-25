@@ -64,13 +64,6 @@ if __name__ == '__main__':
     parser.add_argument(
         '--pretrained_model_path', type=str, 
         default='facebook/bart-base',
-        choices=[
-            'facebook/bart-base',
-            'xlnet-base-cased',
-            'gpt2',
-            'bert-base-uncased',
-            'bert-base-cased',
-        ],
         help='pre-trained language model name or path')
     parser.add_argument(
         '--max_length', type=int, 
@@ -415,8 +408,13 @@ if __name__ == '__main__':
     refresh_callback = TQDMProgressBar(refresh_rate=1)
 
     # Training checkpoints
+    callbacks = [checkpoint_callback, refresh_callback]
+    if early_stop_callback:
+        callbacks.append(early_stop_callback)
+
     trainer = Trainer(
-        gpus=1,
+        accelerator='auto',
+        devices=1,
         accumulate_grad_batches=1,
         default_root_dir=checkpoint_dir,
         gradient_clip_val=1.0,
@@ -424,7 +422,8 @@ if __name__ == '__main__':
         fast_dev_run=is_test_run,
         min_epochs=min(1, max_epochs),
         max_epochs=max_epochs,
-        callbacks=[early_stop_callback, checkpoint_callback, refresh_callback],
+        callbacks=callbacks,
+
         enable_progress_bar=True,
         # deterministic=True, # reproductibility
     )

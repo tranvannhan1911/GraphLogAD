@@ -284,7 +284,47 @@ if __name__ == '__main__':
         # Preprocess to generate dataset (from raw log templates) for AIT dataset
         raw_data = pd.read_csv(template, sep='\n', header=None)[0]
         process_corpus(raw_data, gen_data) # run to generate few-shot.json
-    data = load_dataset('json', data_files=gen_data)['train'] # load preprocessed data
+    elif gen_data.endswith('.csv'):
+        json_path = gen_data.replace('.csv', '.json')
+        if not os.path.exists(json_path) or overwrite_cache:
+            import pandas as pd
+            import re
+            import json
+            df = pd.read_csv(gen_data, nrows=1000)
+            with open(json_path, 'w') as f:
+                for idx, row in df.iterrows():
+                    log = row['Content']
+                    entities, tags = [], []
+                    for tag, pat in REGEX_PATTERN.items():
+                        ans = re.findall(pat, log + ' ')
+                        if ans:
+                            for phrase in ans:
+                                if isinstance(phrase, str):
+                                    entities.append(phrase)
+                                    tags.append(tag)
+                                elif isinstance(phrase, tuple):
+                                    p = min(list(phrase), key=len)
+                                    entities.append(p)
+                                    tags.append(tag)
+                    record = {
+                        "logex:example": log,
+                        "logex:hasParameterList": entities,
+                        "logex:hasNERtag": tags
+                    }
+                    f.write(json.dumps(record) + '\n')
+        gen_data = json_path
+
+    if gen_data.endswith('.csv'):
+        # using the generated json
+        pass
+    
+    try:
+        data = load_dataset('json', data_files=gen_data)['train'] # load preprocessed data
+    except Exception as e:
+        import pandas as pd
+        from datasets import Dataset
+        df = pd.read_json(gen_data, lines=True)
+        data = Dataset.from_pandas(df)
 
     # Get tag-entity statistics
     entity_set = defaultdict(set)
@@ -331,13 +371,24 @@ if __name__ == '__main__':
     gen_train_prompt(val_data, valPath, strategy, n=n_grams, negrate=neg_rate, seed=seed)
 
     # Load preprocessed data
-    datasets = load_dataset('json', data_files={'train': trainPath, 'validation': valPath})
-    train_set = datasets['train']
-    val_set = datasets['validation']
+    try:
+        datasets = load_dataset('json', data_files={'train': trainPath, 'validation': valPath})
+        train_set = datasets['train']
+        val_set = datasets['validation']
+    except Exception as e:
+        import pandas as pd
+        from datasets import Dataset
+        train_set = Dataset.from_pandas(pd.read_json(trainPath, lines=True))
+        val_set = Dataset.from_pandas(pd.read_json(valPath, lines=True))
 
     # Generate test labels
     gen_test_labels(test_data, testPath) 
-    test_set = load_dataset('json', data_files=testPath)['train']
+    try:
+        test_set = load_dataset('json', data_files=testPath)['train']
+    except Exception as e:
+        import pandas as pd
+        from datasets import Dataset
+        test_set = Dataset.from_pandas(pd.read_json(testPath, lines=True))
 
     if labeling_technique == 'prompt':
         # Process few-shot data (tokenization)

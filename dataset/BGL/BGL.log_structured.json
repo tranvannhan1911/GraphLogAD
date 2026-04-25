@@ -1,0 +1,1000 @@
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "63543 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "162 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "141 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 2, at 0x0b85eee0, mask 0x05", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "logex:hasParameterList": ["172.16.96.116", "172.16.96.116:33569"], "logex:hasNERtag": ["ip", "domain"]}
+{"logex:example": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370", "logex:hasParameterList": ["172.16.96.116", "172.16.96.116:33370"], "logex:hasNERtag": ["ip", "domain"]}
+{"logex:example": "CE sym 20, at 0x1438f9e0, mask 0x40", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.2275", "logex:hasParameterList": ["core.2275"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.862", "logex:hasParameterList": ["core.862"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.728", "logex:hasParameterList": ["core.728"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.775", "logex:hasParameterList": ["core.775"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3276", "logex:hasParameterList": ["core.3276"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1717", "logex:hasParameterList": ["core.1717"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3919", "logex:hasParameterList": ["core.3919"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2079", "logex:hasParameterList": ["core.2079"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1414", "logex:hasParameterList": ["core.1414"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3055", "logex:hasParameterList": ["core.3055"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.201", "logex:hasParameterList": ["core.201"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1125", "logex:hasParameterList": ["core.1125"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.412", "logex:hasParameterList": ["core.412"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7828", "logex:hasParameterList": ["core.7828"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5570", "logex:hasParameterList": ["core.5570"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8275", "logex:hasParameterList": ["core.8275"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4183", "logex:hasParameterList": ["core.4183"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6545", "logex:hasParameterList": ["core.6545"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4245", "logex:hasParameterList": ["core.4245"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6884", "logex:hasParameterList": ["core.6884"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "force load/store alignment...............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.6471", "logex:hasParameterList": ["core.6471"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4155", "logex:hasParameterList": ["core.4155"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.449", "logex:hasParameterList": ["core.449"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6990", "logex:hasParameterList": ["core.6990"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4876", "logex:hasParameterList": ["core.4876"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2218", "logex:hasParameterList": ["core.2218"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7518", "logex:hasParameterList": ["core.7518"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5854", "logex:hasParameterList": ["core.5854"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7457", "logex:hasParameterList": ["core.7457"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6896", "logex:hasParameterList": ["core.6896"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3488", "logex:hasParameterList": ["core.3488"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1172", "logex:hasParameterList": ["core.1172"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2286", "logex:hasParameterList": ["core.2286"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.786", "logex:hasParameterList": ["core.786"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2680", "logex:hasParameterList": ["core.2680"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1524", "logex:hasParameterList": ["core.1524"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4937", "logex:hasParameterList": ["core.4937"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6801", "logex:hasParameterList": ["core.6801"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4368", "logex:hasParameterList": ["core.4368"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.851", "logex:hasParameterList": ["core.851"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1744", "logex:hasParameterList": ["core.1744"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1588", "logex:hasParameterList": ["core.1588"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5307", "logex:hasParameterList": ["core.5307"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7192", "logex:hasParameterList": ["core.7192"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 20, at 0x01228120, mask 0x10", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 5, at 0x11042a80, mask 0x04", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.430", "logex:hasParameterList": ["core.430"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.174", "logex:hasParameterList": ["core.174"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.976", "logex:hasParameterList": ["core.976"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1990", "logex:hasParameterList": ["core.1990"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3638", "logex:hasParameterList": ["core.3638"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2690", "logex:hasParameterList": ["core.2690"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3804", "logex:hasParameterList": ["core.3804"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.418", "logex:hasParameterList": ["core.418"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.310", "logex:hasParameterList": ["core.310"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2409", "logex:hasParameterList": ["core.2409"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4182", "logex:hasParameterList": ["core.4182"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8153", "logex:hasParameterList": ["core.8153"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7836", "logex:hasParameterList": ["core.7836"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2911", "logex:hasParameterList": ["core.2911"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2921", "logex:hasParameterList": ["core.2921"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.122", "logex:hasParameterList": ["core.122"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1973", "logex:hasParameterList": ["core.1973"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory", "logex:hasParameterList": [""], "logex:hasNERtag": ["path"]}
+{"logex:example": "generating core.4984", "logex:hasParameterList": ["core.4984"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1822", "logex:hasParameterList": ["core.1822"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 28, at 0x110067e0, mask 0x02", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 14, at 0x06047860, mask 0x20", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.3265", "logex:hasParameterList": ["core.3265"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2599", "logex:hasParameterList": ["core.2599"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1818", "logex:hasParameterList": ["core.1818"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1694", "logex:hasParameterList": ["core.1694"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3401", "logex:hasParameterList": ["core.3401"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25350", "logex:hasParameterList": ["core.25350"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1820", "logex:hasParameterList": ["core.1820"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 2, at 0x1b85f080, mask 0x02", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.254", "logex:hasParameterList": ["core.254"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1887", "logex:hasParameterList": ["core.1887"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 2, at 0x1b85fe80, mask 0x02", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.8280", "logex:hasParameterList": ["core.8280"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12357", "logex:hasParameterList": ["core.12357"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data TLB error interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 10, at 0x08d10580, mask 0x08", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "ciod: Message code 0 is not 51 or 4294967295", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.2522", "logex:hasParameterList": ["core.2522"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1711", "logex:hasParameterList": ["core.1711"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2332", "logex:hasParameterList": ["core.2332"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4505", "logex:hasParameterList": ["core.4505"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1521", "logex:hasParameterList": ["core.1521"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check: i-fetch......................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check: i-fetch......................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check: i-fetch......................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data storage interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x00004ed8", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "exception syndrome register: 0x00800000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "exception syndrome register: 0x00800000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "exception syndrome register: 0x00800000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "exception syndrome register: 0x00800000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address: 0x00000002", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "exception syndrome register: 0x00800000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check: i-fetch......................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by dcbf.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check: i-fetch......................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by dcbf.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: privileged instruction...0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: privileged instruction...0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: trap instruction.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: imprecise exception......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "store operation.............................1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "store operation.............................1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine state register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by icbi.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "problem state (0=sup,1=usr).......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by icbi.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by icbi.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating point instr. enabled.....1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating point instr. enabled.....1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating point instr. enabled.....1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "auxiliary processor.........................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check enable..............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine check enable..............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating pt ex mode 0 enable......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: unimplemented operation..0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "debug interrupt enable............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating pt ex mode 1 enable......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "byte ordering exception.....................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "byte ordering exception.....................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address space................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address space................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: imprecise exception......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: imprecise exception......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: fp cr update.............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "guaranteed instruction cache block touch.0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "guaranteed instruction cache block touch.0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: fp cr field .............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: fp cr field .............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: fp cr field .............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "guaranteed data cache block touch........1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: fp cr field .............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "force load/store alignment...............0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "icache prefetch depth....................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine state register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine state register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "icache prefetch threshold................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "icache prefetch threshold................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "machine state register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "wait state enable.................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "critical input interrupt enable...0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "problem state (0=sup,1=usr).......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "problem state (0=sup,1=usr).......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating point instr. enabled.....1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "special purpose registers:", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "rts internal error", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating pt ex mode 0 enable......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating pt ex mode 0 enable......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "debug wait enable.................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "floating pt ex mode 1 enable......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address space.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address space................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address space................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data address space................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "core configuration register: 0x00002000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "disable store gathering..................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "disable store gathering..................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "disable store gathering..................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.42", "logex:hasParameterList": ["core.42"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "total of 1 ddr error(s) detected and corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.145", "logex:hasParameterList": ["core.145"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.1978", "logex:hasParameterList": ["core.1978"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2040", "logex:hasParameterList": ["core.2040"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15", "logex:hasParameterList": ["core.15"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.16218", "logex:hasParameterList": ["core.16218"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.8531", "logex:hasParameterList": ["core.8531"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2961", "logex:hasParameterList": ["core.2961"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15966", "logex:hasParameterList": ["core.15966"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.42", "logex:hasParameterList": ["core.42"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.93", "logex:hasParameterList": ["core.93"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2605", "logex:hasParameterList": ["core.2605"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6037", "logex:hasParameterList": ["core.6037"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.886", "logex:hasParameterList": ["core.886"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3053", "logex:hasParameterList": ["core.3053"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2790", "logex:hasParameterList": ["core.2790"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "logex:hasParameterList": ["172.16.96.116", "172.16.96.116:51706"], "logex:hasNERtag": ["ip", "domain"]}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.1488", "logex:hasParameterList": ["core.1488"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 2, at 0x0b85f680, mask 0x0e", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.2186", "logex:hasParameterList": ["core.2186"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.978", "logex:hasParameterList": ["core.978"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2808", "logex:hasParameterList": ["core.2808"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2486", "logex:hasParameterList": ["core.2486"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.334", "logex:hasParameterList": ["core.334"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5401", "logex:hasParameterList": ["core.5401"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14418", "logex:hasParameterList": ["core.14418"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2558", "logex:hasParameterList": ["core.2558"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9785", "logex:hasParameterList": ["core.9785"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4614", "logex:hasParameterList": ["core.4614"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7615", "logex:hasParameterList": ["core.7615"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15935", "logex:hasParameterList": ["core.15935"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory", "logex:hasParameterList": [""], "logex:hasNERtag": ["path"]}
+{"logex:example": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes", "logex:hasParameterList": ["", "/p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map:"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "CE sym 0, at 0x1b858280, mask 0x40", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.8089", "logex:hasParameterList": ["core.8089"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4660", "logex:hasParameterList": ["core.4660"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.721", "logex:hasParameterList": ["core.721"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5287", "logex:hasParameterList": ["core.5287"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.783", "logex:hasParameterList": ["core.783"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory", "logex:hasParameterList": [""], "logex:hasNERtag": ["path"]}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "199680 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1969920 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "2576000 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "2576000 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "6182400 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "6182400 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "6182400 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "3091200 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "3091200 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "3091200 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 12, at 0x1b786f60, mask 0x04", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 0, at 0x1b8584e0, mask 0x80", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 23, at 0x03f89c00, mask 0x10", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "23431872 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "259966605 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "255244071 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "259822751 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.24721", "logex:hasParameterList": ["core.24721"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4184", "logex:hasParameterList": ["core.4184"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.58109", "logex:hasParameterList": ["core.58109"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9881", "logex:hasParameterList": ["core.9881"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19579", "logex:hasParameterList": ["core.19579"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4501", "logex:hasParameterList": ["core.4501"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.50230", "logex:hasParameterList": ["core.50230"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.62516", "logex:hasParameterList": ["core.62516"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27921", "logex:hasParameterList": ["core.27921"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16830", "logex:hasParameterList": ["core.16830"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9369", "logex:hasParameterList": ["core.9369"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10140", "logex:hasParameterList": ["core.10140"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.37749", "logex:hasParameterList": ["core.37749"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9654", "logex:hasParameterList": ["core.9654"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.56155", "logex:hasParameterList": ["core.56155"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.40250", "logex:hasParameterList": ["core.40250"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.45353", "logex:hasParameterList": ["core.45353"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9578", "logex:hasParameterList": ["core.9578"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14856", "logex:hasParameterList": ["core.14856"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.62468", "logex:hasParameterList": ["core.62468"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.38415", "logex:hasParameterList": ["core.38415"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.39138", "logex:hasParameterList": ["core.39138"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10394", "logex:hasParameterList": ["core.10394"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.41347", "logex:hasParameterList": ["core.41347"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7619", "logex:hasParameterList": ["core.7619"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.54486", "logex:hasParameterList": ["core.54486"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22421", "logex:hasParameterList": ["core.22421"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18261", "logex:hasParameterList": ["core.18261"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.58616", "logex:hasParameterList": ["core.58616"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.47736", "logex:hasParameterList": ["core.47736"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25048", "logex:hasParameterList": ["core.25048"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.58777", "logex:hasParameterList": ["core.58777"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.49137", "logex:hasParameterList": ["core.49137"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.42553", "logex:hasParameterList": ["core.42553"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2109", "logex:hasParameterList": ["core.2109"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.718", "logex:hasParameterList": ["core.718"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10752", "logex:hasParameterList": ["core.10752"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.323", "logex:hasParameterList": ["core.323"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: Error loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: invalid or missing program image, No such file or directory", "logex:hasParameterList": ["", "/home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV:"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "CE sym 5, at 0x11042a80, mask 0x04", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction cache parity error corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.21112", "logex:hasParameterList": ["core.21112"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "program interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.28370", "logex:hasParameterList": ["core.28370"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "program interrupt: illegal instruction......1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: privileged instruction...0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by dcbf.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by icbi.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by icbi.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "auxiliary processor.........................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "auxiliary processor.........................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "auxiliary processor.........................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: unimplemented operation..0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: imprecise exception......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: imprecise exception......0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.14700", "logex:hasParameterList": ["core.14700"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "program interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "instruction address: 0x0062fe04", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "exception syndrome register: 0x08000000", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: illegal instruction......1", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "program interrupt: privileged instruction...0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by dcbf.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "data store interrupt caused by dcbf.........0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "auxiliary processor.........................0", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 0, at 0x1b8594e0, mask 0x40", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "Node card is not fully functional", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 10, at 0x08e70580, mask 0x08", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.1786", "logex:hasParameterList": ["core.1786"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26918", "logex:hasParameterList": ["core.26918"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10125", "logex:hasParameterList": ["core.10125"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4230", "logex:hasParameterList": ["core.4230"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.179", "logex:hasParameterList": ["core.179"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1177", "logex:hasParameterList": ["core.1177"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.32693", "logex:hasParameterList": ["core.32693"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7151", "logex:hasParameterList": ["core.7151"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7023", "logex:hasParameterList": ["core.7023"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "344040 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "344040 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "344040 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.29308", "logex:hasParameterList": ["core.29308"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2586", "logex:hasParameterList": ["core.2586"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6040", "logex:hasParameterList": ["core.6040"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16904", "logex:hasParameterList": ["core.16904"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26186", "logex:hasParameterList": ["core.26186"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26156", "logex:hasParameterList": ["core.26156"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2112", "logex:hasParameterList": ["core.2112"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23659", "logex:hasParameterList": ["core.23659"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1605", "logex:hasParameterList": ["core.1605"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16483", "logex:hasParameterList": ["core.16483"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.257", "logex:hasParameterList": ["core.257"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18751", "logex:hasParameterList": ["core.18751"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22783", "logex:hasParameterList": ["core.22783"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8021", "logex:hasParameterList": ["core.8021"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10734", "logex:hasParameterList": ["core.10734"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3613", "logex:hasParameterList": ["core.3613"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1916", "logex:hasParameterList": ["core.1916"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4246", "logex:hasParameterList": ["core.4246"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7777", "logex:hasParameterList": ["core.7777"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5935", "logex:hasParameterList": ["core.5935"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8691", "logex:hasParameterList": ["core.8691"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5512", "logex:hasParameterList": ["core.5512"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1123", "logex:hasParameterList": ["core.1123"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1641", "logex:hasParameterList": ["core.1641"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 0, at 0x1b858ca0, mask 0x40", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor", "logex:hasParameterList": ["", "/p/gb2/welcome3/32k_128x256x1_8x4x4.map:"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "CE sym 0, at 0x1b858280, mask 0x40", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "CE sym 22, at 0x049af800, mask 0x02", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.1165", "logex:hasParameterList": ["core.1165"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23615", "logex:hasParameterList": ["core.23615"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.865", "logex:hasParameterList": ["core.865"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1626", "logex:hasParameterList": ["core.1626"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16594", "logex:hasParameterList": ["core.16594"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30586", "logex:hasParameterList": ["core.30586"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18540", "logex:hasParameterList": ["core.18540"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9825", "logex:hasParameterList": ["core.9825"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6698", "logex:hasParameterList": ["core.6698"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4525", "logex:hasParameterList": ["core.4525"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28084", "logex:hasParameterList": ["core.28084"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6028", "logex:hasParameterList": ["core.6028"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.536", "logex:hasParameterList": ["core.536"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15655", "logex:hasParameterList": ["core.15655"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8628", "logex:hasParameterList": ["core.8628"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12122", "logex:hasParameterList": ["core.12122"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2210", "logex:hasParameterList": ["core.2210"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10312", "logex:hasParameterList": ["core.10312"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.228", "logex:hasParameterList": ["core.228"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.332", "logex:hasParameterList": ["core.332"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15740", "logex:hasParameterList": ["core.15740"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3389", "logex:hasParameterList": ["core.3389"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "logex:hasParameterList": ["10.0.0.151", "ip=10.0.0.151", "2", "08"], "logex:hasNERtag": ["ip", "domain", "time", "time"]}
+{"logex:example": "Can not get assembly information for node card", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "458720 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1146800 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.1114", "logex:hasParameterList": ["core.1114"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.848", "logex:hasParameterList": ["core.848"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2117", "logex:hasParameterList": ["core.2117"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3293", "logex:hasParameterList": ["core.3293"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1351", "logex:hasParameterList": ["core.1351"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17222", "logex:hasParameterList": ["core.17222"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20392", "logex:hasParameterList": ["core.20392"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.31006", "logex:hasParameterList": ["core.31006"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20088", "logex:hasParameterList": ["core.20088"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26993", "logex:hasParameterList": ["core.26993"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20954", "logex:hasParameterList": ["core.20954"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6139", "logex:hasParameterList": ["core.6139"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10185", "logex:hasParameterList": ["core.10185"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13776", "logex:hasParameterList": ["core.13776"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19596", "logex:hasParameterList": ["core.19596"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15557", "logex:hasParameterList": ["core.15557"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4193", "logex:hasParameterList": ["core.4193"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7539", "logex:hasParameterList": ["core.7539"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22024", "logex:hasParameterList": ["core.22024"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22905", "logex:hasParameterList": ["core.22905"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24671", "logex:hasParameterList": ["core.24671"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17853", "logex:hasParameterList": ["core.17853"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25568", "logex:hasParameterList": ["core.25568"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23080", "logex:hasParameterList": ["core.23080"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9739", "logex:hasParameterList": ["core.9739"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7187", "logex:hasParameterList": ["core.7187"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23438", "logex:hasParameterList": ["core.23438"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7881", "logex:hasParameterList": ["core.7881"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9778", "logex:hasParameterList": ["core.9778"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7915", "logex:hasParameterList": ["core.7915"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3006", "logex:hasParameterList": ["core.3006"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14627", "logex:hasParameterList": ["core.14627"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2348", "logex:hasParameterList": ["core.2348"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.226", "logex:hasParameterList": ["core.226"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1219", "logex:hasParameterList": ["core.1219"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8877", "logex:hasParameterList": ["core.8877"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13558", "logex:hasParameterList": ["core.13558"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.404", "logex:hasParameterList": ["core.404"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile", "logex:hasParameterList": ["", "/home/auselton/bgl/64mps.sequential.mapfile"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.631", "logex:hasParameterList": ["core.631"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.998", "logex:hasParameterList": ["core.998"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1129", "logex:hasParameterList": ["core.1129"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.424", "logex:hasParameterList": ["core.424"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1213", "logex:hasParameterList": ["core.1213"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1433", "logex:hasParameterList": ["core.1433"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2950", "logex:hasParameterList": ["core.2950"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.319", "logex:hasParameterList": ["core.319"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.303", "logex:hasParameterList": ["core.303"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1998", "logex:hasParameterList": ["core.1998"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "632431728 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "634368144 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "632254896 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "633283776 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.841", "logex:hasParameterList": ["core.841"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.815", "logex:hasParameterList": ["core.815"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.57762", "logex:hasParameterList": ["core.57762"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3436", "logex:hasParameterList": ["core.3436"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4592", "logex:hasParameterList": ["core.4592"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.149", "logex:hasParameterList": ["core.149"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.62507", "logex:hasParameterList": ["core.62507"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1807", "logex:hasParameterList": ["core.1807"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "Node card is not fully functional", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map", "logex:hasParameterList": ["", "/p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required", "logex:hasParameterList": ["", "/p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map:"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "generating core.9652", "logex:hasParameterList": ["core.9652"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11154", "logex:hasParameterList": ["core.11154"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7571", "logex:hasParameterList": ["core.7571"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12364", "logex:hasParameterList": ["core.12364"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13817", "logex:hasParameterList": ["core.13817"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14349", "logex:hasParameterList": ["core.14349"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8897", "logex:hasParameterList": ["core.8897"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7946", "logex:hasParameterList": ["core.7946"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10299", "logex:hasParameterList": ["core.10299"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9949", "logex:hasParameterList": ["core.9949"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12012", "logex:hasParameterList": ["core.12012"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9051", "logex:hasParameterList": ["core.9051"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7752", "logex:hasParameterList": ["core.7752"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10793", "logex:hasParameterList": ["core.10793"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24671", "logex:hasParameterList": ["core.24671"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.40979", "logex:hasParameterList": ["core.40979"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18129", "logex:hasParameterList": ["core.18129"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.47738", "logex:hasParameterList": ["core.47738"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.42109", "logex:hasParameterList": ["core.42109"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6682", "logex:hasParameterList": ["core.6682"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7672", "logex:hasParameterList": ["core.7672"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.47122", "logex:hasParameterList": ["core.47122"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17493", "logex:hasParameterList": ["core.17493"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23664", "logex:hasParameterList": ["core.23664"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19296", "logex:hasParameterList": ["core.19296"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6553", "logex:hasParameterList": ["core.6553"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.56320", "logex:hasParameterList": ["core.56320"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3824", "logex:hasParameterList": ["core.3824"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5781", "logex:hasParameterList": ["core.5781"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.55191", "logex:hasParameterList": ["core.55191"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.38077", "logex:hasParameterList": ["core.38077"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.41557", "logex:hasParameterList": ["core.41557"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.36539", "logex:hasParameterList": ["core.36539"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.51900", "logex:hasParameterList": ["core.51900"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.33018", "logex:hasParameterList": ["core.33018"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29433", "logex:hasParameterList": ["core.29433"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.36248", "logex:hasParameterList": ["core.36248"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.41080", "logex:hasParameterList": ["core.41080"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.57878", "logex:hasParameterList": ["core.57878"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.245", "logex:hasParameterList": ["core.245"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2315", "logex:hasParameterList": ["core.2315"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30603", "logex:hasParameterList": ["core.30603"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17517", "logex:hasParameterList": ["core.17517"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2633", "logex:hasParameterList": ["core.2633"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.50240", "logex:hasParameterList": ["core.50240"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10211", "logex:hasParameterList": ["core.10211"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.57863", "logex:hasParameterList": ["core.57863"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.51808", "logex:hasParameterList": ["core.51808"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.59907", "logex:hasParameterList": ["core.59907"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25382", "logex:hasParameterList": ["core.25382"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8646", "logex:hasParameterList": ["core.8646"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7167", "logex:hasParameterList": ["core.7167"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14589", "logex:hasParameterList": ["core.14589"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2300", "logex:hasParameterList": ["core.2300"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14652", "logex:hasParameterList": ["core.14652"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14807", "logex:hasParameterList": ["core.14807"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.31758", "logex:hasParameterList": ["core.31758"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7205", "logex:hasParameterList": ["core.7205"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10247", "logex:hasParameterList": ["core.10247"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30230", "logex:hasParameterList": ["core.30230"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2299", "logex:hasParameterList": ["core.2299"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28666", "logex:hasParameterList": ["core.28666"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2481", "logex:hasParameterList": ["core.2481"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.52376", "logex:hasParameterList": ["core.52376"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10930", "logex:hasParameterList": ["core.10930"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.51134", "logex:hasParameterList": ["core.51134"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5235", "logex:hasParameterList": ["core.5235"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.50841", "logex:hasParameterList": ["core.50841"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.48433", "logex:hasParameterList": ["core.48433"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.34955", "logex:hasParameterList": ["core.34955"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.46408", "logex:hasParameterList": ["core.46408"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.35872", "logex:hasParameterList": ["core.35872"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.133", "logex:hasParameterList": ["core.133"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4622", "logex:hasParameterList": ["core.4622"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.58351", "logex:hasParameterList": ["core.58351"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9158", "logex:hasParameterList": ["core.9158"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22376", "logex:hasParameterList": ["core.22376"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12329", "logex:hasParameterList": ["core.12329"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4035", "logex:hasParameterList": ["core.4035"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15459", "logex:hasParameterList": ["core.15459"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.55384", "logex:hasParameterList": ["core.55384"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5342", "logex:hasParameterList": ["core.5342"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.46559", "logex:hasParameterList": ["core.46559"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25604", "logex:hasParameterList": ["core.25604"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.61172", "logex:hasParameterList": ["core.61172"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25271", "logex:hasParameterList": ["core.25271"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.34015", "logex:hasParameterList": ["core.34015"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.63070", "logex:hasParameterList": ["core.63070"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.31192", "logex:hasParameterList": ["core.31192"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.40344", "logex:hasParameterList": ["core.40344"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.62462", "logex:hasParameterList": ["core.62462"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.40528", "logex:hasParameterList": ["core.40528"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.42234", "logex:hasParameterList": ["core.42234"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23259", "logex:hasParameterList": ["core.23259"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24314", "logex:hasParameterList": ["core.24314"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4180", "logex:hasParameterList": ["core.4180"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24538", "logex:hasParameterList": ["core.24538"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26078", "logex:hasParameterList": ["core.26078"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30706", "logex:hasParameterList": ["core.30706"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8147", "logex:hasParameterList": ["core.8147"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.57391", "logex:hasParameterList": ["core.57391"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11784", "logex:hasParameterList": ["core.11784"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.61963", "logex:hasParameterList": ["core.61963"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.33163", "logex:hasParameterList": ["core.33163"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30275", "logex:hasParameterList": ["core.30275"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15753", "logex:hasParameterList": ["core.15753"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7362", "logex:hasParameterList": ["core.7362"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8575", "logex:hasParameterList": ["core.8575"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9784", "logex:hasParameterList": ["core.9784"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11921", "logex:hasParameterList": ["core.11921"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11879", "logex:hasParameterList": ["core.11879"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13067", "logex:hasParameterList": ["core.13067"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13131", "logex:hasParameterList": ["core.13131"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14071", "logex:hasParameterList": ["core.14071"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8544", "logex:hasParameterList": ["core.8544"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8531", "logex:hasParameterList": ["core.8531"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13946", "logex:hasParameterList": ["core.13946"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16095", "logex:hasParameterList": ["core.16095"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7183", "logex:hasParameterList": ["core.7183"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1988", "logex:hasParameterList": ["core.1988"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2347", "logex:hasParameterList": ["core.2347"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2790", "logex:hasParameterList": ["core.2790"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2573", "logex:hasParameterList": ["core.2573"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3985", "logex:hasParameterList": ["core.3985"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13592", "logex:hasParameterList": ["core.13592"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10019", "logex:hasParameterList": ["core.10019"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10842", "logex:hasParameterList": ["core.10842"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8138", "logex:hasParameterList": ["core.8138"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "1365301360 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1315337824 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "1401390016 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.32657", "logex:hasParameterList": ["core.32657"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26835", "logex:hasParameterList": ["core.26835"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28242", "logex:hasParameterList": ["core.28242"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20970", "logex:hasParameterList": ["core.20970"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18514", "logex:hasParameterList": ["core.18514"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19321", "logex:hasParameterList": ["core.19321"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13753", "logex:hasParameterList": ["core.13753"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23542", "logex:hasParameterList": ["core.23542"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28918", "logex:hasParameterList": ["core.28918"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.21145", "logex:hasParameterList": ["core.21145"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8832", "logex:hasParameterList": ["core.8832"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20015", "logex:hasParameterList": ["core.20015"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11564", "logex:hasParameterList": ["core.11564"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1557", "logex:hasParameterList": ["core.1557"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5167", "logex:hasParameterList": ["core.5167"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3111", "logex:hasParameterList": ["core.3111"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7193", "logex:hasParameterList": ["core.7193"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5861", "logex:hasParameterList": ["core.5861"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15425", "logex:hasParameterList": ["core.15425"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.560", "logex:hasParameterList": ["core.560"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5760", "logex:hasParameterList": ["core.5760"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13752", "logex:hasParameterList": ["core.13752"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10860", "logex:hasParameterList": ["core.10860"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12536", "logex:hasParameterList": ["core.12536"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19744", "logex:hasParameterList": ["core.19744"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8803", "logex:hasParameterList": ["core.8803"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28238", "logex:hasParameterList": ["core.28238"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12643", "logex:hasParameterList": ["core.12643"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12927", "logex:hasParameterList": ["core.12927"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6917", "logex:hasParameterList": ["core.6917"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.21353", "logex:hasParameterList": ["core.21353"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17276", "logex:hasParameterList": ["core.17276"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26955", "logex:hasParameterList": ["core.26955"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11135", "logex:hasParameterList": ["core.11135"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6711", "logex:hasParameterList": ["core.6711"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22283", "logex:hasParameterList": ["core.22283"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.21175", "logex:hasParameterList": ["core.21175"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28329", "logex:hasParameterList": ["core.28329"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20367", "logex:hasParameterList": ["core.20367"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23838", "logex:hasParameterList": ["core.23838"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16300", "logex:hasParameterList": ["core.16300"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7623", "logex:hasParameterList": ["core.7623"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1957", "logex:hasParameterList": ["core.1957"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3292", "logex:hasParameterList": ["core.3292"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3249", "logex:hasParameterList": ["core.3249"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2606", "logex:hasParameterList": ["core.2606"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2233", "logex:hasParameterList": ["core.2233"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3959", "logex:hasParameterList": ["core.3959"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2880", "logex:hasParameterList": ["core.2880"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3792", "logex:hasParameterList": ["core.3792"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2971", "logex:hasParameterList": ["core.2971"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3269", "logex:hasParameterList": ["core.3269"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24376", "logex:hasParameterList": ["core.24376"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.31435", "logex:hasParameterList": ["core.31435"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3851", "logex:hasParameterList": ["core.3851"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20257", "logex:hasParameterList": ["core.20257"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.32257", "logex:hasParameterList": ["core.32257"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7068", "logex:hasParameterList": ["core.7068"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4329", "logex:hasParameterList": ["core.4329"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16600", "logex:hasParameterList": ["core.16600"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6519", "logex:hasParameterList": ["core.6519"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15313", "logex:hasParameterList": ["core.15313"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.16623", "logex:hasParameterList": ["core.16623"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10429", "logex:hasParameterList": ["core.10429"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.32116", "logex:hasParameterList": ["core.32116"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15924", "logex:hasParameterList": ["core.15924"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 2, at 0x0d09f1c0, mask 0x80", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory", "logex:hasParameterList": ["", "/home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex:"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "rts panic! - stopping execution", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "rts panic! - stopping execution", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.9079", "logex:hasParameterList": ["core.9079"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6425", "logex:hasParameterList": ["core.6425"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3400", "logex:hasParameterList": ["core.3400"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.6711", "logex:hasParameterList": ["core.6711"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2263", "logex:hasParameterList": ["core.2263"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9386", "logex:hasParameterList": ["core.9386"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4061", "logex:hasParameterList": ["core.4061"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14070", "logex:hasParameterList": ["core.14070"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14021", "logex:hasParameterList": ["core.14021"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1715", "logex:hasParameterList": ["core.1715"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4489", "logex:hasParameterList": ["core.4489"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2092", "logex:hasParameterList": ["core.2092"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5967", "logex:hasParameterList": ["core.5967"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "total of 1 ddr error(s) detected and corrected", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "118661512 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "112099344 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "113170696 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "117400328 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "112762744 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "116130784 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "114147592 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "113622512 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "114059360 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "114091808 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "115325776 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "113982272 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "113355952 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "115193048 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "111990296 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "112625368 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "116249832 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "112481672 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "116332728 double-hummer alignment exceptions", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.691", "logex:hasParameterList": ["core.691"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.52403", "logex:hasParameterList": ["core.52403"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12883", "logex:hasParameterList": ["core.12883"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4159", "logex:hasParameterList": ["core.4159"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5054", "logex:hasParameterList": ["core.5054"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17150", "logex:hasParameterList": ["core.17150"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.47314", "logex:hasParameterList": ["core.47314"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5520", "logex:hasParameterList": ["core.5520"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17817", "logex:hasParameterList": ["core.17817"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.34898", "logex:hasParameterList": ["core.34898"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.47007", "logex:hasParameterList": ["core.47007"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18363", "logex:hasParameterList": ["core.18363"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22494", "logex:hasParameterList": ["core.22494"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "CE sym 16, at 0x0456cd40, mask 0x04", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.26059", "logex:hasParameterList": ["core.26059"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17999", "logex:hasParameterList": ["core.17999"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30671", "logex:hasParameterList": ["core.30671"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2600", "logex:hasParameterList": ["core.2600"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15192", "logex:hasParameterList": ["core.15192"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26224", "logex:hasParameterList": ["core.26224"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.25712", "logex:hasParameterList": ["core.25712"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22807", "logex:hasParameterList": ["core.22807"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.284", "logex:hasParameterList": ["core.284"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5381", "logex:hasParameterList": ["core.5381"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27051", "logex:hasParameterList": ["core.27051"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29420", "logex:hasParameterList": ["core.29420"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8374", "logex:hasParameterList": ["core.8374"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15966", "logex:hasParameterList": ["core.15966"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7855", "logex:hasParameterList": ["core.7855"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2296", "logex:hasParameterList": ["core.2296"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1103", "logex:hasParameterList": ["core.1103"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.2010", "logex:hasParameterList": ["core.2010"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3181", "logex:hasParameterList": ["core.3181"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.32010", "logex:hasParameterList": ["core.32010"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9651", "logex:hasParameterList": ["core.9651"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10057", "logex:hasParameterList": ["core.10057"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5939", "logex:hasParameterList": ["core.5939"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12984", "logex:hasParameterList": ["core.12984"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17467", "logex:hasParameterList": ["core.17467"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29367", "logex:hasParameterList": ["core.29367"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14852", "logex:hasParameterList": ["core.14852"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4862", "logex:hasParameterList": ["core.4862"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27323", "logex:hasParameterList": ["core.27323"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26646", "logex:hasParameterList": ["core.26646"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5428", "logex:hasParameterList": ["core.5428"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.12212", "logex:hasParameterList": ["core.12212"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3343", "logex:hasParameterList": ["core.3343"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19942", "logex:hasParameterList": ["core.19942"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18324", "logex:hasParameterList": ["core.18324"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3510", "logex:hasParameterList": ["core.3510"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17851", "logex:hasParameterList": ["core.17851"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30632", "logex:hasParameterList": ["core.30632"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26735", "logex:hasParameterList": ["core.26735"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.18689", "logex:hasParameterList": ["core.18689"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27698", "logex:hasParameterList": ["core.27698"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.10645", "logex:hasParameterList": ["core.10645"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5009", "logex:hasParameterList": ["core.5009"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5785", "logex:hasParameterList": ["core.5785"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4505", "logex:hasParameterList": ["core.4505"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27577", "logex:hasParameterList": ["core.27577"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.32755", "logex:hasParameterList": ["core.32755"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30675", "logex:hasParameterList": ["core.30675"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11493", "logex:hasParameterList": ["core.11493"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.5671", "logex:hasParameterList": ["core.5671"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27926", "logex:hasParameterList": ["core.27926"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15967", "logex:hasParameterList": ["core.15967"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24172", "logex:hasParameterList": ["core.24172"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29732", "logex:hasParameterList": ["core.29732"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17526", "logex:hasParameterList": ["core.17526"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.19481", "logex:hasParameterList": ["core.19481"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23873", "logex:hasParameterList": ["core.23873"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14603", "logex:hasParameterList": ["core.14603"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15737", "logex:hasParameterList": ["core.15737"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23119", "logex:hasParameterList": ["core.23119"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.14824", "logex:hasParameterList": ["core.14824"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.15648", "logex:hasParameterList": ["core.15648"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.7156", "logex:hasParameterList": ["core.7156"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22967", "logex:hasParameterList": ["core.22967"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.3980", "logex:hasParameterList": ["core.3980"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11473", "logex:hasParameterList": ["core.11473"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.13043", "logex:hasParameterList": ["core.13043"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.28011", "logex:hasParameterList": ["core.28011"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27197", "logex:hasParameterList": ["core.27197"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27704", "logex:hasParameterList": ["core.27704"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.9337", "logex:hasParameterList": ["core.9337"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22886", "logex:hasParameterList": ["core.22886"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22325", "logex:hasParameterList": ["core.22325"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.23998", "logex:hasParameterList": ["core.23998"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied", "logex:hasParameterList": ["", "/home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map:"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map", "logex:hasParameterList": ["", "/p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map"], "logex:hasNERtag": ["path", "domain"]}
+{"logex:example": "generating core.4615", "logex:hasParameterList": ["core.4615"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1682", "logex:hasParameterList": ["core.1682"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.896", "logex:hasParameterList": ["core.896"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4675", "logex:hasParameterList": ["core.4675"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.84", "logex:hasParameterList": ["core.84"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.1227", "logex:hasParameterList": ["core.1227"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7", "logex:hasParameterList": [], "logex:hasNERtag": []}
+{"logex:example": "generating core.59955", "logex:hasParameterList": ["core.59955"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.38143", "logex:hasParameterList": ["core.38143"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.41718", "logex:hasParameterList": ["core.41718"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29431", "logex:hasParameterList": ["core.29431"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.33399", "logex:hasParameterList": ["core.33399"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.11379", "logex:hasParameterList": ["core.11379"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.36339", "logex:hasParameterList": ["core.36339"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.42833", "logex:hasParameterList": ["core.42833"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20595", "logex:hasParameterList": ["core.20595"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17560", "logex:hasParameterList": ["core.17560"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.17212", "logex:hasParameterList": ["core.17212"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.26131", "logex:hasParameterList": ["core.26131"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.45777", "logex:hasParameterList": ["core.45777"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.62940", "logex:hasParameterList": ["core.62940"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.27867", "logex:hasParameterList": ["core.27867"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.21016", "logex:hasParameterList": ["core.21016"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.465", "logex:hasParameterList": ["core.465"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.55352", "logex:hasParameterList": ["core.55352"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.44723", "logex:hasParameterList": ["core.44723"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.36787", "logex:hasParameterList": ["core.36787"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29903", "logex:hasParameterList": ["core.29903"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.33706", "logex:hasParameterList": ["core.33706"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.8879", "logex:hasParameterList": ["core.8879"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.50505", "logex:hasParameterList": ["core.50505"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29899", "logex:hasParameterList": ["core.29899"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.46536", "logex:hasParameterList": ["core.46536"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.50988", "logex:hasParameterList": ["core.50988"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22273", "logex:hasParameterList": ["core.22273"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.46157", "logex:hasParameterList": ["core.46157"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.59042", "logex:hasParameterList": ["core.59042"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.29543", "logex:hasParameterList": ["core.29543"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.22119", "logex:hasParameterList": ["core.22119"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.4900", "logex:hasParameterList": ["core.4900"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.30256", "logex:hasParameterList": ["core.30256"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.64146", "logex:hasParameterList": ["core.64146"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.58328", "logex:hasParameterList": ["core.58328"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20241", "logex:hasParameterList": ["core.20241"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.24337", "logex:hasParameterList": ["core.24337"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.21045", "logex:hasParameterList": ["core.21045"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.47256", "logex:hasParameterList": ["core.47256"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.45183", "logex:hasParameterList": ["core.45183"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.46654", "logex:hasParameterList": ["core.46654"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.21374", "logex:hasParameterList": ["core.21374"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.45880", "logex:hasParameterList": ["core.45880"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.20691", "logex:hasParameterList": ["core.20691"], "logex:hasNERtag": ["domain"]}
+{"logex:example": "generating core.45943", "logex:hasParameterList": ["core.45943"], "logex:hasNERtag": ["domain"]}

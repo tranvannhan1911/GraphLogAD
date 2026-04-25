@@ -1,0 +1,902 @@
+(venv) tranvannhan1911@MacBook-Pro-cua-Nhan-Tran GraphLogAD % source .env && python main.py \
+    --root ${ROOT} \
+    --checkpoint_dir ${CKPT} \
+    --train_batch_size ${TRAIN_BATCH_SIZE} \
+    --eval_batch_size ${EVAL_BATCH_SIZE} \
+    --model_type ${MODEL_TYPE} \
+    --pretrained_model_path ${MODEL_PATH} \
+    --lambda_seq ${LAMBDA} \
+    --classification ${CLASSIFICATION} \
+    --max_length ${MAX_LENGTH} \
+    --lr ${LR} \
+    --layers ${LAYERS} \
+    --weight_decay ${WEIGHT_DECAY} \
+    --do_train \
+    --do_eval \
+    --multi_granularity \
+    --global_weight ${GLOBAL_WEIGHT} \
+    --from_scratch
+!!!!!!!!!!! Graph Neural Network MODEL !!!!!!!!!!!
+Global seed set to 42
+Getting datasets ...
+Using default argument for "using_event_template"
+Using default argument for "batch_size"
+Total relations: 6066, total anomalous relations: 414
+Total graphs: 1983, anomaly graphs: 141
+Train data size: 1178, validation data size: 295, test data size: 510, test anomaly ratio: 0.2765
+NO SHUFFLING FOR TRAIN DATA LOADER !!!
+Created DynamicEncoderDecoder module 
+DynamicEncoderDecoder(
+  (wpe): Embedding(512, 768)
+  (seq2seq): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(997, 768)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (1): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (2): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (3): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (4): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (5): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (6): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (7): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (8): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (9): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (10): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (11): BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (shared_encoder): GCN(768, 768, num_layers=2)
+  (attr_decoder): GCN(768, 768, num_layers=1)
+  (struct_decoder): GCN(768, 768, num_layers=0)
+) 
+with 1 GPUs 4 workers
+View tensorboard logs by running
+tensorboard --logdir checkpoints and going to http://localhost:6006 on your browser
+!! TRAINING FROM SCRATCH !!
+GPU available: True (mps), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+0:00:00.000021 - Created Trainer object
+/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/venv/lib/python3.10/site-packages/pytorch_lightning/callbacks/model_checkpoint.py:613: UserWarning: Checkpoint directory checkpoints exists and is not empty.
+  rank_zero_warn(f"Checkpoint directory {dirpath} exists and is not empty.")
+
+  | Name  | Type                  | Params
+------------------------------------------------
+0 | model | DynamicEncoderDecoder | 90.7 M
+------------------------------------------------
+90.7 M    Trainable params
+0         Non-trainable params
+90.7 M    Total params
+362.975   Total estimated model params size (MB)
+Sanity Checking DataLoader 0:   0%|                                                                                           | 0/2 [00:00<?, ?it/s]/Users/tranvannhan1911/Documents/Masters/Lab/GraphLogAD/utils.py:124: UserWarning: The operator 'aten::cumsum.out' is not currently supported on the MPS backend and will fall back to run on the CPU. This may have performance implications. (Triggered internally at /Users/runner/work/pytorch/pytorch/pytorch/aten/src/ATen/mps/MPSFallback.mm:11.)
+  cum_nodes = torch.cat([batch.new_zeros(1), num_nodes.cumsum(dim=0)])
+Sanity Checking DataLoader 0: 100%|███████████████████████████████████████████████████████████████████████████████████| 2/2 [00:03<00:00,  1.94s/it]Epoch 0 avg val_loss: 1307.4372302207828
+Epoch 0:  79%|████████████████████████████████████████████████████████████████████████▊                   | 19/24 [00:30<00:08,  1.61s/it, loss=441]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 0: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:44<00:00,  1.87s/it, loss=441]Epoch 0 avg val_loss: 295.48682991403047██████████████████████████████████████████████████████████████████████████████| 5/5 [00:02<00:00,  2.19it/s]
+Epoch 0: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:44<00:00,  1.87s/it, loss=441Epoch 0 max thre 1211.1562, 80% thre 600.9454, mean thre 447.6266                                                                                    
+Epoch 1:   0%|                                                                                                     | 0/24 [00:00<?, ?it/s, loss=441]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 1:  79%|████████████████████████████████████████████████████████████████████████▊                   | 19/24 [00:24<00:06,  1.29s/it, loss=341]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 1: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:37<00:00,  1.57s/it, loss=341]Epoch 1 avg val_loss: 244.11215395484464██████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  3.97it/s]
+Epoch 1: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:37<00:00,  1.57s/it, loss=341Epoch 1 max thre 1780.5653, 80% thre 299.7112, mean thre 357.7502                                                                                    
+Epoch 2:   0%|                                                                                                     | 0/24 [00:00<?, ?it/s, loss=341]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 2:  79%|████████████████████████████████████████████████████████████████████████▊                   | 19/24 [00:25<00:06,  1.33s/it, loss=218]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 2: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:39<00:00,  1.65s/it, loss=218]Epoch 2 avg val_loss: 201.29728550728552██████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  5.93it/s]
+Epoch 2: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:39<00:00,  1.65s/it, loss=218Epoch 2 max thre 263.6444, 80% thre 238.3714, mean thre 223.7534                                                                                     
+Epoch 3:   0%|                                                                                                     | 0/24 [00:00<?, ?it/s, loss=218]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 3:  79%|████████████████████████████████████████████████████████████████████████▊                   | 19/24 [00:27<00:07,  1.46s/it, loss=175]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 3: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:43<00:00,  1.80s/it, loss=175]Epoch 3 avg val_loss: 165.8809567435843███████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  3.20it/s]
+Epoch 3: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:43<00:00,  1.80s/it, loss=175Epoch 3 max thre 211.6376, 80% thre 193.6172, mean thre 179.7100                                                                                     
+Epoch 4:   0%|                                                                                                     | 0/24 [00:00<?, ?it/s, loss=175]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 4:  79%|████████████████████████████████████████████████████████████████████████▊                   | 19/24 [00:36<00:09,  1.91s/it, loss=139]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 4: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:55<00:00,  2.30s/it, loss=139]Epoch 4 avg val_loss: 166.97028279955921██████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  3.04it/s]
+Epoch 4: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:55<00:00,  2.30s/it, loss=139Epoch 4 max thre 191.6328, 80% thre 152.7596, mean thre 142.4326                                                                                     
+Epoch 5:   0%|                                                                                                     | 0/24 [00:00<?, ?it/s, loss=139]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 5:  79%|████████████████████████████████████████████████████████████████████████▊                   | 19/24 [00:27<00:07,  1.47s/it, loss=114]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 5: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:45<00:00,  1.89s/it, loss=114]Epoch 5 avg val_loss: 113.04408329822978██████████████████████████████████████████████████████████████████████████████| 5/5 [00:02<00:00,  2.47it/s]
+Epoch 5: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:45<00:00,  1.89s/it, loss=114Epoch 5 max thre 177.9942, 80% thre 127.8064, mean thre 115.7386                                                                                     
+Epoch 6:   0%|                                                                                                     | 0/24 [00:00<?, ?it/s, loss=114]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 6:  79%|████████████████████████████████████████████████████████████████████████                   | 19/24 [00:27<00:07,  1.44s/it, loss=86.6]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 6: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:47<00:00,  1.98s/it, loss=86.6]Epoch 6 avg val_loss: 83.42061769245753███████████████████████████████████████████████████████████████████████████████| 5/5 [00:02<00:00,  2.33it/s]
+Epoch 6: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:47<00:00,  1.98s/it, loss=86.6Epoch 6 max thre 137.5081, 80% thre 94.5941, mean thre 88.3661                                                                                       
+Epoch 7:   0%|                                                                                                    | 0/24 [00:00<?, ?it/s, loss=86.6]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 7:  79%|████████████████████████████████████████████████████████████████████████                   | 19/24 [00:29<00:07,  1.57s/it, loss=65.7]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 7: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:48<00:00,  2.01s/it, loss=65.7]Epoch 7 avg val_loss: 58.967152866509444██████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  5.06it/s]
+Epoch 7: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:48<00:00,  2.01s/it, loss=65.7Epoch 7 max thre 119.1860, 80% thre 72.5092, mean thre 67.0755                                                                                       
+Epoch 8:   0%|                                                                                                    | 0/24 [00:00<?, ?it/s, loss=65.7]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 8:  79%|████████████████████████████████████████████████████████████████████████                   | 19/24 [00:31<00:08,  1.67s/it, loss=47.2]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 8: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:45<00:00,  1.89s/it, loss=47.2]Epoch 8 avg val_loss: 40.62708235568687███████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  6.83it/s]
+Epoch 8: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:45<00:00,  1.89s/it, loss=47.2Epoch 8 max thre 100.1992, 80% thre 52.9481, mean thre 48.1936                                                                                       
+Epoch 9:   0%|                                                                                                    | 0/24 [00:00<?, ?it/s, loss=47.2]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 9:  79%|████████████████████████████████████████████████████████████████████████                   | 19/24 [00:26<00:07,  1.40s/it, loss=31.9]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:39<00:00,  1.64s/it, loss=31.9]Epoch 9 avg val_loss: 25.596225735919724██████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  3.18it/s]
+Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:39<00:00,  1.64s/it, loss=31.9Epoch 9 max thre 74.8496, 80% thre 37.0464, mean thre 32.5634                                                                                        
+Epoch 10:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=31.9]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 10:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:21<00:05,  1.11s/it, loss=19.9]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 10: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:33<00:00,  1.41s/it, loss=19.9]Epoch 10 avg val_loss: 14.460079961787157█████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  7.85it/s]
+Epoch 10: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:33<00:00,  1.41s/it, loss=19.9Epoch 10 max thre 56.4509, 80% thre 23.4004, mean thre 20.1987                                                                                       
+Epoch 11:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=19.9]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 11:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:19<00:05,  1.04s/it, loss=12.5]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 11: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:31<00:00,  1.31s/it, loss=12.5]Epoch 11 avg val_loss: 7.986002150129099██████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  7.44it/s]
+Epoch 11: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:31<00:00,  1.31s/it, loss=12.5Epoch 11 max thre 57.1155, 80% thre 14.8034, mean thre 12.6311                                                                                       
+Epoch 12:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=12.5]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 12:  79%|████████████████████████████████████████████████████████████████████████                   | 19/24 [00:25<00:06,  1.37s/it, loss=6.3]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 12: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:41<00:00,  1.74s/it, loss=6.3]Epoch 12 avg val_loss: 5.093906509420259██████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  7.27it/s]
+Epoch 12: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:41<00:00,  1.74s/it, loss=6.3Epoch 12 max thre 31.2019, 80% thre 7.5970, mean thre 6.2846                                                                                         
+Epoch 13:   0%|                                                                                                    | 0/24 [00:00<?, ?it/s, loss=6.3]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 13:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:34<00:09,  1.82s/it, loss=4.82]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 13: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:52<00:00,  2.19s/it, loss=4.82]Epoch 13 avg val_loss: 4.53606547879391███████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  2.67it/s]
+Epoch 13: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:52<00:00,  2.19s/it, loss=4.82Epoch 13 max thre 24.4398, 80% thre 5.6600, mean thre 4.8838                                                                                         
+Epoch 14:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=4.82]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 14:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:27<00:07,  1.44s/it, loss=3.58]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 14: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:43<00:00,  1.81s/it, loss=3.58]Epoch 14 avg val_loss: 4.6197103854737████████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  5.35it/s]
+Epoch 14: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:43<00:00,  1.81s/it, loss=3.58Epoch 14 max thre 13.0190, 80% thre 4.4471, mean thre 3.5844                                                                                         
+Epoch 15:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=3.58]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 15:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:35<00:09,  1.85s/it, loss=3.25]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Epoch 15: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:54<00:00,  2.25s/it, loss=3.25]Epoch 15 avg val_loss: 3.859907383475799██████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  4.96it/s]
+Epoch 15: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:54<00:00,  2.25s/it, loss=3.25Epoch 15 max thre 7.9342, 80% thre 4.1931, mean thre 3.2518                                                                                          
+Epoch 16:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=3.25]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(58930) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58935) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 16:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:33<00:08,  1.75s/it, loss=3.08]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(58949) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58956) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58962) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58964) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 16: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:50<00:00,  2.12s/it, loss=3.08]Epoch 16 avg val_loss: 3.664555753189358██████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  5.03it/s]
+Epoch 16: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:50<00:00,  2.12s/it, loss=3.08Epoch 16 max thre 7.6750, 80% thre 4.0721, mean thre 3.0887                                                                                          
+Epoch 17:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=3.08]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(58980) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58987) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58992) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58996) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 17:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:27<00:07,  1.44s/it, loss=3.02]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59013) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59015) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59022) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59026) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 17: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:42<00:00,  1.76s/it, loss=3.02]Epoch 17 avg val_loss: 3.4914354063122652█████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  5.21it/s]
+Epoch 17: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:42<00:00,  1.76s/it, loss=3.02Epoch 17 max thre 5.1109, 80% thre 4.0362, mean thre 3.0198                                                                                          
+Epoch 18:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=3.02]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(59036) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59042) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59044) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59049) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 18:  79%|█████████████████████████████████████████████████████████████████████████▋                   | 19/24 [00:25<00:06,  1.33s/it, loss=3]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59066) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59072) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59078) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59081) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 18: 100%|█████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:40<00:00,  1.69s/it, loss=3]Epoch 18 avg val_loss: 3.3331818554570765█████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  5.10it/s]
+Epoch 18: 100%|█████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:40<00:00,  1.69s/it, loss=3Epoch 18 max thre 5.0937, 80% thre 4.0324, mean thre 3.0016                                                                                          
+Epoch 19:   0%|                                                                                                      | 0/24 [00:00<?, ?it/s, loss=3]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(59102) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59109) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59110) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59116) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 19:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:27<00:07,  1.46s/it, loss=2.97]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59133) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59143) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59145) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59152) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 19: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:43<00:00,  1.80s/it, loss=2.97]Epoch 19 avg val_loss: 3.136250460082716██████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  3.64it/s]
+Epoch 19: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:43<00:00,  1.80s/it, loss=2.97Epoch 19 max thre 6.1211, 80% thre 4.0243, mean thre 2.9768                                                                                          
+Epoch 20:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=2.97]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(59164) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59166) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59172) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59177) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 20:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:27<00:07,  1.43s/it, loss=2.96]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59192) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59199) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59200) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59206) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 20: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:42<00:00,  1.76s/it, loss=2.96]Epoch 20 avg val_loss: 3.3681431770976125█████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  3.12it/s]
+Epoch 20: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:42<00:00,  1.77s/it, loss=2.96Epoch 20 max thre 5.1927, 80% thre 4.0217, mean thre 2.9675                                                                                          
+Epoch 21:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=2.96]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(59222) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59234) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59240) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59243) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 21:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:23<00:06,  1.24s/it, loss=2.95]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59263) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59324) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59330) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59332) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 21: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:36<00:00,  1.50s/it, loss=2.95]Epoch 21 avg val_loss: 3.2585083966046735█████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  8.48it/s]
+Epoch 21: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:36<00:00,  1.50s/it, loss=2.95Epoch 21 max thre 5.1209, 80% thre 3.9975, mean thre 2.9554                                                                                          
+Epoch 22:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=2.95]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(59335) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59338) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59339) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59342) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 22:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:17<00:04,  1.11it/s, loss=2.94]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59350) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59351) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59354) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59355) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 22: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:27<00:00,  1.17s/it, loss=2.94]Epoch 22 avg val_loss: 3.3344227469683996█████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00, 11.82it/s]
+Epoch 22: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:28<00:00,  1.17s/it, loss=2.94Epoch 22 max thre 5.0626, 80% thre 3.9960, mean thre 2.9476                                                                                          
+Epoch 23:   0%|                                                                                                   | 0/24 [00:00<?, ?it/s, loss=2.94]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+python(59358) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59361) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59362) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59365) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 23:  79%|███████████████████████████████████████████████████████████████████████▎                  | 19/24 [00:16<00:04,  1.15it/s, loss=2.94]Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+                              python(59368) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59371) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59372) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59375) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Epoch 23: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:27<00:00,  1.16s/it, loss=2.94]Epoch 23 avg val_loss: 3.2842623327599196█████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  6.77it/s]
+Epoch 23: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:27<00:00,  1.16s/it, loss=2.94Epoch 23 max thre 5.0688, 80% thre 3.9820, mean thre 2.9393                                                                                          
+Epoch 23: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:29<00:00,  1.22s/it, loss=2.94]
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+0:19:02.284624 - Fitted model checkpoints
+Testing: 0it [00:00, ?it/s]python(59379) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59382) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59383) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59386) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Testing DataLoader 0: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:02<00:00,  3.16it/s]Predicting 1286 test samples, 346 (26.91%) anomalies, using max thre 5.0688, 80% thre 3.9820, mean thre 2.9393
+        AUC      AUPR  ACC(top80%)
+0  0.462689  0.271343     0.580871
+              precision    recall  f1-score      support
+0              0.784397  0.588298  0.672340   940.000000
+1              0.333907  0.560694  0.418554   346.000000
+accuracy       0.580871  0.580871  0.580871     0.580871
+macro avg      0.559152  0.574496  0.545447  1286.000000
+weighted avg   0.663192  0.580871  0.604059  1286.000000
+        AUC      AUPR  ACC(mean)
+0  0.462689  0.271343   0.444012
+              precision    recall  f1-score      support
+0              0.749446  0.359574  0.485981   940.000000
+1              0.279042  0.673410  0.394581   346.000000
+accuracy       0.444012  0.444012  0.444012     0.444012
+macro avg      0.514244  0.516492  0.440281  1286.000000
+weighted avg   0.622883  0.444012  0.461390  1286.000000
+Testing DataLoader 0: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:02<00:00,  3.01it/s]
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+       Test metric             DataLoader 0
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+        test_loss           3.6226868629455566
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s
+
+Timer unit: 1e-09 s

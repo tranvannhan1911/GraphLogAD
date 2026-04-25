@@ -1,0 +1,495 @@
+{"precision": 0.4144385026737968, "recall": 0.9904153354632588, "f1": 0.58435438265787}
+ip: {"T": 0, "P": 0, "TP": 0, "pre": 0, "rec": 0, "f1": 0}
+domain: {"T": 311, "P": 732, "TP": 310, "pre": 0.42349726775956287, "rec": 0.9967845659163987, "f1": 0.5944391179290508}
+path: {"T": 2, "P": 6, "TP": 0, "pre": 0.0, "rec": 0.0, "f1": 0}
+time: {"T": 0, "P": 10, "TP": 0, "pre": 0.0, "rec": 0, "f1": 0}
+{"log": "63543 double-hummer alignment exceptions", "tokens": ["63543", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "63543"]], "labels": []}
+{"log": "162 double-hummer alignment exceptions", "tokens": ["162", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "162"], ["domain", "double-hummer"]], "labels": []}
+{"log": "141 double-hummer alignment exceptions", "tokens": ["141", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "141"]], "labels": []}
+{"log": "generating core.862", "tokens": ["generating", "core.862"], "preds": [["domain", "core.862"]], "labels": [["domain", "core.862"]]}
+{"log": "generating core.3276", "tokens": ["generating", "core.3276"], "preds": [["domain", "core.3276"]], "labels": [["domain", "core.3276"]]}
+{"log": "generating core.1717", "tokens": ["generating", "core.1717"], "preds": [["domain", "core.1717"]], "labels": [["domain", "core.1717"]]}
+{"log": "generating core.3919", "tokens": ["generating", "core.3919"], "preds": [["domain", "core.3919"]], "labels": [["domain", "core.3919"]]}
+{"log": "generating core.1414", "tokens": ["generating", "core.1414"], "preds": [["domain", "core.1414"]], "labels": [["domain", "core.1414"]]}
+{"log": "generating core.3055", "tokens": ["generating", "core.3055"], "preds": [["domain", "core.3055"]], "labels": [["domain", "core.3055"]]}
+{"log": "generating core.201", "tokens": ["generating", "core.201"], "preds": [["domain", "core.201"]], "labels": [["domain", "core.201"]]}
+{"log": "generating core.412", "tokens": ["generating", "core.412"], "preds": [["domain", "core.412"]], "labels": [["domain", "core.412"]]}
+{"log": "generating core.8275", "tokens": ["generating", "core.8275"], "preds": [["domain", "core.8275"]], "labels": [["domain", "core.8275"]]}
+{"log": "generating core.4183", "tokens": ["generating", "core.4183"], "preds": [["domain", "core.4183"]], "labels": [["domain", "core.4183"]]}
+{"log": "generating core.6884", "tokens": ["generating", "core.6884"], "preds": [["domain", "core.6884"]], "labels": [["domain", "core.6884"]]}
+{"log": "force load/store alignment...............0", "tokens": ["force", "load/store", "alignment...............0"], "preds": [["domain", "force"], ["domain", "alignment...............0"]], "labels": []}
+{"log": "generating core.4155", "tokens": ["generating", "core.4155"], "preds": [["domain", "core.4155"]], "labels": [["domain", "core.4155"]]}
+{"log": "generating core.449", "tokens": ["generating", "core.449"], "preds": [["domain", "core.449"]], "labels": [["domain", "core.449"]]}
+{"log": "generating core.6990", "tokens": ["generating", "core.6990"], "preds": [["domain", "core.6990"]], "labels": [["domain", "core.6990"]]}
+{"log": "generating core.2218", "tokens": ["generating", "core.2218"], "preds": [["domain", "core.2218"]], "labels": [["domain", "core.2218"]]}
+{"log": "generating core.7518", "tokens": ["generating", "core.7518"], "preds": [["domain", "core.7518"]], "labels": [["domain", "core.7518"]]}
+{"log": "generating core.5854", "tokens": ["generating", "core.5854"], "preds": [["domain", "core.5854"]], "labels": [["domain", "core.5854"]]}
+{"log": "generating core.6896", "tokens": ["generating", "core.6896"], "preds": [["domain", "core.6896"]], "labels": [["domain", "core.6896"]]}
+{"log": "generating core.3488", "tokens": ["generating", "core.3488"], "preds": [["domain", "core.3488"]], "labels": [["domain", "core.3488"]]}
+{"log": "generating core.786", "tokens": ["generating", "core.786"], "preds": [["domain", "core.786"]], "labels": [["domain", "core.786"]]}
+{"log": "generating core.1524", "tokens": ["generating", "core.1524"], "preds": [["domain", "core.1524"]], "labels": [["domain", "core.1524"]]}
+{"log": "generating core.4937", "tokens": ["generating", "core.4937"], "preds": [["domain", "core.4937"]], "labels": [["domain", "core.4937"]]}
+{"log": "generating core.851", "tokens": ["generating", "core.851"], "preds": [["domain", "core.851"]], "labels": [["domain", "core.851"]]}
+{"log": "generating core.1588", "tokens": ["generating", "core.1588"], "preds": [["domain", "core.1588"]], "labels": [["domain", "core.1588"]]}
+{"log": "generating core.5307", "tokens": ["generating", "core.5307"], "preds": [["domain", "core.5307"]], "labels": [["domain", "core.5307"]]}
+{"log": "CE sym 5, at 0x11042a80, mask 0x04", "tokens": ["CE", "sym", "5", ",", "at", "0x11042a80", ",", "mask", "0x04"], "preds": [["domain", "CE"], ["domain", "sym"], ["domain", "5"], ["domain", ","], ["domain", "at"], ["domain", "0x11042a80"], ["domain", ","], ["domain", "0x04"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "generating core.174", "tokens": ["generating", "core.174"], "preds": [["domain", "core.174"]], "labels": [["domain", "core.174"]]}
+{"log": "ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff", "tokens": ["ciod", ":", "cpu", "0", "at", "treeaddr", "438", "sent", "unrecognized", "message", "0xffffffff"], "preds": [["domain", "ciod"], ["domain", ":"], ["domain", "cpu"], ["domain", "0"], ["domain", "at"], ["domain", "treeaddr 438"], ["domain", "0xffffffff"]], "labels": []}
+{"log": "generating core.1990", "tokens": ["generating", "core.1990"], "preds": [["domain", "core.1990"]], "labels": [["domain", "core.1990"]]}
+{"log": "generating core.2690", "tokens": ["generating", "core.2690"], "preds": [["domain", "core.2690"]], "labels": [["domain", "core.2690"]]}
+{"log": "generating core.2911", "tokens": ["generating", "core.2911"], "preds": [["domain", "core.2911"]], "labels": [["domain", "core.2911"]]}
+{"log": "generating core.122", "tokens": ["generating", "core.122"], "preds": [["domain", "core.122"]], "labels": [["domain", "core.122"]]}
+{"log": "generating core.1973", "tokens": ["generating", "core.1973"], "preds": [["domain", "core.1973"]], "labels": [["domain", "core.1973"]]}
+{"log": "1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1", "tokens": ["1", "ddr", "errors", "(", "s", ")", "detected", "and", "corrected", "on", "rank", "0", ",", "symbol", "25", ",", "bit", "1"], "preds": [["domain", "1"], ["domain", "errors"], ["domain", "s"], ["domain", ")"], ["domain", "and"], ["domain", "on"], ["domain", "rank"], ["domain", "0"], ["domain", ","], ["domain", "25"], ["domain", ","], ["domain", "1"]], "labels": []}
+{"log": "CE sym 14, at 0x06047860, mask 0x20", "tokens": ["CE", "sym", "14", ",", "at", "0x06047860", ",", "mask", "0x20"], "preds": [["domain", "CE"], ["domain", "sym"], ["domain", "14"], ["domain", ","], ["domain", "at"], ["domain", "0x06047860"], ["domain", ","], ["domain", "0x20"]], "labels": []}
+{"log": "generating core.3265", "tokens": ["generating", "core.3265"], "preds": [["domain", "core.3265"]], "labels": [["domain", "core.3265"]]}
+{"log": "generating core.1818", "tokens": ["generating", "core.1818"], "preds": [["domain", "core.1818"]], "labels": [["domain", "core.1818"]]}
+{"log": "generating core.1694", "tokens": ["generating", "core.1694"], "preds": [["domain", "core.1694"]], "labels": [["domain", "core.1694"]]}
+{"log": "generating core.3401", "tokens": ["generating", "core.3401"], "preds": [["domain", "core.3401"]], "labels": [["domain", "core.3401"]]}
+{"log": "generating core.25350", "tokens": ["generating", "core.25350"], "preds": [["domain", "core.25350"]], "labels": [["domain", "core.25350"]]}
+{"log": "generating core.1820", "tokens": ["generating", "core.1820"], "preds": [["domain", "core.1820"]], "labels": [["domain", "core.1820"]]}
+{"log": "generating core.8280", "tokens": ["generating", "core.8280"], "preds": [["domain", "core.8280"]], "labels": [["domain", "core.8280"]]}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "preds": [["domain", "error"]], "labels": []}
+{"log": "ciod: Message code 0 is not 51 or 4294967295", "tokens": ["ciod", ":", "Message", "code", "0", "is", "not", "51", "or", "4294967295"], "preds": [], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "generating core.2522", "tokens": ["generating", "core.2522"], "preds": [["domain", "core.2522"]], "labels": [["domain", "core.2522"]]}
+{"log": "generating core.1711", "tokens": ["generating", "core.1711"], "preds": [["domain", "core.1711"]], "labels": [["domain", "core.1711"]]}
+{"log": "generating core.2332", "tokens": ["generating", "core.2332"], "preds": [["domain", "core.2332"]], "labels": [["domain", "core.2332"]]}
+{"log": "generating core.4505", "tokens": ["generating", "core.4505"], "preds": [["domain", "core.4505"]], "labels": [["domain", "core.4505"]]}
+{"log": "generating core.1521", "tokens": ["generating", "core.1521"], "preds": [["domain", "core.1521"]], "labels": [["domain", "core.1521"]]}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "data address: 0x00000002", "tokens": ["data", "address", ":", "0x00000002"], "preds": [["domain", "data"], ["domain", "address"], ["domain", ": 0x00000002"]], "labels": []}
+{"log": "machine check: i-fetch......................0", "tokens": ["machine", "check", ":", "i-fetch......................0"], "preds": [["domain", "machine"], ["domain", "check"], ["domain", ":"], ["domain", "i-fetch......................0"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "machine check: i-fetch......................0", "tokens": ["machine", "check", ":", "i-fetch......................0"], "preds": [["domain", "machine"], ["domain", "check"], ["domain", ":"], ["domain", "i-fetch......................0"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "preds": [["domain", "data"], ["domain", "storage"]], "labels": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "preds": [["domain", "address"], ["domain", "0x00004ed8"]], "labels": []}
+{"log": "exception syndrome register: 0x00800000", "tokens": ["exception", "syndrome", "register", ":", "0x00800000"], "preds": [["domain", "register"], ["domain", ": 0x00800000"]], "labels": []}
+{"log": "program interrupt: illegal instruction......0", "tokens": ["program", "interrupt", ":", "illegal", "instruction......0"], "preds": [["domain", "program"], ["domain", "illegal"]], "labels": []}
+{"log": "program interrupt: illegal instruction......0", "tokens": ["program", "interrupt", ":", "illegal", "instruction......0"], "preds": [["domain", "program"], ["domain", "illegal"]], "labels": []}
+{"log": "data store interrupt caused by dcbf.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "dcbf.........0"], "preds": [["domain", "data"], ["domain", "store"], ["domain", "by"], ["domain", "dcbf.........0"]], "labels": []}
+{"log": "machine check: i-fetch......................0", "tokens": ["machine", "check", ":", "i-fetch......................0"], "preds": [["domain", "machine"], ["domain", "check"], ["domain", ":"], ["domain", "i-fetch......................0"]], "labels": []}
+{"log": "program interrupt: illegal instruction......0", "tokens": ["program", "interrupt", ":", "illegal", "instruction......0"], "preds": [["domain", "program"], ["domain", "illegal"]], "labels": []}
+{"log": "program interrupt: privileged instruction...0", "tokens": ["program", "interrupt", ":", "privileged", "instruction...0"], "preds": [["domain", "program"]], "labels": []}
+{"log": "machine state register: 0x00002000", "tokens": ["machine", "state", "register", ":", "0x00002000"], "preds": [["domain", "machine"], ["domain", "state"], ["domain", "register"], ["domain", ":"], ["domain", "0x00002000"]], "labels": []}
+{"log": "problem state (0=sup,1=usr).......0", "tokens": ["problem", "state", "(", "0", "=", "sup,1", "=", "usr", ")", ".......0"], "preds": [["domain", "problem"], ["domain", "state"], ["domain", "0"], ["domain", "="], ["time", "sup,1"], ["domain", "="], ["domain", "usr"], ["domain", ")"], ["time", ".......0"]], "labels": []}
+{"log": "data store interrupt caused by icbi.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "icbi.........0"], "preds": [["domain", "store"], ["domain", "by"], ["domain", "icbi.........0"]], "labels": []}
+{"log": "machine check enable..............0", "tokens": ["machine", "check", "enable..............0"], "preds": [["domain", "machine"], ["domain", "check"], ["domain", "enable..............0"]], "labels": []}
+{"log": "floating pt ex mode 0 enable......0", "tokens": ["floating", "pt", "ex", "mode", "0", "enable......0"], "preds": [["domain", "pt"], ["domain", "mode"], ["domain", "0"], ["domain", "enable......0"]], "labels": []}
+{"log": "floating pt ex mode 1 enable......0", "tokens": ["floating", "pt", "ex", "mode", "1", "enable......0"], "preds": [["domain", "pt"], ["domain", "1"], ["domain", "enable......0"]], "labels": []}
+{"log": "byte ordering exception.....................0", "tokens": ["byte", "ordering", "exception.....................0"], "preds": [["domain", "byte"], ["domain", "ordering"]], "labels": []}
+{"log": "byte ordering exception.....................0", "tokens": ["byte", "ordering", "exception.....................0"], "preds": [["domain", "byte"], ["domain", "ordering"]], "labels": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "preds": [["domain", "data"], ["domain", "address"], ["domain", "space................0"]], "labels": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "preds": [["domain", "data"], ["domain", "address"], ["domain", "space................0"]], "labels": []}
+{"log": "program interrupt: imprecise exception......0", "tokens": ["program", "interrupt", ":", "imprecise", "exception......0"], "preds": [["domain", "program"]], "labels": []}
+{"log": "program interrupt: fp cr field .............0", "tokens": ["program", "interrupt", ":", "fp", "cr", "field", ".............0"], "preds": [["domain", "program"], ["domain", "cr"], ["domain", "field"], ["time", ".............0"]], "labels": []}
+{"log": "guaranteed data cache block touch........1", "tokens": ["guaranteed", "data", "cache", "block", "touch........1"], "preds": [["domain", "data"], ["domain", "cache"], ["domain", "block"], ["domain", "touch........1"]], "labels": []}
+{"log": "force load/store alignment...............0", "tokens": ["force", "load/store", "alignment...............0"], "preds": [["domain", "force"], ["domain", "alignment...............0"]], "labels": []}
+{"log": "machine state register: 0x00002000", "tokens": ["machine", "state", "register", ":", "0x00002000"], "preds": [["domain", "machine"], ["domain", "state"], ["domain", "register"], ["domain", ":"], ["domain", "0x00002000"]], "labels": []}
+{"log": "machine state register: 0x00002000", "tokens": ["machine", "state", "register", ":", "0x00002000"], "preds": [["domain", "machine"], ["domain", "state"], ["domain", "register"], ["domain", ":"], ["domain", "0x00002000"]], "labels": []}
+{"log": "icache prefetch threshold................0", "tokens": ["icache", "prefetch", "threshold................0"], "preds": [["domain", "threshold................0"]], "labels": []}
+{"log": "icache prefetch threshold................0", "tokens": ["icache", "prefetch", "threshold................0"], "preds": [["domain", "threshold................0"]], "labels": []}
+{"log": "problem state (0=sup,1=usr).......0", "tokens": ["problem", "state", "(", "0", "=", "sup,1", "=", "usr", ")", ".......0"], "preds": [["domain", "problem"], ["domain", "state"], ["domain", "0"], ["domain", "="], ["time", "sup,1"], ["domain", "="], ["domain", "usr"], ["domain", ")"], ["time", ".......0"]], "labels": []}
+{"log": "problem state (0=sup,1=usr).......0", "tokens": ["problem", "state", "(", "0", "=", "sup,1", "=", "usr", ")", ".......0"], "preds": [["domain", "problem"], ["domain", "state"], ["domain", "0"], ["domain", "="], ["time", "sup,1"], ["domain", "="], ["domain", "usr"], ["domain", ")"], ["time", ".......0"]], "labels": []}
+{"log": "special purpose registers:", "tokens": ["special", "purpose", "registers:"], "preds": [["domain", "special"], ["domain", "purpose"], ["domain", "registers:"]], "labels": []}
+{"log": "lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000", "tokens": ["lr:00004ed0", "cr:28244842", "xer:20000002", "ctr:00086000"], "preds": [["time", "lr:00004ed0"], ["time", "cr:28244842"], ["time", "xer:20000002"], ["domain", "ctr:00086000"]], "labels": []}
+{"log": "floating pt ex mode 0 enable......0", "tokens": ["floating", "pt", "ex", "mode", "0", "enable......0"], "preds": [["domain", "pt"], ["domain", "mode"], ["domain", "0"], ["domain", "enable......0"]], "labels": []}
+{"log": "debug wait enable.................0", "tokens": ["debug", "wait", "enable.................0"], "preds": [["domain", "debug"], ["domain", "wait"], ["domain", "enable.................0"]], "labels": []}
+{"log": "floating pt ex mode 1 enable......0", "tokens": ["floating", "pt", "ex", "mode", "1", "enable......0"], "preds": [["domain", "pt"], ["domain", "1"], ["domain", "enable......0"]], "labels": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "preds": [["domain", "data"], ["domain", "address"], ["domain", "space................0"]], "labels": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "preds": [["domain", "data"], ["domain", "address"], ["domain", "space................0"]], "labels": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "preds": [["domain", "data"], ["domain", "address"], ["domain", "space................0"]], "labels": []}
+{"log": "core configuration register: 0x00002000", "tokens": ["core", "configuration", "register", ":", "0x00002000"], "preds": [["domain", "core"], ["domain", "register"], ["domain", ":"], ["domain", "0x00002000"]], "labels": []}
+{"log": "core configuration register: 0x00002000", "tokens": ["core", "configuration", "register", ":", "0x00002000"], "preds": [["domain", "core"], ["domain", "register"], ["domain", ":"], ["domain", "0x00002000"]], "labels": []}
+{"log": "core configuration register: 0x00002000", "tokens": ["core", "configuration", "register", ":", "0x00002000"], "preds": [["domain", "core"], ["domain", "register"], ["domain", ":"], ["domain", "0x00002000"]], "labels": []}
+{"log": "disable store gathering..................0", "tokens": ["disable", "store", "gathering..................0"], "preds": [["domain", "disable"], ["domain", "store"], ["domain", "gathering..................0"]], "labels": []}
+{"log": "total of 1 ddr error(s) detected and corrected", "tokens": ["total", "of", "1", "ddr", "error", "(", "s", ")", "detected", "and", "corrected"], "preds": [["domain", "total"], ["domain", "of"], ["domain", "1"], ["domain", "error"], ["domain", "s"], ["domain", ")"], ["domain", "and"]], "labels": []}
+{"log": "generating core.145", "tokens": ["generating", "core.145"], "preds": [["domain", "core.145"]], "labels": [["domain", "core.145"]]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "generating core.1978", "tokens": ["generating", "core.1978"], "preds": [["domain", "core.1978"]], "labels": [["domain", "core.1978"]]}
+{"log": "generating core.15", "tokens": ["generating", "core.15"], "preds": [["domain", "core.15"]], "labels": [["domain", "core.15"]]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "generating core.16218", "tokens": ["generating", "core.16218"], "preds": [["domain", "core.16218"]], "labels": [["domain", "core.16218"]]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "generating core.15966", "tokens": ["generating", "core.15966"], "preds": [["domain", "core.15966"]], "labels": [["domain", "core.15966"]]}
+{"log": "generating core.42", "tokens": ["generating", "core.42"], "preds": [["domain", "core.42"]], "labels": [["domain", "core.42"]]}
+{"log": "generating core.93", "tokens": ["generating", "core.93"], "preds": [["domain", "core.93"]], "labels": [["domain", "core.93"]]}
+{"log": "generating core.6037", "tokens": ["generating", "core.6037"], "preds": [["domain", "core.6037"]], "labels": [["domain", "core.6037"]]}
+{"log": "generating core.1488", "tokens": ["generating", "core.1488"], "preds": [["domain", "core.1488"]], "labels": [["domain", "core.1488"]]}
+{"log": "CE sym 2, at 0x0b85f680, mask 0x0e", "tokens": ["CE", "sym", "2", ",", "at", "0x0b85f680", ",", "mask", "0x0e"], "preds": [["domain", "CE"], ["domain", "2"], ["domain", ","], ["domain", "at"], ["domain", "0x0b85f680"], ["domain", ","], ["domain", "mask 0x0e"]], "labels": []}
+{"log": "generating core.2186", "tokens": ["generating", "core.2186"], "preds": [["domain", "core.2186"]], "labels": [["domain", "core.2186"]]}
+{"log": "generating core.978", "tokens": ["generating", "core.978"], "preds": [["domain", "core.978"]], "labels": [["domain", "core.978"]]}
+{"log": "generating core.5401", "tokens": ["generating", "core.5401"], "preds": [["domain", "core.5401"]], "labels": [["domain", "core.5401"]]}
+{"log": "generating core.14418", "tokens": ["generating", "core.14418"], "preds": [["domain", "core.14418"]], "labels": [["domain", "core.14418"]]}
+{"log": "generating core.9785", "tokens": ["generating", "core.9785"], "preds": [["domain", "core.9785"]], "labels": [["domain", "core.9785"]]}
+{"log": "generating core.7615", "tokens": ["generating", "core.7615"], "preds": [["domain", "core.7615"]], "labels": [["domain", "core.7615"]]}
+{"log": "generating core.15935", "tokens": ["generating", "core.15935"], "preds": [["domain", "core.15935"]], "labels": [["domain", "core.15935"]]}
+{"log": "generating core.721", "tokens": ["generating", "core.721"], "preds": [["domain", "core.721"]], "labels": [["domain", "core.721"]]}
+{"log": "generating core.5287", "tokens": ["generating", "core.5287"], "preds": [["domain", "core.5287"]], "labels": [["domain", "core.5287"]]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "preds": [["domain", "cache"], ["domain", "error"]], "labels": []}
+{"log": "ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory", "tokens": ["ciod", ":", "Error", "loading", "./runtime_malloc", ":", "invalid", "or", "missing", "program", "image", ",", "No", "such", "file", "or", "directory"], "preds": [["domain", ","]], "labels": [["path", "ciod"]]}
+{"log": "199680 double-hummer alignment exceptions", "tokens": ["199680", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "199680"], ["domain", "double-hummer"]], "labels": []}
+{"log": "2576000 double-hummer alignment exceptions", "tokens": ["2576000", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "2576000"]], "labels": []}
+{"log": "3091200 double-hummer alignment exceptions", "tokens": ["3091200", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "3091200"]], "labels": []}
+{"log": "3091200 double-hummer alignment exceptions", "tokens": ["3091200", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "3091200"]], "labels": []}
+{"log": "3091200 double-hummer alignment exceptions", "tokens": ["3091200", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "3091200"]], "labels": []}
+{"log": "CE sym 12, at 0x1b786f60, mask 0x04", "tokens": ["CE", "sym", "12", ",", "at", "0x1b786f60", ",", "mask", "0x04"], "preds": [["domain", "CE"], ["domain", "sym"], ["domain", "12"], ["domain", ","], ["domain", "at"], ["domain", "0x1b786f60"], ["domain", ","], ["domain", "0x04"]], "labels": []}
+{"log": "23431872 double-hummer alignment exceptions", "tokens": ["23431872", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "23431872"]], "labels": []}
+{"log": "259966605 double-hummer alignment exceptions", "tokens": ["259966605", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "259966605"]], "labels": []}
+{"log": "generating core.24721", "tokens": ["generating", "core.24721"], "preds": [["domain", "core.24721"]], "labels": [["domain", "core.24721"]]}
+{"log": "generating core.4184", "tokens": ["generating", "core.4184"], "preds": [["domain", "core.4184"]], "labels": [["domain", "core.4184"]]}
+{"log": "generating core.58109", "tokens": ["generating", "core.58109"], "preds": [["domain", "core.58109"]], "labels": [["domain", "core.58109"]]}
+{"log": "generating core.9881", "tokens": ["generating", "core.9881"], "preds": [["domain", "core.9881"]], "labels": [["domain", "core.9881"]]}
+{"log": "generating core.16830", "tokens": ["generating", "core.16830"], "preds": [["domain", "core.16830"]], "labels": [["domain", "core.16830"]]}
+{"log": "generating core.9369", "tokens": ["generating", "core.9369"], "preds": [["domain", "core.9369"]], "labels": [["domain", "core.9369"]]}
+{"log": "generating core.37749", "tokens": ["generating", "core.37749"], "preds": [["domain", "core.37749"]], "labels": [["domain", "core.37749"]]}
+{"log": "generating core.9654", "tokens": ["generating", "core.9654"], "preds": [["domain", "core.9654"]], "labels": [["domain", "core.9654"]]}
+{"log": "generating core.56155", "tokens": ["generating", "core.56155"], "preds": [["domain", "core.56155"]], "labels": [["domain", "core.56155"]]}
+{"log": "generating core.40250", "tokens": ["generating", "core.40250"], "preds": [["domain", "core.40250"]], "labels": [["domain", "core.40250"]]}
+{"log": "generating core.9578", "tokens": ["generating", "core.9578"], "preds": [["domain", "core.9578"]], "labels": [["domain", "core.9578"]]}
+{"log": "generating core.14856", "tokens": ["generating", "core.14856"], "preds": [["domain", "core.14856"]], "labels": [["domain", "core.14856"]]}
+{"log": "generating core.39138", "tokens": ["generating", "core.39138"], "preds": [["domain", "core.39138"]], "labels": [["domain", "core.39138"]]}
+{"log": "generating core.10394", "tokens": ["generating", "core.10394"], "preds": [["domain", "core.10394"]], "labels": [["domain", "core.10394"]]}
+{"log": "generating core.41347", "tokens": ["generating", "core.41347"], "preds": [["domain", "core.41347"]], "labels": [["domain", "core.41347"]]}
+{"log": "generating core.54486", "tokens": ["generating", "core.54486"], "preds": [["domain", "core.54486"]], "labels": [["domain", "core.54486"]]}
+{"log": "generating core.22421", "tokens": ["generating", "core.22421"], "preds": [["domain", "core.22421"]], "labels": [["domain", "core.22421"]]}
+{"log": "generating core.25048", "tokens": ["generating", "core.25048"], "preds": [["domain", "core.25048"]], "labels": [["domain", "core.25048"]]}
+{"log": "generating core.42553", "tokens": ["generating", "core.42553"], "preds": [["domain", "core.42553"]], "labels": [["domain", "core.42553"]]}
+{"log": "generating core.2109", "tokens": ["generating", "core.2109"], "preds": [["domain", "core.2109"]], "labels": [["domain", "core.2109"]]}
+{"log": "generating core.10752", "tokens": ["generating", "core.10752"], "preds": [["domain", "core.10752"]], "labels": [["domain", "core.10752"]]}
+{"log": "generating core.323", "tokens": ["generating", "core.323"], "preds": [["domain", "core.323"]], "labels": [["domain", "core.323"]]}
+{"log": "CE sym 5, at 0x11042a80, mask 0x04", "tokens": ["CE", "sym", "5", ",", "at", "0x11042a80", ",", "mask", "0x04"], "preds": [["domain", "CE"], ["domain", "sym"], ["domain", "5"], ["domain", ","], ["domain", "at"], ["domain", "0x11042a80"], ["domain", ","], ["domain", "0x04"]], "labels": []}
+{"log": "generating core.28370", "tokens": ["generating", "core.28370"], "preds": [["domain", "core.28370"]], "labels": [["domain", "core.28370"]]}
+{"log": "program interrupt: illegal instruction......1", "tokens": ["program", "interrupt", ":", "illegal", "instruction......1"], "preds": [["domain", "program"], ["domain", "illegal"]], "labels": []}
+{"log": "program interrupt: illegal instruction......1", "tokens": ["program", "interrupt", ":", "illegal", "instruction......1"], "preds": [["domain", "program"], ["domain", "illegal"]], "labels": []}
+{"log": "program interrupt: privileged instruction...0", "tokens": ["program", "interrupt", ":", "privileged", "instruction...0"], "preds": [["domain", "program"]], "labels": []}
+{"log": "data store interrupt caused by dcbf.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "dcbf.........0"], "preds": [["domain", "data"], ["domain", "store"], ["domain", "by"], ["domain", "dcbf.........0"]], "labels": []}
+{"log": "data store interrupt caused by icbi.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "icbi.........0"], "preds": [["domain", "store"], ["domain", "by"], ["domain", "icbi.........0"]], "labels": []}
+{"log": "auxiliary processor.........................0", "tokens": ["auxiliary", "processor.........................0"], "preds": [["domain", "processor.........................0"]], "labels": []}
+{"log": "auxiliary processor.........................0", "tokens": ["auxiliary", "processor.........................0"], "preds": [["domain", "processor.........................0"]], "labels": []}
+{"log": "program interrupt: imprecise exception......0", "tokens": ["program", "interrupt", ":", "imprecise", "exception......0"], "preds": [["domain", "program"]], "labels": []}
+{"log": "program interrupt: imprecise exception......0", "tokens": ["program", "interrupt", ":", "imprecise", "exception......0"], "preds": [["domain", "program"]], "labels": []}
+{"log": "generating core.14700", "tokens": ["generating", "core.14700"], "preds": [["domain", "core.14700"]], "labels": [["domain", "core.14700"]]}
+{"log": "instruction address: 0x0062fe04", "tokens": ["instruction", "address", ":", "0x0062fe04"], "preds": [["domain", "address"], ["domain", "0x0062fe04"]], "labels": []}
+{"log": "program interrupt: privileged instruction...0", "tokens": ["program", "interrupt", ":", "privileged", "instruction...0"], "preds": [["domain", "program"]], "labels": []}
+{"log": "data store interrupt caused by dcbf.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "dcbf.........0"], "preds": [["domain", "data"], ["domain", "store"], ["domain", "by"], ["domain", "dcbf.........0"]], "labels": []}
+{"log": "Node card is not fully functional", "tokens": ["Node", "card", "is", "not", "fully", "functional"], "preds": [], "labels": []}
+{"log": "generating core.1786", "tokens": ["generating", "core.1786"], "preds": [["domain", "core.1786"]], "labels": [["domain", "core.1786"]]}
+{"log": "generating core.26918", "tokens": ["generating", "core.26918"], "preds": [["domain", "core.26918"]], "labels": [["domain", "core.26918"]]}
+{"log": "generating core.10125", "tokens": ["generating", "core.10125"], "preds": [["domain", "core.10125"]], "labels": [["domain", "core.10125"]]}
+{"log": "generating core.1177", "tokens": ["generating", "core.1177"], "preds": [["domain", "core.1177"]], "labels": [["domain", "core.1177"]]}
+{"log": "generating core.32693", "tokens": ["generating", "core.32693"], "preds": [["domain", "core.32693"]], "labels": [["domain", "core.32693"]]}
+{"log": "generating core.7151", "tokens": ["generating", "core.7151"], "preds": [["domain", "core.7151"]], "labels": [["domain", "core.7151"]]}
+{"log": "generating core.7023", "tokens": ["generating", "core.7023"], "preds": [["domain", "core.7023"]], "labels": [["domain", "core.7023"]]}
+{"log": "344040 double-hummer alignment exceptions", "tokens": ["344040", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "344040"]], "labels": []}
+{"log": "generating core.29308", "tokens": ["generating", "core.29308"], "preds": [["domain", "core.29308"]], "labels": [["domain", "core.29308"]]}
+{"log": "generating core.6040", "tokens": ["generating", "core.6040"], "preds": [["domain", "core.6040"]], "labels": [["domain", "core.6040"]]}
+{"log": "generating core.26156", "tokens": ["generating", "core.26156"], "preds": [["domain", "core.26156"]], "labels": [["domain", "core.26156"]]}
+{"log": "generating core.2112", "tokens": ["generating", "core.2112"], "preds": [["domain", "core.2112"]], "labels": [["domain", "core.2112"]]}
+{"log": "generating core.16483", "tokens": ["generating", "core.16483"], "preds": [["domain", "core.16483"]], "labels": [["domain", "core.16483"]]}
+{"log": "generating core.18751", "tokens": ["generating", "core.18751"], "preds": [["domain", "core.18751"]], "labels": [["domain", "core.18751"]]}
+{"log": "generating core.8021", "tokens": ["generating", "core.8021"], "preds": [["domain", "core.8021"]], "labels": [["domain", "core.8021"]]}
+{"log": "generating core.10734", "tokens": ["generating", "core.10734"], "preds": [["domain", "core.10734"]], "labels": [["domain", "core.10734"]]}
+{"log": "generating core.3613", "tokens": ["generating", "core.3613"], "preds": [["domain", "core.3613"]], "labels": [["domain", "core.3613"]]}
+{"log": "generating core.1916", "tokens": ["generating", "core.1916"], "preds": [["domain", "core.1916"]], "labels": [["domain", "core.1916"]]}
+{"log": "generating core.5935", "tokens": ["generating", "core.5935"], "preds": [["domain", "core.5935"]], "labels": [["domain", "core.5935"]]}
+{"log": "generating core.5512", "tokens": ["generating", "core.5512"], "preds": [["domain", "core.5512"]], "labels": [["domain", "core.5512"]]}
+{"log": "generating core.1123", "tokens": ["generating", "core.1123"], "preds": [["domain", "core.1123"]], "labels": [["domain", "core.1123"]]}
+{"log": "CE sym 0, at 0x1b858ca0, mask 0x40", "tokens": ["CE", "sym", "0", ",", "at", "0x1b858ca0", ",", "mask", "0x40"], "preds": [["domain", "CE"], ["domain", "sym"], ["domain", "0"], ["domain", ","], ["domain", "at"], ["domain", "0x1b858ca0"], ["domain", ","], ["domain", "mask 0x40"]], "labels": []}
+{"log": "CE sym 0, at 0x1b858280, mask 0x40", "tokens": ["CE", "sym", "0", ",", "at", "0x1b858280", ",", "mask", "0x40"], "preds": [["domain", "CE"], ["domain", "sym"], ["domain", "0"], ["domain", ","], ["domain", "at"], ["domain", "0x1b858280"], ["domain", ","], ["domain", "mask 0x40"]], "labels": []}
+{"log": "generating core.1165", "tokens": ["generating", "core.1165"], "preds": [["domain", "core.1165"]], "labels": [["domain", "core.1165"]]}
+{"log": "generating core.23615", "tokens": ["generating", "core.23615"], "preds": [["domain", "core.23615"]], "labels": [["domain", "core.23615"]]}
+{"log": "generating core.865", "tokens": ["generating", "core.865"], "preds": [["domain", "core.865"]], "labels": [["domain", "core.865"]]}
+{"log": "generating core.16594", "tokens": ["generating", "core.16594"], "preds": [["domain", "core.16594"]], "labels": [["domain", "core.16594"]]}
+{"log": "generating core.30586", "tokens": ["generating", "core.30586"], "preds": [["domain", "core.30586"]], "labels": [["domain", "core.30586"]]}
+{"log": "generating core.18540", "tokens": ["generating", "core.18540"], "preds": [["domain", "core.18540"]], "labels": [["domain", "core.18540"]]}
+{"log": "generating core.9825", "tokens": ["generating", "core.9825"], "preds": [["domain", "core.9825"]], "labels": [["domain", "core.9825"]]}
+{"log": "generating core.28084", "tokens": ["generating", "core.28084"], "preds": [["domain", "core.28084"]], "labels": [["domain", "core.28084"]]}
+{"log": "generating core.536", "tokens": ["generating", "core.536"], "preds": [["domain", "core.536"]], "labels": [["domain", "core.536"]]}
+{"log": "generating core.15655", "tokens": ["generating", "core.15655"], "preds": [["domain", "core.15655"]], "labels": [["domain", "core.15655"]]}
+{"log": "generating core.8628", "tokens": ["generating", "core.8628"], "preds": [["domain", "core.8628"]], "labels": [["domain", "core.8628"]]}
+{"log": "generating core.12122", "tokens": ["generating", "core.12122"], "preds": [["domain", "core.12122"]], "labels": [["domain", "core.12122"]]}
+{"log": "generating core.10312", "tokens": ["generating", "core.10312"], "preds": [["domain", "core.10312"]], "labels": [["domain", "core.10312"]]}
+{"log": "generating core.228", "tokens": ["generating", "core.228"], "preds": [["domain", "core.228"]], "labels": [["domain", "core.228"]]}
+{"log": "generating core.332", "tokens": ["generating", "core.332"], "preds": [["domain", "core.332"]], "labels": [["domain", "core.332"]]}
+{"log": "generating core.15740", "tokens": ["generating", "core.15740"], "preds": [["domain", "core.15740"]], "labels": [["domain", "core.15740"]]}
+{"log": "generating core.3389", "tokens": ["generating", "core.3389"], "preds": [["domain", "core.3389"]], "labels": [["domain", "core.3389"]]}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "458720"]], "labels": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1146800"]], "labels": []}
+{"log": "generating core.1114", "tokens": ["generating", "core.1114"], "preds": [["domain", "core.1114"]], "labels": [["domain", "core.1114"]]}
+{"log": "generating core.848", "tokens": ["generating", "core.848"], "preds": [["domain", "core.848"]], "labels": [["domain", "core.848"]]}
+{"log": "generating core.31006", "tokens": ["generating", "core.31006"], "preds": [["domain", "core.31006"]], "labels": [["domain", "core.31006"]]}
+{"log": "generating core.20954", "tokens": ["generating", "core.20954"], "preds": [["domain", "core.20954"]], "labels": [["domain", "core.20954"]]}
+{"log": "generating core.10185", "tokens": ["generating", "core.10185"], "preds": [["domain", "core.10185"]], "labels": [["domain", "core.10185"]]}
+{"log": "generating core.13776", "tokens": ["generating", "core.13776"], "preds": [["domain", "core.13776"]], "labels": [["domain", "core.13776"]]}
+{"log": "generating core.19596", "tokens": ["generating", "core.19596"], "preds": [["domain", "core.19596"]], "labels": [["domain", "core.19596"]]}
+{"log": "generating core.17853", "tokens": ["generating", "core.17853"], "preds": [["domain", "core.17853"]], "labels": [["domain", "core.17853"]]}
+{"log": "generating core.9739", "tokens": ["generating", "core.9739"], "preds": [["domain", "core.9739"]], "labels": [["domain", "core.9739"]]}
+{"log": "generating core.7187", "tokens": ["generating", "core.7187"], "preds": [["domain", "core.7187"]], "labels": [["domain", "core.7187"]]}
+{"log": "generating core.23438", "tokens": ["generating", "core.23438"], "preds": [["domain", "core.23438"]], "labels": [["domain", "core.23438"]]}
+{"log": "generating core.3006", "tokens": ["generating", "core.3006"], "preds": [["domain", "core.3006"]], "labels": [["domain", "core.3006"]]}
+{"log": "generating core.2348", "tokens": ["generating", "core.2348"], "preds": [["domain", "core.2348"]], "labels": [["domain", "core.2348"]]}
+{"log": "generating core.1219", "tokens": ["generating", "core.1219"], "preds": [["domain", "core.1219"]], "labels": [["domain", "core.1219"]]}
+{"log": "generating core.8877", "tokens": ["generating", "core.8877"], "preds": [["domain", "core.8877"]], "labels": [["domain", "core.8877"]]}
+{"log": "ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile", "tokens": ["ciod", ":", "Missing", "or", "invalid", "fields", "on", "line", "1", "of", "node", "map", "file", "/home/auselton/bgl/64mps.sequential.mapfile"], "preds": [["path", ":"], ["path", "fields"], ["path", "1"], ["path", "map"], ["path", "file"], ["path", "/home/auselton/bgl/64mps.sequential.mapfile"]], "labels": [["path", "ciod"], ["domain", "/home/auselton/bgl/64mps.sequential.mapfile"]]}
+{"log": "1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected", "tokens": ["1", "torus", "receiver", "z+", "input", "pipe", "error", "(", "s", ")", "(", "dcr", "0x02f0", ")", "detected", "and", "corrected"], "preds": [["domain", "1"], ["domain", "torus"], ["domain", "input"], ["domain", "error"], ["domain", "s"], ["domain", ")"], ["domain", "0x02f0"], ["domain", ")"], ["domain", "and"]], "labels": []}
+{"log": "generating core.631", "tokens": ["generating", "core.631"], "preds": [["domain", "core.631"]], "labels": [["domain", "core.631"]]}
+{"log": "generating core.998", "tokens": ["generating", "core.998"], "preds": [["domain", "core.998"]], "labels": [["domain", "core.998"]]}
+{"log": "generating core.1129", "tokens": ["generating", "core.1129"], "preds": [["domain", "core.1129"]], "labels": [["domain", "core.1129"]]}
+{"log": "generating core.1213", "tokens": ["generating", "core.1213"], "preds": [["domain", "core.1213"]], "labels": [["domain", "core.1213"]]}
+{"log": "generating core.319", "tokens": ["generating", "core.319"], "preds": [["domain", "core.319"]], "labels": [["domain", "core.319"]]}
+{"log": "generating core.303", "tokens": ["generating", "core.303"], "preds": [["domain", "core.303"]], "labels": [["domain", "core.303"]]}
+{"log": "generating core.1998", "tokens": ["generating", "core.1998"], "preds": [["domain", "core.1998"]], "labels": [["domain", "core.1998"]]}
+{"log": "633283776 double-hummer alignment exceptions", "tokens": ["633283776", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "633283776"]], "labels": []}
+{"log": "generating core.57762", "tokens": ["generating", "core.57762"], "preds": [["domain", "core.57762"]], "labels": [["domain", "core.57762"]]}
+{"log": "generating core.3436", "tokens": ["generating", "core.3436"], "preds": [["domain", "core.3436"]], "labels": [["domain", "core.3436"]]}
+{"log": "generating core.4592", "tokens": ["generating", "core.4592"], "preds": [["domain", "core.4592"]], "labels": [["domain", "core.4592"]]}
+{"log": "generating core.149", "tokens": ["generating", "core.149"], "preds": [["domain", "core.149"]], "labels": [["domain", "core.149"]]}
+{"log": "generating core.62507", "tokens": ["generating", "core.62507"], "preds": [["domain", "core.62507"]], "labels": [["domain", "core.62507"]]}
+{"log": "generating core.11154", "tokens": ["generating", "core.11154"], "preds": [["domain", "core.11154"]], "labels": [["domain", "core.11154"]]}
+{"log": "generating core.13817", "tokens": ["generating", "core.13817"], "preds": [["domain", "core.13817"]], "labels": [["domain", "core.13817"]]}
+{"log": "generating core.14349", "tokens": ["generating", "core.14349"], "preds": [["domain", "core.14349"]], "labels": [["domain", "core.14349"]]}
+{"log": "generating core.8897", "tokens": ["generating", "core.8897"], "preds": [["domain", "core.8897"]], "labels": [["domain", "core.8897"]]}
+{"log": "generating core.7946", "tokens": ["generating", "core.7946"], "preds": [["domain", "core.7946"]], "labels": [["domain", "core.7946"]]}
+{"log": "generating core.12012", "tokens": ["generating", "core.12012"], "preds": [["domain", "core.12012"]], "labels": [["domain", "core.12012"]]}
+{"log": "generating core.7752", "tokens": ["generating", "core.7752"], "preds": [["domain", "core.7752"]], "labels": [["domain", "core.7752"]]}
+{"log": "generating core.24671", "tokens": ["generating", "core.24671"], "preds": [["domain", "core.24671"]], "labels": [["domain", "core.24671"]]}
+{"log": "generating core.40979", "tokens": ["generating", "core.40979"], "preds": [["domain", "core.40979"]], "labels": [["domain", "core.40979"]]}
+{"log": "generating core.47738", "tokens": ["generating", "core.47738"], "preds": [["domain", "core.47738"]], "labels": [["domain", "core.47738"]]}
+{"log": "generating core.6682", "tokens": ["generating", "core.6682"], "preds": [["domain", "core.6682"]], "labels": [["domain", "core.6682"]]}
+{"log": "generating core.7672", "tokens": ["generating", "core.7672"], "preds": [["domain", "core.7672"]], "labels": [["domain", "core.7672"]]}
+{"log": "generating core.47122", "tokens": ["generating", "core.47122"], "preds": [["domain", "core.47122"]], "labels": [["domain", "core.47122"]]}
+{"log": "generating core.23664", "tokens": ["generating", "core.23664"], "preds": [["domain", "core.23664"]], "labels": [["domain", "core.23664"]]}
+{"log": "generating core.6553", "tokens": ["generating", "core.6553"], "preds": [["domain", "core.6553"]], "labels": [["domain", "core.6553"]]}
+{"log": "generating core.5781", "tokens": ["generating", "core.5781"], "preds": [["domain", "core.5781"]], "labels": [["domain", "core.5781"]]}
+{"log": "generating core.55191", "tokens": ["generating", "core.55191"], "preds": [["domain", "core.55191"]], "labels": [["domain", "core.55191"]]}
+{"log": "generating core.41557", "tokens": ["generating", "core.41557"], "preds": [["domain", "core.41557"]], "labels": [["domain", "core.41557"]]}
+{"log": "generating core.51900", "tokens": ["generating", "core.51900"], "preds": [["domain", "core.51900"]], "labels": [["domain", "core.51900"]]}
+{"log": "generating core.33018", "tokens": ["generating", "core.33018"], "preds": [["domain", "core.33018"]], "labels": [["domain", "core.33018"]]}
+{"log": "generating core.29433", "tokens": ["generating", "core.29433"], "preds": [["domain", "core.29433"]], "labels": [["domain", "core.29433"]]}
+{"log": "generating core.41080", "tokens": ["generating", "core.41080"], "preds": [["domain", "core.41080"]], "labels": [["domain", "core.41080"]]}
+{"log": "generating core.57878", "tokens": ["generating", "core.57878"], "preds": [["domain", "core.57878"]], "labels": [["domain", "core.57878"]]}
+{"log": "generating core.245", "tokens": ["generating", "core.245"], "preds": [["domain", "core.245"]], "labels": [["domain", "core.245"]]}
+{"log": "generating core.17517", "tokens": ["generating", "core.17517"], "preds": [["domain", "core.17517"]], "labels": [["domain", "core.17517"]]}
+{"log": "generating core.2633", "tokens": ["generating", "core.2633"], "preds": [["domain", "core.2633"]], "labels": [["domain", "core.2633"]]}
+{"log": "generating core.7167", "tokens": ["generating", "core.7167"], "preds": [["domain", "core.7167"]], "labels": [["domain", "core.7167"]]}
+{"log": "generating core.2300", "tokens": ["generating", "core.2300"], "preds": [["domain", "core.2300"]], "labels": [["domain", "core.2300"]]}
+{"log": "generating core.14807", "tokens": ["generating", "core.14807"], "preds": [["domain", "core.14807"]], "labels": [["domain", "core.14807"]]}
+{"log": "generating core.7205", "tokens": ["generating", "core.7205"], "preds": [["domain", "core.7205"]], "labels": [["domain", "core.7205"]]}
+{"log": "generating core.30230", "tokens": ["generating", "core.30230"], "preds": [["domain", "core.30230"]], "labels": [["domain", "core.30230"]]}
+{"log": "generating core.28666", "tokens": ["generating", "core.28666"], "preds": [["domain", "core.28666"]], "labels": [["domain", "core.28666"]]}
+{"log": "generating core.52376", "tokens": ["generating", "core.52376"], "preds": [["domain", "core.52376"]], "labels": [["domain", "core.52376"]]}
+{"log": "generating core.10930", "tokens": ["generating", "core.10930"], "preds": [["domain", "core.10930"]], "labels": [["domain", "core.10930"]]}
+{"log": "generating core.48433", "tokens": ["generating", "core.48433"], "preds": [["domain", "core.48433"]], "labels": [["domain", "core.48433"]]}
+{"log": "generating core.46408", "tokens": ["generating", "core.46408"], "preds": [["domain", "core.46408"]], "labels": [["domain", "core.46408"]]}
+{"log": "generating core.35872", "tokens": ["generating", "core.35872"], "preds": [["domain", "core.35872"]], "labels": [["domain", "core.35872"]]}
+{"log": "generating core.58351", "tokens": ["generating", "core.58351"], "preds": [["domain", "core.58351"]], "labels": [["domain", "core.58351"]]}
+{"log": "generating core.9158", "tokens": ["generating", "core.9158"], "preds": [["domain", "core.9158"]], "labels": [["domain", "core.9158"]]}
+{"log": "generating core.22376", "tokens": ["generating", "core.22376"], "preds": [["domain", "core.22376"]], "labels": [["domain", "core.22376"]]}
+{"log": "generating core.55384", "tokens": ["generating", "core.55384"], "preds": [["domain", "core.55384"]], "labels": [["domain", "core.55384"]]}
+{"log": "generating core.46559", "tokens": ["generating", "core.46559"], "preds": [["domain", "core.46559"]], "labels": [["domain", "core.46559"]]}
+{"log": "generating core.25604", "tokens": ["generating", "core.25604"], "preds": [["domain", "core.25604"]], "labels": [["domain", "core.25604"]]}
+{"log": "generating core.61172", "tokens": ["generating", "core.61172"], "preds": [["domain", "core.61172"]], "labels": [["domain", "core.61172"]]}
+{"log": "generating core.25271", "tokens": ["generating", "core.25271"], "preds": [["domain", "core.25271"]], "labels": [["domain", "core.25271"]]}
+{"log": "generating core.40344", "tokens": ["generating", "core.40344"], "preds": [["domain", "core.40344"]], "labels": [["domain", "core.40344"]]}
+{"log": "generating core.23259", "tokens": ["generating", "core.23259"], "preds": [["domain", "core.23259"]], "labels": [["domain", "core.23259"]]}
+{"log": "generating core.24538", "tokens": ["generating", "core.24538"], "preds": [["domain", "core.24538"]], "labels": [["domain", "core.24538"]]}
+{"log": "generating core.30706", "tokens": ["generating", "core.30706"], "preds": [["domain", "core.30706"]], "labels": [["domain", "core.30706"]]}
+{"log": "generating core.57391", "tokens": ["generating", "core.57391"], "preds": [["domain", "core.57391"]], "labels": [["domain", "core.57391"]]}
+{"log": "generating core.11784", "tokens": ["generating", "core.11784"], "preds": [["domain", "core.11784"]], "labels": [["domain", "core.11784"]]}
+{"log": "generating core.33163", "tokens": ["generating", "core.33163"], "preds": [["domain", "core.33163"]], "labels": [["domain", "core.33163"]]}
+{"log": "generating core.30275", "tokens": ["generating", "core.30275"], "preds": [["domain", "core.30275"]], "labels": [["domain", "core.30275"]]}
+{"log": "generating core.7362", "tokens": ["generating", "core.7362"], "preds": [["domain", "core.7362"]], "labels": [["domain", "core.7362"]]}
+{"log": "generating core.9784", "tokens": ["generating", "core.9784"], "preds": [["domain", "core.9784"]], "labels": [["domain", "core.9784"]]}
+{"log": "generating core.11921", "tokens": ["generating", "core.11921"], "preds": [["domain", "core.11921"]], "labels": [["domain", "core.11921"]]}
+{"log": "generating core.11879", "tokens": ["generating", "core.11879"], "preds": [["domain", "core.11879"]], "labels": [["domain", "core.11879"]]}
+{"log": "generating core.14071", "tokens": ["generating", "core.14071"], "preds": [["domain", "core.14071"]], "labels": [["domain", "core.14071"]]}
+{"log": "generating core.8531", "tokens": ["generating", "core.8531"], "preds": [["domain", "core.8531"]], "labels": [["domain", "core.8531"]]}
+{"log": "generating core.7183", "tokens": ["generating", "core.7183"], "preds": [["domain", "core.7183"]], "labels": [["domain", "core.7183"]]}
+{"log": "generating core.2347", "tokens": ["generating", "core.2347"], "preds": [["domain", "core.2347"]], "labels": [["domain", "core.2347"]]}
+{"log": "generating core.2790", "tokens": ["generating", "core.2790"], "preds": [["domain", "core.2790"]], "labels": [["domain", "core.2790"]]}
+{"log": "generating core.2573", "tokens": ["generating", "core.2573"], "preds": [["domain", "core.2573"]], "labels": [["domain", "core.2573"]]}
+{"log": "generating core.13592", "tokens": ["generating", "core.13592"], "preds": [["domain", "core.13592"]], "labels": [["domain", "core.13592"]]}
+{"log": "generating core.10842", "tokens": ["generating", "core.10842"], "preds": [["domain", "core.10842"]], "labels": [["domain", "core.10842"]]}
+{"log": "1401390016 double-hummer alignment exceptions", "tokens": ["1401390016", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "1401390016"]], "labels": []}
+{"log": "generating core.13753", "tokens": ["generating", "core.13753"], "preds": [["domain", "core.13753"]], "labels": [["domain", "core.13753"]]}
+{"log": "generating core.23542", "tokens": ["generating", "core.23542"], "preds": [["domain", "core.23542"]], "labels": [["domain", "core.23542"]]}
+{"log": "generating core.28918", "tokens": ["generating", "core.28918"], "preds": [["domain", "core.28918"]], "labels": [["domain", "core.28918"]]}
+{"log": "generating core.1557", "tokens": ["generating", "core.1557"], "preds": [["domain", "core.1557"]], "labels": [["domain", "core.1557"]]}
+{"log": "generating core.5167", "tokens": ["generating", "core.5167"], "preds": [["domain", "core.5167"]], "labels": [["domain", "core.5167"]]}
+{"log": "generating core.5861", "tokens": ["generating", "core.5861"], "preds": [["domain", "core.5861"]], "labels": [["domain", "core.5861"]]}
+{"log": "generating core.15425", "tokens": ["generating", "core.15425"], "preds": [["domain", "core.15425"]], "labels": [["domain", "core.15425"]]}
+{"log": "generating core.5760", "tokens": ["generating", "core.5760"], "preds": [["domain", "core.5760"]], "labels": [["domain", "core.5760"]]}
+{"log": "generating core.13752", "tokens": ["generating", "core.13752"], "preds": [["domain", "core.13752"]], "labels": [["domain", "core.13752"]]}
+{"log": "generating core.10860", "tokens": ["generating", "core.10860"], "preds": [["domain", "core.10860"]], "labels": [["domain", "core.10860"]]}
+{"log": "generating core.19744", "tokens": ["generating", "core.19744"], "preds": [["domain", "core.19744"]], "labels": [["domain", "core.19744"]]}
+{"log": "generating core.6917", "tokens": ["generating", "core.6917"], "preds": [["domain", "core.6917"]], "labels": [["domain", "core.6917"]]}
+{"log": "generating core.11135", "tokens": ["generating", "core.11135"], "preds": [["domain", "core.11135"]], "labels": [["domain", "core.11135"]]}
+{"log": "generating core.22283", "tokens": ["generating", "core.22283"], "preds": [["domain", "core.22283"]], "labels": [["domain", "core.22283"]]}
+{"log": "generating core.16300", "tokens": ["generating", "core.16300"], "preds": [["domain", "core.16300"]], "labels": [["domain", "core.16300"]]}
+{"log": "generating core.2233", "tokens": ["generating", "core.2233"], "preds": [["domain", "core.2233"]], "labels": [["domain", "core.2233"]]}
+{"log": "generating core.3269", "tokens": ["generating", "core.3269"], "preds": [["domain", "core.3269"]], "labels": [["domain", "core.3269"]]}
+{"log": "generating core.31435", "tokens": ["generating", "core.31435"], "preds": [["domain", "core.31435"]], "labels": [["domain", "core.31435"]]}
+{"log": "generating core.20257", "tokens": ["generating", "core.20257"], "preds": [["domain", "core.20257"]], "labels": [["domain", "core.20257"]]}
+{"log": "generating core.16600", "tokens": ["generating", "core.16600"], "preds": [["domain", "core.16600"]], "labels": [["domain", "core.16600"]]}
+{"log": "generating core.15313", "tokens": ["generating", "core.15313"], "preds": [["domain", "core.15313"]], "labels": [["domain", "core.15313"]]}
+{"log": "generating core.16623", "tokens": ["generating", "core.16623"], "preds": [["domain", "core.16623"]], "labels": [["domain", "core.16623"]]}
+{"log": "CE sym 2, at 0x0d09f1c0, mask 0x80", "tokens": ["CE", "sym", "2", ",", "at", "0x0d09f1c0", ",", "mask", "0x80"], "preds": [["domain", "CE"], ["domain", "2"], ["domain", ","], ["domain", "at"], ["domain", "0x0d09f1c0"], ["domain", ","], ["domain", "mask 0x80"]], "labels": []}
+{"log": "rts panic! - stopping execution", "tokens": ["rts", "panic!", "-", "stopping", "execution"], "preds": [["domain", "panic!"], ["domain", "-"]], "labels": []}
+{"log": "generating core.9079", "tokens": ["generating", "core.9079"], "preds": [["domain", "core.9079"]], "labels": [["domain", "core.9079"]]}
+{"log": "generating core.3400", "tokens": ["generating", "core.3400"], "preds": [["domain", "core.3400"]], "labels": [["domain", "core.3400"]]}
+{"log": "generating core.6711", "tokens": ["generating", "core.6711"], "preds": [["domain", "core.6711"]], "labels": [["domain", "core.6711"]]}
+{"log": "generating core.2263", "tokens": ["generating", "core.2263"], "preds": [["domain", "core.2263"]], "labels": [["domain", "core.2263"]]}
+{"log": "generating core.4061", "tokens": ["generating", "core.4061"], "preds": [["domain", "core.4061"]], "labels": [["domain", "core.4061"]]}
+{"log": "generating core.14070", "tokens": ["generating", "core.14070"], "preds": [["domain", "core.14070"]], "labels": [["domain", "core.14070"]]}
+{"log": "generating core.1715", "tokens": ["generating", "core.1715"], "preds": [["domain", "core.1715"]], "labels": [["domain", "core.1715"]]}
+{"log": "generating core.4489", "tokens": ["generating", "core.4489"], "preds": [["domain", "core.4489"]], "labels": [["domain", "core.4489"]]}
+{"log": "total of 1 ddr error(s) detected and corrected", "tokens": ["total", "of", "1", "ddr", "error", "(", "s", ")", "detected", "and", "corrected"], "preds": [["domain", "total"], ["domain", "of"], ["domain", "1"], ["domain", "error"], ["domain", "s"], ["domain", ")"], ["domain", "and"]], "labels": []}
+{"log": "118661512 double-hummer alignment exceptions", "tokens": ["118661512", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "118661512"]], "labels": []}
+{"log": "112099344 double-hummer alignment exceptions", "tokens": ["112099344", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "112099344"]], "labels": []}
+{"log": "113170696 double-hummer alignment exceptions", "tokens": ["113170696", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "113170696"]], "labels": []}
+{"log": "117400328 double-hummer alignment exceptions", "tokens": ["117400328", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "117400328"]], "labels": []}
+{"log": "116130784 double-hummer alignment exceptions", "tokens": ["116130784", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "116130784"]], "labels": []}
+{"log": "113622512 double-hummer alignment exceptions", "tokens": ["113622512", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "113622512"]], "labels": []}
+{"log": "114059360 double-hummer alignment exceptions", "tokens": ["114059360", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "114059360"]], "labels": []}
+{"log": "115325776 double-hummer alignment exceptions", "tokens": ["115325776", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "115325776"]], "labels": []}
+{"log": "113355952 double-hummer alignment exceptions", "tokens": ["113355952", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "113355952"]], "labels": []}
+{"log": "115193048 double-hummer alignment exceptions", "tokens": ["115193048", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "115193048"]], "labels": []}
+{"log": "111990296 double-hummer alignment exceptions", "tokens": ["111990296", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "111990296"]], "labels": []}
+{"log": "116249832 double-hummer alignment exceptions", "tokens": ["116249832", "double-hummer", "alignment", "exceptions"], "preds": [["domain", "116249832"]], "labels": []}
+{"log": "generating core.691", "tokens": ["generating", "core.691"], "preds": [["domain", "core.691"]], "labels": [["domain", "core.691"]]}
+{"log": "generating core.4159", "tokens": ["generating", "core.4159"], "preds": [["domain", "core.4159"]], "labels": [["domain", "core.4159"]]}
+{"log": "generating core.5054", "tokens": ["generating", "core.5054"], "preds": [["domain", "core.5054"]], "labels": [["domain", "core.5054"]]}
+{"log": "generating core.17150", "tokens": ["generating", "core.17150"], "preds": [["domain", "core.17150"]], "labels": [["domain", "core.17150"]]}
+{"log": "generating core.47314", "tokens": ["generating", "core.47314"], "preds": [["domain", "core.47314"]], "labels": [["domain", "core.47314"]]}
+{"log": "generating core.5520", "tokens": ["generating", "core.5520"], "preds": [["domain", "core.5520"]], "labels": [["domain", "core.5520"]]}
+{"log": "generating core.17817", "tokens": ["generating", "core.17817"], "preds": [["domain", "core.17817"]], "labels": [["domain", "core.17817"]]}
+{"log": "generating core.34898", "tokens": ["generating", "core.34898"], "preds": [["domain", "core.34898"]], "labels": [["domain", "core.34898"]]}
+{"log": "CE sym 16, at 0x0456cd40, mask 0x04", "tokens": ["CE", "sym", "16", ",", "at", "0x0456cd40", ",", "mask", "0x04"], "preds": [["domain", "CE"], ["domain", "16"], ["domain", ","], ["domain", "at"], ["domain", "0x0456cd40"], ["domain", ","], ["domain", "mask 0x04"]], "labels": []}
+{"log": "generating core.26059", "tokens": ["generating", "core.26059"], "preds": [["domain", "core.26059"]], "labels": [["domain", "core.26059"]]}
+{"log": "generating core.15192", "tokens": ["generating", "core.15192"], "preds": [["domain", "core.15192"]], "labels": [["domain", "core.15192"]]}
+{"log": "generating core.25712", "tokens": ["generating", "core.25712"], "preds": [["domain", "core.25712"]], "labels": [["domain", "core.25712"]]}
+{"log": "generating core.22807", "tokens": ["generating", "core.22807"], "preds": [["domain", "core.22807"]], "labels": [["domain", "core.22807"]]}
+{"log": "generating core.27051", "tokens": ["generating", "core.27051"], "preds": [["domain", "core.27051"]], "labels": [["domain", "core.27051"]]}
+{"log": "generating core.8374", "tokens": ["generating", "core.8374"], "preds": [["domain", "core.8374"]], "labels": [["domain", "core.8374"]]}
+{"log": "generating core.7855", "tokens": ["generating", "core.7855"], "preds": [["domain", "core.7855"]], "labels": [["domain", "core.7855"]]}
+{"log": "generating core.1103", "tokens": ["generating", "core.1103"], "preds": [["domain", "core.1103"]], "labels": [["domain", "core.1103"]]}
+{"log": "generating core.2010", "tokens": ["generating", "core.2010"], "preds": [["domain", "core.2010"]], "labels": [["domain", "core.2010"]]}
+{"log": "generating core.32010", "tokens": ["generating", "core.32010"], "preds": [["domain", "core.32010"]], "labels": [["domain", "core.32010"]]}
+{"log": "generating core.9651", "tokens": ["generating", "core.9651"], "preds": [["domain", "core.9651"]], "labels": [["domain", "core.9651"]]}
+{"log": "generating core.17467", "tokens": ["generating", "core.17467"], "preds": [["domain", "core.17467"]], "labels": [["domain", "core.17467"]]}
+{"log": "generating core.29367", "tokens": ["generating", "core.29367"], "preds": [["domain", "core.29367"]], "labels": [["domain", "core.29367"]]}
+{"log": "generating core.14852", "tokens": ["generating", "core.14852"], "preds": [["domain", "core.14852"]], "labels": [["domain", "core.14852"]]}
+{"log": "generating core.18324", "tokens": ["generating", "core.18324"], "preds": [["domain", "core.18324"]], "labels": [["domain", "core.18324"]]}
+{"log": "generating core.17851", "tokens": ["generating", "core.17851"], "preds": [["domain", "core.17851"]], "labels": [["domain", "core.17851"]]}
+{"log": "generating core.26735", "tokens": ["generating", "core.26735"], "preds": [["domain", "core.26735"]], "labels": [["domain", "core.26735"]]}
+{"log": "generating core.27698", "tokens": ["generating", "core.27698"], "preds": [["domain", "core.27698"]], "labels": [["domain", "core.27698"]]}
+{"log": "generating core.10645", "tokens": ["generating", "core.10645"], "preds": [["domain", "core.10645"]], "labels": [["domain", "core.10645"]]}
+{"log": "generating core.5785", "tokens": ["generating", "core.5785"], "preds": [["domain", "core.5785"]], "labels": [["domain", "core.5785"]]}
+{"log": "generating core.4505", "tokens": ["generating", "core.4505"], "preds": [["domain", "core.4505"]], "labels": [["domain", "core.4505"]]}
+{"log": "generating core.11493", "tokens": ["generating", "core.11493"], "preds": [["domain", "core.11493"]], "labels": [["domain", "core.11493"]]}
+{"log": "generating core.27926", "tokens": ["generating", "core.27926"], "preds": [["domain", "core.27926"]], "labels": [["domain", "core.27926"]]}
+{"log": "generating core.24172", "tokens": ["generating", "core.24172"], "preds": [["domain", "core.24172"]], "labels": [["domain", "core.24172"]]}
+{"log": "generating core.17526", "tokens": ["generating", "core.17526"], "preds": [["domain", "core.17526"]], "labels": [["domain", "core.17526"]]}
+{"log": "generating core.23873", "tokens": ["generating", "core.23873"], "preds": [["domain", "core.23873"]], "labels": [["domain", "core.23873"]]}
+{"log": "generating core.15737", "tokens": ["generating", "core.15737"], "preds": [["domain", "core.15737"]], "labels": [["domain", "core.15737"]]}
+{"log": "generating core.22967", "tokens": ["generating", "core.22967"], "preds": [["domain", "core.22967"]], "labels": [["domain", "core.22967"]]}
+{"log": "generating core.3980", "tokens": ["generating", "core.3980"], "preds": [["domain", "core.3980"]], "labels": [["domain", "core.3980"]]}
+{"log": "generating core.11473", "tokens": ["generating", "core.11473"], "preds": [["domain", "core.11473"]], "labels": [["domain", "core.11473"]]}
+{"log": "generating core.13043", "tokens": ["generating", "core.13043"], "preds": [["domain", "core.13043"]], "labels": [["domain", "core.13043"]]}
+{"log": "generating core.27197", "tokens": ["generating", "core.27197"], "preds": [["domain", "core.27197"]], "labels": [["domain", "core.27197"]]}
+{"log": "generating core.22886", "tokens": ["generating", "core.22886"], "preds": [["domain", "core.22886"]], "labels": [["domain", "core.22886"]]}
+{"log": "generating core.22325", "tokens": ["generating", "core.22325"], "preds": [["domain", "core.22325"]], "labels": [["domain", "core.22325"]]}
+{"log": "generating core.4675", "tokens": ["generating", "core.4675"], "preds": [["domain", "core.4675"]], "labels": [["domain", "core.4675"]]}
+{"log": "generating core.1227", "tokens": ["generating", "core.1227"], "preds": [["domain", "core.1227"]], "labels": [["domain", "core.1227"]]}
+{"log": "generating core.59955", "tokens": ["generating", "core.59955"], "preds": [["domain", "core.59955"]], "labels": [["domain", "core.59955"]]}
+{"log": "generating core.41718", "tokens": ["generating", "core.41718"], "preds": [["domain", "core.41718"]], "labels": [["domain", "core.41718"]]}
+{"log": "generating core.29431", "tokens": ["generating", "core.29431"], "preds": [["domain", "core.29431"]], "labels": [["domain", "core.29431"]]}
+{"log": "generating core.36339", "tokens": ["generating", "core.36339"], "preds": [["domain", "core.36339"]], "labels": [["domain", "core.36339"]]}
+{"log": "generating core.20595", "tokens": ["generating", "core.20595"], "preds": [["domain", "core.20595"]], "labels": [["domain", "core.20595"]]}
+{"log": "generating core.27867", "tokens": ["generating", "core.27867"], "preds": [["domain", "core.27867"]], "labels": [["domain", "core.27867"]]}
+{"log": "generating core.21016", "tokens": ["generating", "core.21016"], "preds": [["domain", "core.21016"]], "labels": [["domain", "core.21016"]]}
+{"log": "generating core.465", "tokens": ["generating", "core.465"], "preds": [["domain", "core.465"]], "labels": [["domain", "core.465"]]}
+{"log": "generating core.44723", "tokens": ["generating", "core.44723"], "preds": [["domain", "core.44723"]], "labels": [["domain", "core.44723"]]}
+{"log": "generating core.36787", "tokens": ["generating", "core.36787"], "preds": [["domain", "core.36787"]], "labels": [["domain", "core.36787"]]}
+{"log": "generating core.33706", "tokens": ["generating", "core.33706"], "preds": [["domain", "core.33706"]], "labels": [["domain", "core.33706"]]}
+{"log": "generating core.29899", "tokens": ["generating", "core.29899"], "preds": [["domain", "core.29899"]], "labels": [["domain", "core.29899"]]}
+{"log": "generating core.46536", "tokens": ["generating", "core.46536"], "preds": [["domain", "core.46536"]], "labels": [["domain", "core.46536"]]}
+{"log": "generating core.50988", "tokens": ["generating", "core.50988"], "preds": [["domain", "core.50988"]], "labels": [["domain", "core.50988"]]}
+{"log": "generating core.59042", "tokens": ["generating", "core.59042"], "preds": [["domain", "core.59042"]], "labels": [["domain", "core.59042"]]}
+{"log": "generating core.4900", "tokens": ["generating", "core.4900"], "preds": [["domain", "core.4900"]], "labels": [["domain", "core.4900"]]}
+{"log": "generating core.30256", "tokens": ["generating", "core.30256"], "preds": [["domain", "core.30256"]], "labels": [["domain", "core.30256"]]}
+{"log": "generating core.64146", "tokens": ["generating", "core.64146"], "preds": [["domain", "core.64146"]], "labels": [["domain", "core.64146"]]}
+{"log": "generating core.20241", "tokens": ["generating", "core.20241"], "preds": [["domain", "core.20241"]], "labels": [["domain", "core.20241"]]}
+{"log": "generating core.21045", "tokens": ["generating", "core.21045"], "preds": [["domain", "core.21045"]], "labels": [["domain", "core.21045"]]}
+{"log": "generating core.47256", "tokens": ["generating", "core.47256"], "preds": [["domain", "core.47256"]], "labels": [["domain", "core.47256"]]}
+{"log": "generating core.45880", "tokens": ["generating", "core.45880"], "preds": [["domain", "core.45880"]], "labels": [["domain", "core.45880"]]}

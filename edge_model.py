@@ -442,8 +442,7 @@ class EdgeDetectionModel(pl.LightningModule):
         x_graph = global_max_pool(x_, G.batch) # V X E -> B X E
         # Handling average feature vector
         targets = self.train_avg.expand(x_graph.shape[0], -1) # B X E
-        if self.on_cuda:
-            targets = targets.cuda()
+        targets = targets.to(self.device)
         # Calculate loss and save to dict
         individual_loss = self.mse_loss(x_graph, targets).sum(dim=-1) # B
         avg_loss = individual_loss.mean() # float
@@ -461,8 +460,7 @@ class EdgeDetectionModel(pl.LightningModule):
         if not G.edge_index.shape[-1]: # empty edge index
             # print("Empty edge index !!!")
             G.s = torch.zeros((G.num_nodes, G.num_nodes))
-            if self.on_cuda:
-                G.s = G.s.cuda()
+            G.s = G.s.to(self.device)
         else:
             G.s = to_dense_adj(G.edge_index, max_num_nodes=G.num_nodes)[0]
 

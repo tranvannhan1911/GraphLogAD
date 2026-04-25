@@ -126,10 +126,10 @@ class NodeConv(pl.LightningModule):
             x = G.x[is_event_nodes]
             x_list = x.tolist()
             preds = preds[is_event_nodes]
-            labels = G.y[is_event_nodes]
+            labels = (G.node_label if hasattr(G, 'node_label') else G.y)[is_event_nodes]
         else:
             x = G.x
-            labels = G.y
+            labels = G.node_label if hasattr(G, 'node_label') else G.y
 
         # Handling average feature vector
         if hasattr(self, 'train_avg'):
@@ -147,8 +147,7 @@ class NodeConv(pl.LightningModule):
             else:
                 targets = torch.normal(mean=0, std=1, size=(2*self.out_channels,)).expand(preds.shape[0], -1) # B X F
                 
-        if self.on_cuda:
-            targets = targets.cuda()
+        targets = targets.to(self.device)
         
         # Calculate loss and save to dict
         individual_loss = self.mse_loss(preds, targets).sum(dim=-1) # B
@@ -590,8 +589,7 @@ class AENodeConv(pl.LightningModule):
         if not G.edge_index.shape[-1]: # empty edge index
             # print("Empty edge index !!!")
             G.s = torch.zeros((G.num_nodes, G.num_nodes))
-            if self.on_cuda:
-                G.s = G.s.cuda()
+            G.s = G.s.to(self.device)
         else:
             G.s = to_dense_adj(G.edge_index, max_num_nodes=G.num_nodes)[0]
 
@@ -647,13 +645,13 @@ class AENodeConv(pl.LightningModule):
             if self.model_type.lower() == 'ae-scan':
                 is_event_nodes = x[:, self.event_id] == 1
                 scores = scores[is_event_nodes]
-                labels = G.y[is_event_nodes]
+                labels = (G.node_label if hasattr(G, 'node_label') else G.y)[is_event_nodes]
             else:
                 # Extract event nodes: B*|V| X H -> B*|V'| X H
                 is_event_nodes = x[:, self.event_id] == 1
                 event_x_ = x_[is_event_nodes]
                 event_x = x[is_event_nodes]
-                labels = G.y[is_event_nodes]
+                labels = (G.node_label if hasattr(G, 'node_label') else G.y)[is_event_nodes]
                 # Calculate loss and save to dict
                 if self.model_type.lower() not in ['ae-gcnae', 'ae-mlpae']:
                     event_s = G.s[is_event_nodes][:, is_event_nodes]
@@ -662,7 +660,7 @@ class AENodeConv(pl.LightningModule):
                 else:
                     scores = torch.mean(F.mse_loss(event_x_, event_x, reduction='none'), dim=1)
         else:
-            labels = G.y
+            labels = G.node_label if hasattr(G, 'node_label') else G.y
             # Calculate loss and save to dict
             if self.model_type.lower() not in ['ae-gcnae', 'ae-mlpae', 'ae-scan']: 
                 scores = self.loss_func(x, x_, G.s, s_) # |V|
@@ -676,13 +674,13 @@ class AENodeConv(pl.LightningModule):
         if self.model_type.lower() == 'ae-conad':
             loss = self.eta * torch.mean(scores) + (1 - self.eta) * margin_loss
         elif self.model_type.lower() == 'ae-dynamic':
-            if self.lambda_seq != 0 and split != 'test':
-                loss = torch.mean(scores) + self.lambda_seq * lm_loss
-            else:
-                loss = torch.mean(scores)
+            loss = torch.mean(scores)
+            if self.lambda_seq != 0 and split != 'test' and lm_loss is not None:
+                loss += self.lambda_seq * lm_loss
+
 
             if split == 'test':
-                labels = G.y[:scores.shape[0]] # needed when some of the nodes are cut
+                labels = (G.node_label if hasattr(G, 'node_label') else G.y)[:scores.shape[0]] # needed when some of the nodes are cut
         else:
             loss = torch.mean(scores)
 

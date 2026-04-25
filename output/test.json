@@ -1,0 +1,490 @@
+{"log": "63543 double-hummer alignment exceptions", "tokens": ["63543", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "162 double-hummer alignment exceptions", "tokens": ["162", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "141 double-hummer alignment exceptions", "tokens": ["141", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.862", "tokens": ["generating", "core.862"], "ner_tags": ["O", "B-domain"], "entities": ["core.862"], "tags": ["domain"]}
+{"log": "generating core.3276", "tokens": ["generating", "core.3276"], "ner_tags": ["O", "B-domain"], "entities": ["core.3276"], "tags": ["domain"]}
+{"log": "generating core.1717", "tokens": ["generating", "core.1717"], "ner_tags": ["O", "B-domain"], "entities": ["core.1717"], "tags": ["domain"]}
+{"log": "generating core.3919", "tokens": ["generating", "core.3919"], "ner_tags": ["O", "B-domain"], "entities": ["core.3919"], "tags": ["domain"]}
+{"log": "generating core.1414", "tokens": ["generating", "core.1414"], "ner_tags": ["O", "B-domain"], "entities": ["core.1414"], "tags": ["domain"]}
+{"log": "generating core.3055", "tokens": ["generating", "core.3055"], "ner_tags": ["O", "B-domain"], "entities": ["core.3055"], "tags": ["domain"]}
+{"log": "generating core.201", "tokens": ["generating", "core.201"], "ner_tags": ["O", "B-domain"], "entities": ["core.201"], "tags": ["domain"]}
+{"log": "generating core.412", "tokens": ["generating", "core.412"], "ner_tags": ["O", "B-domain"], "entities": ["core.412"], "tags": ["domain"]}
+{"log": "generating core.8275", "tokens": ["generating", "core.8275"], "ner_tags": ["O", "B-domain"], "entities": ["core.8275"], "tags": ["domain"]}
+{"log": "generating core.4183", "tokens": ["generating", "core.4183"], "ner_tags": ["O", "B-domain"], "entities": ["core.4183"], "tags": ["domain"]}
+{"log": "generating core.6884", "tokens": ["generating", "core.6884"], "ner_tags": ["O", "B-domain"], "entities": ["core.6884"], "tags": ["domain"]}
+{"log": "force load/store alignment...............0", "tokens": ["force", "load/store", "alignment...............0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.4155", "tokens": ["generating", "core.4155"], "ner_tags": ["O", "B-domain"], "entities": ["core.4155"], "tags": ["domain"]}
+{"log": "generating core.449", "tokens": ["generating", "core.449"], "ner_tags": ["O", "B-domain"], "entities": ["core.449"], "tags": ["domain"]}
+{"log": "generating core.6990", "tokens": ["generating", "core.6990"], "ner_tags": ["O", "B-domain"], "entities": ["core.6990"], "tags": ["domain"]}
+{"log": "generating core.2218", "tokens": ["generating", "core.2218"], "ner_tags": ["O", "B-domain"], "entities": ["core.2218"], "tags": ["domain"]}
+{"log": "generating core.7518", "tokens": ["generating", "core.7518"], "ner_tags": ["O", "B-domain"], "entities": ["core.7518"], "tags": ["domain"]}
+{"log": "generating core.5854", "tokens": ["generating", "core.5854"], "ner_tags": ["O", "B-domain"], "entities": ["core.5854"], "tags": ["domain"]}
+{"log": "generating core.6896", "tokens": ["generating", "core.6896"], "ner_tags": ["O", "B-domain"], "entities": ["core.6896"], "tags": ["domain"]}
+{"log": "generating core.3488", "tokens": ["generating", "core.3488"], "ner_tags": ["O", "B-domain"], "entities": ["core.3488"], "tags": ["domain"]}
+{"log": "generating core.786", "tokens": ["generating", "core.786"], "ner_tags": ["O", "B-domain"], "entities": ["core.786"], "tags": ["domain"]}
+{"log": "generating core.1524", "tokens": ["generating", "core.1524"], "ner_tags": ["O", "B-domain"], "entities": ["core.1524"], "tags": ["domain"]}
+{"log": "generating core.4937", "tokens": ["generating", "core.4937"], "ner_tags": ["O", "B-domain"], "entities": ["core.4937"], "tags": ["domain"]}
+{"log": "generating core.851", "tokens": ["generating", "core.851"], "ner_tags": ["O", "B-domain"], "entities": ["core.851"], "tags": ["domain"]}
+{"log": "generating core.1588", "tokens": ["generating", "core.1588"], "ner_tags": ["O", "B-domain"], "entities": ["core.1588"], "tags": ["domain"]}
+{"log": "generating core.5307", "tokens": ["generating", "core.5307"], "ner_tags": ["O", "B-domain"], "entities": ["core.5307"], "tags": ["domain"]}
+{"log": "CE sym 5, at 0x11042a80, mask 0x04", "tokens": ["CE", "sym", "5", ",", "at", "0x11042a80", ",", "mask", "0x04"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.174", "tokens": ["generating", "core.174"], "ner_tags": ["O", "B-domain"], "entities": ["core.174"], "tags": ["domain"]}
+{"log": "ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff", "tokens": ["ciod", ":", "cpu", "0", "at", "treeaddr", "438", "sent", "unrecognized", "message", "0xffffffff"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.1990", "tokens": ["generating", "core.1990"], "ner_tags": ["O", "B-domain"], "entities": ["core.1990"], "tags": ["domain"]}
+{"log": "generating core.2690", "tokens": ["generating", "core.2690"], "ner_tags": ["O", "B-domain"], "entities": ["core.2690"], "tags": ["domain"]}
+{"log": "generating core.2911", "tokens": ["generating", "core.2911"], "ner_tags": ["O", "B-domain"], "entities": ["core.2911"], "tags": ["domain"]}
+{"log": "generating core.122", "tokens": ["generating", "core.122"], "ner_tags": ["O", "B-domain"], "entities": ["core.122"], "tags": ["domain"]}
+{"log": "generating core.1973", "tokens": ["generating", "core.1973"], "ner_tags": ["O", "B-domain"], "entities": ["core.1973"], "tags": ["domain"]}
+{"log": "1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1", "tokens": ["1", "ddr", "errors", "(", "s", ")", "detected", "and", "corrected", "on", "rank", "0", ",", "symbol", "25", ",", "bit", "1"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "CE sym 14, at 0x06047860, mask 0x20", "tokens": ["CE", "sym", "14", ",", "at", "0x06047860", ",", "mask", "0x20"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.3265", "tokens": ["generating", "core.3265"], "ner_tags": ["O", "B-domain"], "entities": ["core.3265"], "tags": ["domain"]}
+{"log": "generating core.1818", "tokens": ["generating", "core.1818"], "ner_tags": ["O", "B-domain"], "entities": ["core.1818"], "tags": ["domain"]}
+{"log": "generating core.1694", "tokens": ["generating", "core.1694"], "ner_tags": ["O", "B-domain"], "entities": ["core.1694"], "tags": ["domain"]}
+{"log": "generating core.3401", "tokens": ["generating", "core.3401"], "ner_tags": ["O", "B-domain"], "entities": ["core.3401"], "tags": ["domain"]}
+{"log": "generating core.25350", "tokens": ["generating", "core.25350"], "ner_tags": ["O", "B-domain"], "entities": ["core.25350"], "tags": ["domain"]}
+{"log": "generating core.1820", "tokens": ["generating", "core.1820"], "ner_tags": ["O", "B-domain"], "entities": ["core.1820"], "tags": ["domain"]}
+{"log": "generating core.8280", "tokens": ["generating", "core.8280"], "ner_tags": ["O", "B-domain"], "entities": ["core.8280"], "tags": ["domain"]}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data TLB error interrupt", "tokens": ["data", "TLB", "error", "interrupt"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "ciod: Message code 0 is not 51 or 4294967295", "tokens": ["ciod", ":", "Message", "code", "0", "is", "not", "51", "or", "4294967295"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.2522", "tokens": ["generating", "core.2522"], "ner_tags": ["O", "B-domain"], "entities": ["core.2522"], "tags": ["domain"]}
+{"log": "generating core.1711", "tokens": ["generating", "core.1711"], "ner_tags": ["O", "B-domain"], "entities": ["core.1711"], "tags": ["domain"]}
+{"log": "generating core.2332", "tokens": ["generating", "core.2332"], "ner_tags": ["O", "B-domain"], "entities": ["core.2332"], "tags": ["domain"]}
+{"log": "generating core.4505", "tokens": ["generating", "core.4505"], "ner_tags": ["O", "B-domain"], "entities": ["core.4505"], "tags": ["domain"]}
+{"log": "generating core.1521", "tokens": ["generating", "core.1521"], "ner_tags": ["O", "B-domain"], "entities": ["core.1521"], "tags": ["domain"]}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data address: 0x00000002", "tokens": ["data", "address", ":", "0x00000002"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine check: i-fetch......................0", "tokens": ["machine", "check", ":", "i-fetch......................0"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine check: i-fetch......................0", "tokens": ["machine", "check", ":", "i-fetch......................0"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data storage interrupt", "tokens": ["data", "storage", "interrupt"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction address: 0x00004ed8", "tokens": ["instruction", "address", ":", "0x00004ed8"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "exception syndrome register: 0x00800000", "tokens": ["exception", "syndrome", "register", ":", "0x00800000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: illegal instruction......0", "tokens": ["program", "interrupt", ":", "illegal", "instruction......0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: illegal instruction......0", "tokens": ["program", "interrupt", ":", "illegal", "instruction......0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data store interrupt caused by dcbf.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "dcbf.........0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine check: i-fetch......................0", "tokens": ["machine", "check", ":", "i-fetch......................0"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: illegal instruction......0", "tokens": ["program", "interrupt", ":", "illegal", "instruction......0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: privileged instruction...0", "tokens": ["program", "interrupt", ":", "privileged", "instruction...0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine state register: 0x00002000", "tokens": ["machine", "state", "register", ":", "0x00002000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "problem state (0=sup,1=usr).......0", "tokens": ["problem", "state", "(", "0", "=", "sup,1", "=", "usr", ")", ".......0"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data store interrupt caused by icbi.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "icbi.........0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine check enable..............0", "tokens": ["machine", "check", "enable..............0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "floating pt ex mode 0 enable......0", "tokens": ["floating", "pt", "ex", "mode", "0", "enable......0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "floating pt ex mode 1 enable......0", "tokens": ["floating", "pt", "ex", "mode", "1", "enable......0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "byte ordering exception.....................0", "tokens": ["byte", "ordering", "exception.....................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "byte ordering exception.....................0", "tokens": ["byte", "ordering", "exception.....................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: imprecise exception......0", "tokens": ["program", "interrupt", ":", "imprecise", "exception......0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: fp cr field .............0", "tokens": ["program", "interrupt", ":", "fp", "cr", "field", ".............0"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "guaranteed data cache block touch........1", "tokens": ["guaranteed", "data", "cache", "block", "touch........1"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "force load/store alignment...............0", "tokens": ["force", "load/store", "alignment...............0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine state register: 0x00002000", "tokens": ["machine", "state", "register", ":", "0x00002000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "machine state register: 0x00002000", "tokens": ["machine", "state", "register", ":", "0x00002000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "icache prefetch threshold................0", "tokens": ["icache", "prefetch", "threshold................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "icache prefetch threshold................0", "tokens": ["icache", "prefetch", "threshold................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "problem state (0=sup,1=usr).......0", "tokens": ["problem", "state", "(", "0", "=", "sup,1", "=", "usr", ")", ".......0"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "problem state (0=sup,1=usr).......0", "tokens": ["problem", "state", "(", "0", "=", "sup,1", "=", "usr", ")", ".......0"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "special purpose registers:", "tokens": ["special", "purpose", "registers:"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000", "tokens": ["lr:00004ed0", "cr:28244842", "xer:20000002", "ctr:00086000"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "floating pt ex mode 0 enable......0", "tokens": ["floating", "pt", "ex", "mode", "0", "enable......0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "debug wait enable.................0", "tokens": ["debug", "wait", "enable.................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "floating pt ex mode 1 enable......0", "tokens": ["floating", "pt", "ex", "mode", "1", "enable......0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "data address space................0", "tokens": ["data", "address", "space................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "core configuration register: 0x00002000", "tokens": ["core", "configuration", "register", ":", "0x00002000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "core configuration register: 0x00002000", "tokens": ["core", "configuration", "register", ":", "0x00002000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "core configuration register: 0x00002000", "tokens": ["core", "configuration", "register", ":", "0x00002000"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "disable store gathering..................0", "tokens": ["disable", "store", "gathering..................0"], "ner_tags": ["O", "O", "O"], "entities": [], "tags": []}
+{"log": "total of 1 ddr error(s) detected and corrected", "tokens": ["total", "of", "1", "ddr", "error", "(", "s", ")", "detected", "and", "corrected"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.145", "tokens": ["generating", "core.145"], "ner_tags": ["O", "B-domain"], "entities": ["core.145"], "tags": ["domain"]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.1978", "tokens": ["generating", "core.1978"], "ner_tags": ["O", "B-domain"], "entities": ["core.1978"], "tags": ["domain"]}
+{"log": "generating core.15", "tokens": ["generating", "core.15"], "ner_tags": ["O", "B-domain"], "entities": ["core.15"], "tags": ["domain"]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.16218", "tokens": ["generating", "core.16218"], "ner_tags": ["O", "B-domain"], "entities": ["core.16218"], "tags": ["domain"]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.15966", "tokens": ["generating", "core.15966"], "ner_tags": ["O", "B-domain"], "entities": ["core.15966"], "tags": ["domain"]}
+{"log": "generating core.42", "tokens": ["generating", "core.42"], "ner_tags": ["O", "B-domain"], "entities": ["core.42"], "tags": ["domain"]}
+{"log": "generating core.93", "tokens": ["generating", "core.93"], "ner_tags": ["O", "B-domain"], "entities": ["core.93"], "tags": ["domain"]}
+{"log": "generating core.6037", "tokens": ["generating", "core.6037"], "ner_tags": ["O", "B-domain"], "entities": ["core.6037"], "tags": ["domain"]}
+{"log": "generating core.1488", "tokens": ["generating", "core.1488"], "ner_tags": ["O", "B-domain"], "entities": ["core.1488"], "tags": ["domain"]}
+{"log": "CE sym 2, at 0x0b85f680, mask 0x0e", "tokens": ["CE", "sym", "2", ",", "at", "0x0b85f680", ",", "mask", "0x0e"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.2186", "tokens": ["generating", "core.2186"], "ner_tags": ["O", "B-domain"], "entities": ["core.2186"], "tags": ["domain"]}
+{"log": "generating core.978", "tokens": ["generating", "core.978"], "ner_tags": ["O", "B-domain"], "entities": ["core.978"], "tags": ["domain"]}
+{"log": "generating core.5401", "tokens": ["generating", "core.5401"], "ner_tags": ["O", "B-domain"], "entities": ["core.5401"], "tags": ["domain"]}
+{"log": "generating core.14418", "tokens": ["generating", "core.14418"], "ner_tags": ["O", "B-domain"], "entities": ["core.14418"], "tags": ["domain"]}
+{"log": "generating core.9785", "tokens": ["generating", "core.9785"], "ner_tags": ["O", "B-domain"], "entities": ["core.9785"], "tags": ["domain"]}
+{"log": "generating core.7615", "tokens": ["generating", "core.7615"], "ner_tags": ["O", "B-domain"], "entities": ["core.7615"], "tags": ["domain"]}
+{"log": "generating core.15935", "tokens": ["generating", "core.15935"], "ner_tags": ["O", "B-domain"], "entities": ["core.15935"], "tags": ["domain"]}
+{"log": "generating core.721", "tokens": ["generating", "core.721"], "ner_tags": ["O", "B-domain"], "entities": ["core.721"], "tags": ["domain"]}
+{"log": "generating core.5287", "tokens": ["generating", "core.5287"], "ner_tags": ["O", "B-domain"], "entities": ["core.5287"], "tags": ["domain"]}
+{"log": "instruction cache parity error corrected", "tokens": ["instruction", "cache", "parity", "error", "corrected"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory", "tokens": ["ciod", ":", "Error", "loading", "./runtime_malloc", ":", "invalid", "or", "missing", "program", "image", ",", "No", "such", "file", "or", "directory"], "ner_tags": ["B-path", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [""], "tags": ["path"]}
+{"log": "199680 double-hummer alignment exceptions", "tokens": ["199680", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "2576000 double-hummer alignment exceptions", "tokens": ["2576000", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "3091200 double-hummer alignment exceptions", "tokens": ["3091200", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "3091200 double-hummer alignment exceptions", "tokens": ["3091200", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "3091200 double-hummer alignment exceptions", "tokens": ["3091200", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "CE sym 12, at 0x1b786f60, mask 0x04", "tokens": ["CE", "sym", "12", ",", "at", "0x1b786f60", ",", "mask", "0x04"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "23431872 double-hummer alignment exceptions", "tokens": ["23431872", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "259966605 double-hummer alignment exceptions", "tokens": ["259966605", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.24721", "tokens": ["generating", "core.24721"], "ner_tags": ["O", "B-domain"], "entities": ["core.24721"], "tags": ["domain"]}
+{"log": "generating core.4184", "tokens": ["generating", "core.4184"], "ner_tags": ["O", "B-domain"], "entities": ["core.4184"], "tags": ["domain"]}
+{"log": "generating core.58109", "tokens": ["generating", "core.58109"], "ner_tags": ["O", "B-domain"], "entities": ["core.58109"], "tags": ["domain"]}
+{"log": "generating core.9881", "tokens": ["generating", "core.9881"], "ner_tags": ["O", "B-domain"], "entities": ["core.9881"], "tags": ["domain"]}
+{"log": "generating core.16830", "tokens": ["generating", "core.16830"], "ner_tags": ["O", "B-domain"], "entities": ["core.16830"], "tags": ["domain"]}
+{"log": "generating core.9369", "tokens": ["generating", "core.9369"], "ner_tags": ["O", "B-domain"], "entities": ["core.9369"], "tags": ["domain"]}
+{"log": "generating core.37749", "tokens": ["generating", "core.37749"], "ner_tags": ["O", "B-domain"], "entities": ["core.37749"], "tags": ["domain"]}
+{"log": "generating core.9654", "tokens": ["generating", "core.9654"], "ner_tags": ["O", "B-domain"], "entities": ["core.9654"], "tags": ["domain"]}
+{"log": "generating core.56155", "tokens": ["generating", "core.56155"], "ner_tags": ["O", "B-domain"], "entities": ["core.56155"], "tags": ["domain"]}
+{"log": "generating core.40250", "tokens": ["generating", "core.40250"], "ner_tags": ["O", "B-domain"], "entities": ["core.40250"], "tags": ["domain"]}
+{"log": "generating core.9578", "tokens": ["generating", "core.9578"], "ner_tags": ["O", "B-domain"], "entities": ["core.9578"], "tags": ["domain"]}
+{"log": "generating core.14856", "tokens": ["generating", "core.14856"], "ner_tags": ["O", "B-domain"], "entities": ["core.14856"], "tags": ["domain"]}
+{"log": "generating core.39138", "tokens": ["generating", "core.39138"], "ner_tags": ["O", "B-domain"], "entities": ["core.39138"], "tags": ["domain"]}
+{"log": "generating core.10394", "tokens": ["generating", "core.10394"], "ner_tags": ["O", "B-domain"], "entities": ["core.10394"], "tags": ["domain"]}
+{"log": "generating core.41347", "tokens": ["generating", "core.41347"], "ner_tags": ["O", "B-domain"], "entities": ["core.41347"], "tags": ["domain"]}
+{"log": "generating core.54486", "tokens": ["generating", "core.54486"], "ner_tags": ["O", "B-domain"], "entities": ["core.54486"], "tags": ["domain"]}
+{"log": "generating core.22421", "tokens": ["generating", "core.22421"], "ner_tags": ["O", "B-domain"], "entities": ["core.22421"], "tags": ["domain"]}
+{"log": "generating core.25048", "tokens": ["generating", "core.25048"], "ner_tags": ["O", "B-domain"], "entities": ["core.25048"], "tags": ["domain"]}
+{"log": "generating core.42553", "tokens": ["generating", "core.42553"], "ner_tags": ["O", "B-domain"], "entities": ["core.42553"], "tags": ["domain"]}
+{"log": "generating core.2109", "tokens": ["generating", "core.2109"], "ner_tags": ["O", "B-domain"], "entities": ["core.2109"], "tags": ["domain"]}
+{"log": "generating core.10752", "tokens": ["generating", "core.10752"], "ner_tags": ["O", "B-domain"], "entities": ["core.10752"], "tags": ["domain"]}
+{"log": "generating core.323", "tokens": ["generating", "core.323"], "ner_tags": ["O", "B-domain"], "entities": ["core.323"], "tags": ["domain"]}
+{"log": "CE sym 5, at 0x11042a80, mask 0x04", "tokens": ["CE", "sym", "5", ",", "at", "0x11042a80", ",", "mask", "0x04"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.28370", "tokens": ["generating", "core.28370"], "ner_tags": ["O", "B-domain"], "entities": ["core.28370"], "tags": ["domain"]}
+{"log": "program interrupt: illegal instruction......1", "tokens": ["program", "interrupt", ":", "illegal", "instruction......1"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: illegal instruction......1", "tokens": ["program", "interrupt", ":", "illegal", "instruction......1"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: privileged instruction...0", "tokens": ["program", "interrupt", ":", "privileged", "instruction...0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data store interrupt caused by dcbf.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "dcbf.........0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data store interrupt caused by icbi.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "icbi.........0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "auxiliary processor.........................0", "tokens": ["auxiliary", "processor.........................0"], "ner_tags": ["O", "O"], "entities": [], "tags": []}
+{"log": "auxiliary processor.........................0", "tokens": ["auxiliary", "processor.........................0"], "ner_tags": ["O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: imprecise exception......0", "tokens": ["program", "interrupt", ":", "imprecise", "exception......0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: imprecise exception......0", "tokens": ["program", "interrupt", ":", "imprecise", "exception......0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.14700", "tokens": ["generating", "core.14700"], "ner_tags": ["O", "B-domain"], "entities": ["core.14700"], "tags": ["domain"]}
+{"log": "instruction address: 0x0062fe04", "tokens": ["instruction", "address", ":", "0x0062fe04"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "program interrupt: privileged instruction...0", "tokens": ["program", "interrupt", ":", "privileged", "instruction...0"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "data store interrupt caused by dcbf.........0", "tokens": ["data", "store", "interrupt", "caused", "by", "dcbf.........0"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "Node card is not fully functional", "tokens": ["Node", "card", "is", "not", "fully", "functional"], "ner_tags": ["O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.1786", "tokens": ["generating", "core.1786"], "ner_tags": ["O", "B-domain"], "entities": ["core.1786"], "tags": ["domain"]}
+{"log": "generating core.26918", "tokens": ["generating", "core.26918"], "ner_tags": ["O", "B-domain"], "entities": ["core.26918"], "tags": ["domain"]}
+{"log": "generating core.10125", "tokens": ["generating", "core.10125"], "ner_tags": ["O", "B-domain"], "entities": ["core.10125"], "tags": ["domain"]}
+{"log": "generating core.1177", "tokens": ["generating", "core.1177"], "ner_tags": ["O", "B-domain"], "entities": ["core.1177"], "tags": ["domain"]}
+{"log": "generating core.32693", "tokens": ["generating", "core.32693"], "ner_tags": ["O", "B-domain"], "entities": ["core.32693"], "tags": ["domain"]}
+{"log": "generating core.7151", "tokens": ["generating", "core.7151"], "ner_tags": ["O", "B-domain"], "entities": ["core.7151"], "tags": ["domain"]}
+{"log": "generating core.7023", "tokens": ["generating", "core.7023"], "ner_tags": ["O", "B-domain"], "entities": ["core.7023"], "tags": ["domain"]}
+{"log": "344040 double-hummer alignment exceptions", "tokens": ["344040", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.29308", "tokens": ["generating", "core.29308"], "ner_tags": ["O", "B-domain"], "entities": ["core.29308"], "tags": ["domain"]}
+{"log": "generating core.6040", "tokens": ["generating", "core.6040"], "ner_tags": ["O", "B-domain"], "entities": ["core.6040"], "tags": ["domain"]}
+{"log": "generating core.26156", "tokens": ["generating", "core.26156"], "ner_tags": ["O", "B-domain"], "entities": ["core.26156"], "tags": ["domain"]}
+{"log": "generating core.2112", "tokens": ["generating", "core.2112"], "ner_tags": ["O", "B-domain"], "entities": ["core.2112"], "tags": ["domain"]}
+{"log": "generating core.16483", "tokens": ["generating", "core.16483"], "ner_tags": ["O", "B-domain"], "entities": ["core.16483"], "tags": ["domain"]}
+{"log": "generating core.18751", "tokens": ["generating", "core.18751"], "ner_tags": ["O", "B-domain"], "entities": ["core.18751"], "tags": ["domain"]}
+{"log": "generating core.8021", "tokens": ["generating", "core.8021"], "ner_tags": ["O", "B-domain"], "entities": ["core.8021"], "tags": ["domain"]}
+{"log": "generating core.10734", "tokens": ["generating", "core.10734"], "ner_tags": ["O", "B-domain"], "entities": ["core.10734"], "tags": ["domain"]}
+{"log": "generating core.3613", "tokens": ["generating", "core.3613"], "ner_tags": ["O", "B-domain"], "entities": ["core.3613"], "tags": ["domain"]}
+{"log": "generating core.1916", "tokens": ["generating", "core.1916"], "ner_tags": ["O", "B-domain"], "entities": ["core.1916"], "tags": ["domain"]}
+{"log": "generating core.5935", "tokens": ["generating", "core.5935"], "ner_tags": ["O", "B-domain"], "entities": ["core.5935"], "tags": ["domain"]}
+{"log": "generating core.5512", "tokens": ["generating", "core.5512"], "ner_tags": ["O", "B-domain"], "entities": ["core.5512"], "tags": ["domain"]}
+{"log": "generating core.1123", "tokens": ["generating", "core.1123"], "ner_tags": ["O", "B-domain"], "entities": ["core.1123"], "tags": ["domain"]}
+{"log": "CE sym 0, at 0x1b858ca0, mask 0x40", "tokens": ["CE", "sym", "0", ",", "at", "0x1b858ca0", ",", "mask", "0x40"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "CE sym 0, at 0x1b858280, mask 0x40", "tokens": ["CE", "sym", "0", ",", "at", "0x1b858280", ",", "mask", "0x40"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.1165", "tokens": ["generating", "core.1165"], "ner_tags": ["O", "B-domain"], "entities": ["core.1165"], "tags": ["domain"]}
+{"log": "generating core.23615", "tokens": ["generating", "core.23615"], "ner_tags": ["O", "B-domain"], "entities": ["core.23615"], "tags": ["domain"]}
+{"log": "generating core.865", "tokens": ["generating", "core.865"], "ner_tags": ["O", "B-domain"], "entities": ["core.865"], "tags": ["domain"]}
+{"log": "generating core.16594", "tokens": ["generating", "core.16594"], "ner_tags": ["O", "B-domain"], "entities": ["core.16594"], "tags": ["domain"]}
+{"log": "generating core.30586", "tokens": ["generating", "core.30586"], "ner_tags": ["O", "B-domain"], "entities": ["core.30586"], "tags": ["domain"]}
+{"log": "generating core.18540", "tokens": ["generating", "core.18540"], "ner_tags": ["O", "B-domain"], "entities": ["core.18540"], "tags": ["domain"]}
+{"log": "generating core.9825", "tokens": ["generating", "core.9825"], "ner_tags": ["O", "B-domain"], "entities": ["core.9825"], "tags": ["domain"]}
+{"log": "generating core.28084", "tokens": ["generating", "core.28084"], "ner_tags": ["O", "B-domain"], "entities": ["core.28084"], "tags": ["domain"]}
+{"log": "generating core.536", "tokens": ["generating", "core.536"], "ner_tags": ["O", "B-domain"], "entities": ["core.536"], "tags": ["domain"]}
+{"log": "generating core.15655", "tokens": ["generating", "core.15655"], "ner_tags": ["O", "B-domain"], "entities": ["core.15655"], "tags": ["domain"]}
+{"log": "generating core.8628", "tokens": ["generating", "core.8628"], "ner_tags": ["O", "B-domain"], "entities": ["core.8628"], "tags": ["domain"]}
+{"log": "generating core.12122", "tokens": ["generating", "core.12122"], "ner_tags": ["O", "B-domain"], "entities": ["core.12122"], "tags": ["domain"]}
+{"log": "generating core.10312", "tokens": ["generating", "core.10312"], "ner_tags": ["O", "B-domain"], "entities": ["core.10312"], "tags": ["domain"]}
+{"log": "generating core.228", "tokens": ["generating", "core.228"], "ner_tags": ["O", "B-domain"], "entities": ["core.228"], "tags": ["domain"]}
+{"log": "generating core.332", "tokens": ["generating", "core.332"], "ner_tags": ["O", "B-domain"], "entities": ["core.332"], "tags": ["domain"]}
+{"log": "generating core.15740", "tokens": ["generating", "core.15740"], "ner_tags": ["O", "B-domain"], "entities": ["core.15740"], "tags": ["domain"]}
+{"log": "generating core.3389", "tokens": ["generating", "core.3389"], "ner_tags": ["O", "B-domain"], "entities": ["core.3389"], "tags": ["domain"]}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "458720 double-hummer alignment exceptions", "tokens": ["458720", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "1146800 double-hummer alignment exceptions", "tokens": ["1146800", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.1114", "tokens": ["generating", "core.1114"], "ner_tags": ["O", "B-domain"], "entities": ["core.1114"], "tags": ["domain"]}
+{"log": "generating core.848", "tokens": ["generating", "core.848"], "ner_tags": ["O", "B-domain"], "entities": ["core.848"], "tags": ["domain"]}
+{"log": "generating core.31006", "tokens": ["generating", "core.31006"], "ner_tags": ["O", "B-domain"], "entities": ["core.31006"], "tags": ["domain"]}
+{"log": "generating core.20954", "tokens": ["generating", "core.20954"], "ner_tags": ["O", "B-domain"], "entities": ["core.20954"], "tags": ["domain"]}
+{"log": "generating core.10185", "tokens": ["generating", "core.10185"], "ner_tags": ["O", "B-domain"], "entities": ["core.10185"], "tags": ["domain"]}
+{"log": "generating core.13776", "tokens": ["generating", "core.13776"], "ner_tags": ["O", "B-domain"], "entities": ["core.13776"], "tags": ["domain"]}
+{"log": "generating core.19596", "tokens": ["generating", "core.19596"], "ner_tags": ["O", "B-domain"], "entities": ["core.19596"], "tags": ["domain"]}
+{"log": "generating core.17853", "tokens": ["generating", "core.17853"], "ner_tags": ["O", "B-domain"], "entities": ["core.17853"], "tags": ["domain"]}
+{"log": "generating core.9739", "tokens": ["generating", "core.9739"], "ner_tags": ["O", "B-domain"], "entities": ["core.9739"], "tags": ["domain"]}
+{"log": "generating core.7187", "tokens": ["generating", "core.7187"], "ner_tags": ["O", "B-domain"], "entities": ["core.7187"], "tags": ["domain"]}
+{"log": "generating core.23438", "tokens": ["generating", "core.23438"], "ner_tags": ["O", "B-domain"], "entities": ["core.23438"], "tags": ["domain"]}
+{"log": "generating core.3006", "tokens": ["generating", "core.3006"], "ner_tags": ["O", "B-domain"], "entities": ["core.3006"], "tags": ["domain"]}
+{"log": "generating core.2348", "tokens": ["generating", "core.2348"], "ner_tags": ["O", "B-domain"], "entities": ["core.2348"], "tags": ["domain"]}
+{"log": "generating core.1219", "tokens": ["generating", "core.1219"], "ner_tags": ["O", "B-domain"], "entities": ["core.1219"], "tags": ["domain"]}
+{"log": "generating core.8877", "tokens": ["generating", "core.8877"], "ner_tags": ["O", "B-domain"], "entities": ["core.8877"], "tags": ["domain"]}
+{"log": "ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile", "tokens": ["ciod", ":", "Missing", "or", "invalid", "fields", "on", "line", "1", "of", "node", "map", "file", "/home/auselton/bgl/64mps.sequential.mapfile"], "ner_tags": ["B-path", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-domain"], "entities": ["", "/home/auselton/bgl/64mps.sequential.mapfile"], "tags": ["path", "domain"]}
+{"log": "1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected", "tokens": ["1", "torus", "receiver", "z+", "input", "pipe", "error", "(", "s", ")", "(", "dcr", "0x02f0", ")", "detected", "and", "corrected"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.631", "tokens": ["generating", "core.631"], "ner_tags": ["O", "B-domain"], "entities": ["core.631"], "tags": ["domain"]}
+{"log": "generating core.998", "tokens": ["generating", "core.998"], "ner_tags": ["O", "B-domain"], "entities": ["core.998"], "tags": ["domain"]}
+{"log": "generating core.1129", "tokens": ["generating", "core.1129"], "ner_tags": ["O", "B-domain"], "entities": ["core.1129"], "tags": ["domain"]}
+{"log": "generating core.1213", "tokens": ["generating", "core.1213"], "ner_tags": ["O", "B-domain"], "entities": ["core.1213"], "tags": ["domain"]}
+{"log": "generating core.319", "tokens": ["generating", "core.319"], "ner_tags": ["O", "B-domain"], "entities": ["core.319"], "tags": ["domain"]}
+{"log": "generating core.303", "tokens": ["generating", "core.303"], "ner_tags": ["O", "B-domain"], "entities": ["core.303"], "tags": ["domain"]}
+{"log": "generating core.1998", "tokens": ["generating", "core.1998"], "ner_tags": ["O", "B-domain"], "entities": ["core.1998"], "tags": ["domain"]}
+{"log": "633283776 double-hummer alignment exceptions", "tokens": ["633283776", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.57762", "tokens": ["generating", "core.57762"], "ner_tags": ["O", "B-domain"], "entities": ["core.57762"], "tags": ["domain"]}
+{"log": "generating core.3436", "tokens": ["generating", "core.3436"], "ner_tags": ["O", "B-domain"], "entities": ["core.3436"], "tags": ["domain"]}
+{"log": "generating core.4592", "tokens": ["generating", "core.4592"], "ner_tags": ["O", "B-domain"], "entities": ["core.4592"], "tags": ["domain"]}
+{"log": "generating core.149", "tokens": ["generating", "core.149"], "ner_tags": ["O", "B-domain"], "entities": ["core.149"], "tags": ["domain"]}
+{"log": "generating core.62507", "tokens": ["generating", "core.62507"], "ner_tags": ["O", "B-domain"], "entities": ["core.62507"], "tags": ["domain"]}
+{"log": "generating core.11154", "tokens": ["generating", "core.11154"], "ner_tags": ["O", "B-domain"], "entities": ["core.11154"], "tags": ["domain"]}
+{"log": "generating core.13817", "tokens": ["generating", "core.13817"], "ner_tags": ["O", "B-domain"], "entities": ["core.13817"], "tags": ["domain"]}
+{"log": "generating core.14349", "tokens": ["generating", "core.14349"], "ner_tags": ["O", "B-domain"], "entities": ["core.14349"], "tags": ["domain"]}
+{"log": "generating core.8897", "tokens": ["generating", "core.8897"], "ner_tags": ["O", "B-domain"], "entities": ["core.8897"], "tags": ["domain"]}
+{"log": "generating core.7946", "tokens": ["generating", "core.7946"], "ner_tags": ["O", "B-domain"], "entities": ["core.7946"], "tags": ["domain"]}
+{"log": "generating core.12012", "tokens": ["generating", "core.12012"], "ner_tags": ["O", "B-domain"], "entities": ["core.12012"], "tags": ["domain"]}
+{"log": "generating core.7752", "tokens": ["generating", "core.7752"], "ner_tags": ["O", "B-domain"], "entities": ["core.7752"], "tags": ["domain"]}
+{"log": "generating core.24671", "tokens": ["generating", "core.24671"], "ner_tags": ["O", "B-domain"], "entities": ["core.24671"], "tags": ["domain"]}
+{"log": "generating core.40979", "tokens": ["generating", "core.40979"], "ner_tags": ["O", "B-domain"], "entities": ["core.40979"], "tags": ["domain"]}
+{"log": "generating core.47738", "tokens": ["generating", "core.47738"], "ner_tags": ["O", "B-domain"], "entities": ["core.47738"], "tags": ["domain"]}
+{"log": "generating core.6682", "tokens": ["generating", "core.6682"], "ner_tags": ["O", "B-domain"], "entities": ["core.6682"], "tags": ["domain"]}
+{"log": "generating core.7672", "tokens": ["generating", "core.7672"], "ner_tags": ["O", "B-domain"], "entities": ["core.7672"], "tags": ["domain"]}
+{"log": "generating core.47122", "tokens": ["generating", "core.47122"], "ner_tags": ["O", "B-domain"], "entities": ["core.47122"], "tags": ["domain"]}
+{"log": "generating core.23664", "tokens": ["generating", "core.23664"], "ner_tags": ["O", "B-domain"], "entities": ["core.23664"], "tags": ["domain"]}
+{"log": "generating core.6553", "tokens": ["generating", "core.6553"], "ner_tags": ["O", "B-domain"], "entities": ["core.6553"], "tags": ["domain"]}
+{"log": "generating core.5781", "tokens": ["generating", "core.5781"], "ner_tags": ["O", "B-domain"], "entities": ["core.5781"], "tags": ["domain"]}
+{"log": "generating core.55191", "tokens": ["generating", "core.55191"], "ner_tags": ["O", "B-domain"], "entities": ["core.55191"], "tags": ["domain"]}
+{"log": "generating core.41557", "tokens": ["generating", "core.41557"], "ner_tags": ["O", "B-domain"], "entities": ["core.41557"], "tags": ["domain"]}
+{"log": "generating core.51900", "tokens": ["generating", "core.51900"], "ner_tags": ["O", "B-domain"], "entities": ["core.51900"], "tags": ["domain"]}
+{"log": "generating core.33018", "tokens": ["generating", "core.33018"], "ner_tags": ["O", "B-domain"], "entities": ["core.33018"], "tags": ["domain"]}
+{"log": "generating core.29433", "tokens": ["generating", "core.29433"], "ner_tags": ["O", "B-domain"], "entities": ["core.29433"], "tags": ["domain"]}
+{"log": "generating core.41080", "tokens": ["generating", "core.41080"], "ner_tags": ["O", "B-domain"], "entities": ["core.41080"], "tags": ["domain"]}
+{"log": "generating core.57878", "tokens": ["generating", "core.57878"], "ner_tags": ["O", "B-domain"], "entities": ["core.57878"], "tags": ["domain"]}
+{"log": "generating core.245", "tokens": ["generating", "core.245"], "ner_tags": ["O", "B-domain"], "entities": ["core.245"], "tags": ["domain"]}
+{"log": "generating core.17517", "tokens": ["generating", "core.17517"], "ner_tags": ["O", "B-domain"], "entities": ["core.17517"], "tags": ["domain"]}
+{"log": "generating core.2633", "tokens": ["generating", "core.2633"], "ner_tags": ["O", "B-domain"], "entities": ["core.2633"], "tags": ["domain"]}
+{"log": "generating core.7167", "tokens": ["generating", "core.7167"], "ner_tags": ["O", "B-domain"], "entities": ["core.7167"], "tags": ["domain"]}
+{"log": "generating core.2300", "tokens": ["generating", "core.2300"], "ner_tags": ["O", "B-domain"], "entities": ["core.2300"], "tags": ["domain"]}
+{"log": "generating core.14807", "tokens": ["generating", "core.14807"], "ner_tags": ["O", "B-domain"], "entities": ["core.14807"], "tags": ["domain"]}
+{"log": "generating core.7205", "tokens": ["generating", "core.7205"], "ner_tags": ["O", "B-domain"], "entities": ["core.7205"], "tags": ["domain"]}
+{"log": "generating core.30230", "tokens": ["generating", "core.30230"], "ner_tags": ["O", "B-domain"], "entities": ["core.30230"], "tags": ["domain"]}
+{"log": "generating core.28666", "tokens": ["generating", "core.28666"], "ner_tags": ["O", "B-domain"], "entities": ["core.28666"], "tags": ["domain"]}
+{"log": "generating core.52376", "tokens": ["generating", "core.52376"], "ner_tags": ["O", "B-domain"], "entities": ["core.52376"], "tags": ["domain"]}
+{"log": "generating core.10930", "tokens": ["generating", "core.10930"], "ner_tags": ["O", "B-domain"], "entities": ["core.10930"], "tags": ["domain"]}
+{"log": "generating core.48433", "tokens": ["generating", "core.48433"], "ner_tags": ["O", "B-domain"], "entities": ["core.48433"], "tags": ["domain"]}
+{"log": "generating core.46408", "tokens": ["generating", "core.46408"], "ner_tags": ["O", "B-domain"], "entities": ["core.46408"], "tags": ["domain"]}
+{"log": "generating core.35872", "tokens": ["generating", "core.35872"], "ner_tags": ["O", "B-domain"], "entities": ["core.35872"], "tags": ["domain"]}
+{"log": "generating core.58351", "tokens": ["generating", "core.58351"], "ner_tags": ["O", "B-domain"], "entities": ["core.58351"], "tags": ["domain"]}
+{"log": "generating core.9158", "tokens": ["generating", "core.9158"], "ner_tags": ["O", "B-domain"], "entities": ["core.9158"], "tags": ["domain"]}
+{"log": "generating core.22376", "tokens": ["generating", "core.22376"], "ner_tags": ["O", "B-domain"], "entities": ["core.22376"], "tags": ["domain"]}
+{"log": "generating core.55384", "tokens": ["generating", "core.55384"], "ner_tags": ["O", "B-domain"], "entities": ["core.55384"], "tags": ["domain"]}
+{"log": "generating core.46559", "tokens": ["generating", "core.46559"], "ner_tags": ["O", "B-domain"], "entities": ["core.46559"], "tags": ["domain"]}
+{"log": "generating core.25604", "tokens": ["generating", "core.25604"], "ner_tags": ["O", "B-domain"], "entities": ["core.25604"], "tags": ["domain"]}
+{"log": "generating core.61172", "tokens": ["generating", "core.61172"], "ner_tags": ["O", "B-domain"], "entities": ["core.61172"], "tags": ["domain"]}
+{"log": "generating core.25271", "tokens": ["generating", "core.25271"], "ner_tags": ["O", "B-domain"], "entities": ["core.25271"], "tags": ["domain"]}
+{"log": "generating core.40344", "tokens": ["generating", "core.40344"], "ner_tags": ["O", "B-domain"], "entities": ["core.40344"], "tags": ["domain"]}
+{"log": "generating core.23259", "tokens": ["generating", "core.23259"], "ner_tags": ["O", "B-domain"], "entities": ["core.23259"], "tags": ["domain"]}
+{"log": "generating core.24538", "tokens": ["generating", "core.24538"], "ner_tags": ["O", "B-domain"], "entities": ["core.24538"], "tags": ["domain"]}
+{"log": "generating core.30706", "tokens": ["generating", "core.30706"], "ner_tags": ["O", "B-domain"], "entities": ["core.30706"], "tags": ["domain"]}
+{"log": "generating core.57391", "tokens": ["generating", "core.57391"], "ner_tags": ["O", "B-domain"], "entities": ["core.57391"], "tags": ["domain"]}
+{"log": "generating core.11784", "tokens": ["generating", "core.11784"], "ner_tags": ["O", "B-domain"], "entities": ["core.11784"], "tags": ["domain"]}
+{"log": "generating core.33163", "tokens": ["generating", "core.33163"], "ner_tags": ["O", "B-domain"], "entities": ["core.33163"], "tags": ["domain"]}
+{"log": "generating core.30275", "tokens": ["generating", "core.30275"], "ner_tags": ["O", "B-domain"], "entities": ["core.30275"], "tags": ["domain"]}
+{"log": "generating core.7362", "tokens": ["generating", "core.7362"], "ner_tags": ["O", "B-domain"], "entities": ["core.7362"], "tags": ["domain"]}
+{"log": "generating core.9784", "tokens": ["generating", "core.9784"], "ner_tags": ["O", "B-domain"], "entities": ["core.9784"], "tags": ["domain"]}
+{"log": "generating core.11921", "tokens": ["generating", "core.11921"], "ner_tags": ["O", "B-domain"], "entities": ["core.11921"], "tags": ["domain"]}
+{"log": "generating core.11879", "tokens": ["generating", "core.11879"], "ner_tags": ["O", "B-domain"], "entities": ["core.11879"], "tags": ["domain"]}
+{"log": "generating core.14071", "tokens": ["generating", "core.14071"], "ner_tags": ["O", "B-domain"], "entities": ["core.14071"], "tags": ["domain"]}
+{"log": "generating core.8531", "tokens": ["generating", "core.8531"], "ner_tags": ["O", "B-domain"], "entities": ["core.8531"], "tags": ["domain"]}
+{"log": "generating core.7183", "tokens": ["generating", "core.7183"], "ner_tags": ["O", "B-domain"], "entities": ["core.7183"], "tags": ["domain"]}
+{"log": "generating core.2347", "tokens": ["generating", "core.2347"], "ner_tags": ["O", "B-domain"], "entities": ["core.2347"], "tags": ["domain"]}
+{"log": "generating core.2790", "tokens": ["generating", "core.2790"], "ner_tags": ["O", "B-domain"], "entities": ["core.2790"], "tags": ["domain"]}
+{"log": "generating core.2573", "tokens": ["generating", "core.2573"], "ner_tags": ["O", "B-domain"], "entities": ["core.2573"], "tags": ["domain"]}
+{"log": "generating core.13592", "tokens": ["generating", "core.13592"], "ner_tags": ["O", "B-domain"], "entities": ["core.13592"], "tags": ["domain"]}
+{"log": "generating core.10842", "tokens": ["generating", "core.10842"], "ner_tags": ["O", "B-domain"], "entities": ["core.10842"], "tags": ["domain"]}
+{"log": "1401390016 double-hummer alignment exceptions", "tokens": ["1401390016", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.13753", "tokens": ["generating", "core.13753"], "ner_tags": ["O", "B-domain"], "entities": ["core.13753"], "tags": ["domain"]}
+{"log": "generating core.23542", "tokens": ["generating", "core.23542"], "ner_tags": ["O", "B-domain"], "entities": ["core.23542"], "tags": ["domain"]}
+{"log": "generating core.28918", "tokens": ["generating", "core.28918"], "ner_tags": ["O", "B-domain"], "entities": ["core.28918"], "tags": ["domain"]}
+{"log": "generating core.1557", "tokens": ["generating", "core.1557"], "ner_tags": ["O", "B-domain"], "entities": ["core.1557"], "tags": ["domain"]}
+{"log": "generating core.5167", "tokens": ["generating", "core.5167"], "ner_tags": ["O", "B-domain"], "entities": ["core.5167"], "tags": ["domain"]}
+{"log": "generating core.5861", "tokens": ["generating", "core.5861"], "ner_tags": ["O", "B-domain"], "entities": ["core.5861"], "tags": ["domain"]}
+{"log": "generating core.15425", "tokens": ["generating", "core.15425"], "ner_tags": ["O", "B-domain"], "entities": ["core.15425"], "tags": ["domain"]}
+{"log": "generating core.5760", "tokens": ["generating", "core.5760"], "ner_tags": ["O", "B-domain"], "entities": ["core.5760"], "tags": ["domain"]}
+{"log": "generating core.13752", "tokens": ["generating", "core.13752"], "ner_tags": ["O", "B-domain"], "entities": ["core.13752"], "tags": ["domain"]}
+{"log": "generating core.10860", "tokens": ["generating", "core.10860"], "ner_tags": ["O", "B-domain"], "entities": ["core.10860"], "tags": ["domain"]}
+{"log": "generating core.19744", "tokens": ["generating", "core.19744"], "ner_tags": ["O", "B-domain"], "entities": ["core.19744"], "tags": ["domain"]}
+{"log": "generating core.6917", "tokens": ["generating", "core.6917"], "ner_tags": ["O", "B-domain"], "entities": ["core.6917"], "tags": ["domain"]}
+{"log": "generating core.11135", "tokens": ["generating", "core.11135"], "ner_tags": ["O", "B-domain"], "entities": ["core.11135"], "tags": ["domain"]}
+{"log": "generating core.22283", "tokens": ["generating", "core.22283"], "ner_tags": ["O", "B-domain"], "entities": ["core.22283"], "tags": ["domain"]}
+{"log": "generating core.16300", "tokens": ["generating", "core.16300"], "ner_tags": ["O", "B-domain"], "entities": ["core.16300"], "tags": ["domain"]}
+{"log": "generating core.2233", "tokens": ["generating", "core.2233"], "ner_tags": ["O", "B-domain"], "entities": ["core.2233"], "tags": ["domain"]}
+{"log": "generating core.3269", "tokens": ["generating", "core.3269"], "ner_tags": ["O", "B-domain"], "entities": ["core.3269"], "tags": ["domain"]}
+{"log": "generating core.31435", "tokens": ["generating", "core.31435"], "ner_tags": ["O", "B-domain"], "entities": ["core.31435"], "tags": ["domain"]}
+{"log": "generating core.20257", "tokens": ["generating", "core.20257"], "ner_tags": ["O", "B-domain"], "entities": ["core.20257"], "tags": ["domain"]}
+{"log": "generating core.16600", "tokens": ["generating", "core.16600"], "ner_tags": ["O", "B-domain"], "entities": ["core.16600"], "tags": ["domain"]}
+{"log": "generating core.15313", "tokens": ["generating", "core.15313"], "ner_tags": ["O", "B-domain"], "entities": ["core.15313"], "tags": ["domain"]}
+{"log": "generating core.16623", "tokens": ["generating", "core.16623"], "ner_tags": ["O", "B-domain"], "entities": ["core.16623"], "tags": ["domain"]}
+{"log": "CE sym 2, at 0x0d09f1c0, mask 0x80", "tokens": ["CE", "sym", "2", ",", "at", "0x0d09f1c0", ",", "mask", "0x80"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "rts panic! - stopping execution", "tokens": ["rts", "panic!", "-", "stopping", "execution"], "ner_tags": ["O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.9079", "tokens": ["generating", "core.9079"], "ner_tags": ["O", "B-domain"], "entities": ["core.9079"], "tags": ["domain"]}
+{"log": "generating core.3400", "tokens": ["generating", "core.3400"], "ner_tags": ["O", "B-domain"], "entities": ["core.3400"], "tags": ["domain"]}
+{"log": "generating core.6711", "tokens": ["generating", "core.6711"], "ner_tags": ["O", "B-domain"], "entities": ["core.6711"], "tags": ["domain"]}
+{"log": "generating core.2263", "tokens": ["generating", "core.2263"], "ner_tags": ["O", "B-domain"], "entities": ["core.2263"], "tags": ["domain"]}
+{"log": "generating core.4061", "tokens": ["generating", "core.4061"], "ner_tags": ["O", "B-domain"], "entities": ["core.4061"], "tags": ["domain"]}
+{"log": "generating core.14070", "tokens": ["generating", "core.14070"], "ner_tags": ["O", "B-domain"], "entities": ["core.14070"], "tags": ["domain"]}
+{"log": "generating core.1715", "tokens": ["generating", "core.1715"], "ner_tags": ["O", "B-domain"], "entities": ["core.1715"], "tags": ["domain"]}
+{"log": "generating core.4489", "tokens": ["generating", "core.4489"], "ner_tags": ["O", "B-domain"], "entities": ["core.4489"], "tags": ["domain"]}
+{"log": "total of 1 ddr error(s) detected and corrected", "tokens": ["total", "of", "1", "ddr", "error", "(", "s", ")", "detected", "and", "corrected"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "118661512 double-hummer alignment exceptions", "tokens": ["118661512", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "112099344 double-hummer alignment exceptions", "tokens": ["112099344", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "113170696 double-hummer alignment exceptions", "tokens": ["113170696", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "117400328 double-hummer alignment exceptions", "tokens": ["117400328", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "116130784 double-hummer alignment exceptions", "tokens": ["116130784", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "113622512 double-hummer alignment exceptions", "tokens": ["113622512", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "114059360 double-hummer alignment exceptions", "tokens": ["114059360", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "115325776 double-hummer alignment exceptions", "tokens": ["115325776", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "113355952 double-hummer alignment exceptions", "tokens": ["113355952", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "115193048 double-hummer alignment exceptions", "tokens": ["115193048", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "111990296 double-hummer alignment exceptions", "tokens": ["111990296", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "116249832 double-hummer alignment exceptions", "tokens": ["116249832", "double-hummer", "alignment", "exceptions"], "ner_tags": ["O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.691", "tokens": ["generating", "core.691"], "ner_tags": ["O", "B-domain"], "entities": ["core.691"], "tags": ["domain"]}
+{"log": "generating core.4159", "tokens": ["generating", "core.4159"], "ner_tags": ["O", "B-domain"], "entities": ["core.4159"], "tags": ["domain"]}
+{"log": "generating core.5054", "tokens": ["generating", "core.5054"], "ner_tags": ["O", "B-domain"], "entities": ["core.5054"], "tags": ["domain"]}
+{"log": "generating core.17150", "tokens": ["generating", "core.17150"], "ner_tags": ["O", "B-domain"], "entities": ["core.17150"], "tags": ["domain"]}
+{"log": "generating core.47314", "tokens": ["generating", "core.47314"], "ner_tags": ["O", "B-domain"], "entities": ["core.47314"], "tags": ["domain"]}
+{"log": "generating core.5520", "tokens": ["generating", "core.5520"], "ner_tags": ["O", "B-domain"], "entities": ["core.5520"], "tags": ["domain"]}
+{"log": "generating core.17817", "tokens": ["generating", "core.17817"], "ner_tags": ["O", "B-domain"], "entities": ["core.17817"], "tags": ["domain"]}
+{"log": "generating core.34898", "tokens": ["generating", "core.34898"], "ner_tags": ["O", "B-domain"], "entities": ["core.34898"], "tags": ["domain"]}
+{"log": "CE sym 16, at 0x0456cd40, mask 0x04", "tokens": ["CE", "sym", "16", ",", "at", "0x0456cd40", ",", "mask", "0x04"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"], "entities": [], "tags": []}
+{"log": "generating core.26059", "tokens": ["generating", "core.26059"], "ner_tags": ["O", "B-domain"], "entities": ["core.26059"], "tags": ["domain"]}
+{"log": "generating core.15192", "tokens": ["generating", "core.15192"], "ner_tags": ["O", "B-domain"], "entities": ["core.15192"], "tags": ["domain"]}
+{"log": "generating core.25712", "tokens": ["generating", "core.25712"], "ner_tags": ["O", "B-domain"], "entities": ["core.25712"], "tags": ["domain"]}
+{"log": "generating core.22807", "tokens": ["generating", "core.22807"], "ner_tags": ["O", "B-domain"], "entities": ["core.22807"], "tags": ["domain"]}
+{"log": "generating core.27051", "tokens": ["generating", "core.27051"], "ner_tags": ["O", "B-domain"], "entities": ["core.27051"], "tags": ["domain"]}
+{"log": "generating core.8374", "tokens": ["generating", "core.8374"], "ner_tags": ["O", "B-domain"], "entities": ["core.8374"], "tags": ["domain"]}
+{"log": "generating core.7855", "tokens": ["generating", "core.7855"], "ner_tags": ["O", "B-domain"], "entities": ["core.7855"], "tags": ["domain"]}
+{"log": "generating core.1103", "tokens": ["generating", "core.1103"], "ner_tags": ["O", "B-domain"], "entities": ["core.1103"], "tags": ["domain"]}
+{"log": "generating core.2010", "tokens": ["generating", "core.2010"], "ner_tags": ["O", "B-domain"], "entities": ["core.2010"], "tags": ["domain"]}
+{"log": "generating core.32010", "tokens": ["generating", "core.32010"], "ner_tags": ["O", "B-domain"], "entities": ["core.32010"], "tags": ["domain"]}
+{"log": "generating core.9651", "tokens": ["generating", "core.9651"], "ner_tags": ["O", "B-domain"], "entities": ["core.9651"], "tags": ["domain"]}
+{"log": "generating core.17467", "tokens": ["generating", "core.17467"], "ner_tags": ["O", "B-domain"], "entities": ["core.17467"], "tags": ["domain"]}
+{"log": "generating core.29367", "tokens": ["generating", "core.29367"], "ner_tags": ["O", "B-domain"], "entities": ["core.29367"], "tags": ["domain"]}
+{"log": "generating core.14852", "tokens": ["generating", "core.14852"], "ner_tags": ["O", "B-domain"], "entities": ["core.14852"], "tags": ["domain"]}
+{"log": "generating core.18324", "tokens": ["generating", "core.18324"], "ner_tags": ["O", "B-domain"], "entities": ["core.18324"], "tags": ["domain"]}
+{"log": "generating core.17851", "tokens": ["generating", "core.17851"], "ner_tags": ["O", "B-domain"], "entities": ["core.17851"], "tags": ["domain"]}
+{"log": "generating core.26735", "tokens": ["generating", "core.26735"], "ner_tags": ["O", "B-domain"], "entities": ["core.26735"], "tags": ["domain"]}
+{"log": "generating core.27698", "tokens": ["generating", "core.27698"], "ner_tags": ["O", "B-domain"], "entities": ["core.27698"], "tags": ["domain"]}
+{"log": "generating core.10645", "tokens": ["generating", "core.10645"], "ner_tags": ["O", "B-domain"], "entities": ["core.10645"], "tags": ["domain"]}
+{"log": "generating core.5785", "tokens": ["generating", "core.5785"], "ner_tags": ["O", "B-domain"], "entities": ["core.5785"], "tags": ["domain"]}
+{"log": "generating core.4505", "tokens": ["generating", "core.4505"], "ner_tags": ["O", "B-domain"], "entities": ["core.4505"], "tags": ["domain"]}
+{"log": "generating core.11493", "tokens": ["generating", "core.11493"], "ner_tags": ["O", "B-domain"], "entities": ["core.11493"], "tags": ["domain"]}
+{"log": "generating core.27926", "tokens": ["generating", "core.27926"], "ner_tags": ["O", "B-domain"], "entities": ["core.27926"], "tags": ["domain"]}
+{"log": "generating core.24172", "tokens": ["generating", "core.24172"], "ner_tags": ["O", "B-domain"], "entities": ["core.24172"], "tags": ["domain"]}
+{"log": "generating core.17526", "tokens": ["generating", "core.17526"], "ner_tags": ["O", "B-domain"], "entities": ["core.17526"], "tags": ["domain"]}
+{"log": "generating core.23873", "tokens": ["generating", "core.23873"], "ner_tags": ["O", "B-domain"], "entities": ["core.23873"], "tags": ["domain"]}
+{"log": "generating core.15737", "tokens": ["generating", "core.15737"], "ner_tags": ["O", "B-domain"], "entities": ["core.15737"], "tags": ["domain"]}
+{"log": "generating core.22967", "tokens": ["generating", "core.22967"], "ner_tags": ["O", "B-domain"], "entities": ["core.22967"], "tags": ["domain"]}
+{"log": "generating core.3980", "tokens": ["generating", "core.3980"], "ner_tags": ["O", "B-domain"], "entities": ["core.3980"], "tags": ["domain"]}
+{"log": "generating core.11473", "tokens": ["generating", "core.11473"], "ner_tags": ["O", "B-domain"], "entities": ["core.11473"], "tags": ["domain"]}
+{"log": "generating core.13043", "tokens": ["generating", "core.13043"], "ner_tags": ["O", "B-domain"], "entities": ["core.13043"], "tags": ["domain"]}
+{"log": "generating core.27197", "tokens": ["generating", "core.27197"], "ner_tags": ["O", "B-domain"], "entities": ["core.27197"], "tags": ["domain"]}
+{"log": "generating core.22886", "tokens": ["generating", "core.22886"], "ner_tags": ["O", "B-domain"], "entities": ["core.22886"], "tags": ["domain"]}
+{"log": "generating core.22325", "tokens": ["generating", "core.22325"], "ner_tags": ["O", "B-domain"], "entities": ["core.22325"], "tags": ["domain"]}
+{"log": "generating core.4675", "tokens": ["generating", "core.4675"], "ner_tags": ["O", "B-domain"], "entities": ["core.4675"], "tags": ["domain"]}
+{"log": "generating core.1227", "tokens": ["generating", "core.1227"], "ner_tags": ["O", "B-domain"], "entities": ["core.1227"], "tags": ["domain"]}
+{"log": "generating core.59955", "tokens": ["generating", "core.59955"], "ner_tags": ["O", "B-domain"], "entities": ["core.59955"], "tags": ["domain"]}
+{"log": "generating core.41718", "tokens": ["generating", "core.41718"], "ner_tags": ["O", "B-domain"], "entities": ["core.41718"], "tags": ["domain"]}
+{"log": "generating core.29431", "tokens": ["generating", "core.29431"], "ner_tags": ["O", "B-domain"], "entities": ["core.29431"], "tags": ["domain"]}
+{"log": "generating core.36339", "tokens": ["generating", "core.36339"], "ner_tags": ["O", "B-domain"], "entities": ["core.36339"], "tags": ["domain"]}
+{"log": "generating core.20595", "tokens": ["generating", "core.20595"], "ner_tags": ["O", "B-domain"], "entities": ["core.20595"], "tags": ["domain"]}
+{"log": "generating core.27867", "tokens": ["generating", "core.27867"], "ner_tags": ["O", "B-domain"], "entities": ["core.27867"], "tags": ["domain"]}
+{"log": "generating core.21016", "tokens": ["generating", "core.21016"], "ner_tags": ["O", "B-domain"], "entities": ["core.21016"], "tags": ["domain"]}
+{"log": "generating core.465", "tokens": ["generating", "core.465"], "ner_tags": ["O", "B-domain"], "entities": ["core.465"], "tags": ["domain"]}
+{"log": "generating core.44723", "tokens": ["generating", "core.44723"], "ner_tags": ["O", "B-domain"], "entities": ["core.44723"], "tags": ["domain"]}
+{"log": "generating core.36787", "tokens": ["generating", "core.36787"], "ner_tags": ["O", "B-domain"], "entities": ["core.36787"], "tags": ["domain"]}
+{"log": "generating core.33706", "tokens": ["generating", "core.33706"], "ner_tags": ["O", "B-domain"], "entities": ["core.33706"], "tags": ["domain"]}
+{"log": "generating core.29899", "tokens": ["generating", "core.29899"], "ner_tags": ["O", "B-domain"], "entities": ["core.29899"], "tags": ["domain"]}
+{"log": "generating core.46536", "tokens": ["generating", "core.46536"], "ner_tags": ["O", "B-domain"], "entities": ["core.46536"], "tags": ["domain"]}
+{"log": "generating core.50988", "tokens": ["generating", "core.50988"], "ner_tags": ["O", "B-domain"], "entities": ["core.50988"], "tags": ["domain"]}
+{"log": "generating core.59042", "tokens": ["generating", "core.59042"], "ner_tags": ["O", "B-domain"], "entities": ["core.59042"], "tags": ["domain"]}
+{"log": "generating core.4900", "tokens": ["generating", "core.4900"], "ner_tags": ["O", "B-domain"], "entities": ["core.4900"], "tags": ["domain"]}
+{"log": "generating core.30256", "tokens": ["generating", "core.30256"], "ner_tags": ["O", "B-domain"], "entities": ["core.30256"], "tags": ["domain"]}
+{"log": "generating core.64146", "tokens": ["generating", "core.64146"], "ner_tags": ["O", "B-domain"], "entities": ["core.64146"], "tags": ["domain"]}
+{"log": "generating core.20241", "tokens": ["generating", "core.20241"], "ner_tags": ["O", "B-domain"], "entities": ["core.20241"], "tags": ["domain"]}
+{"log": "generating core.21045", "tokens": ["generating", "core.21045"], "ner_tags": ["O", "B-domain"], "entities": ["core.21045"], "tags": ["domain"]}
+{"log": "generating core.47256", "tokens": ["generating", "core.47256"], "ner_tags": ["O", "B-domain"], "entities": ["core.47256"], "tags": ["domain"]}
+{"log": "generating core.45880", "tokens": ["generating", "core.45880"], "ner_tags": ["O", "B-domain"], "entities": ["core.45880"], "tags": ["domain"]}

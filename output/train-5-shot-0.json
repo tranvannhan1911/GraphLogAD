@@ -1,0 +1,88 @@
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "10.0.0.151 is an ip entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "ip=10.0.0.151 is a domain entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "2 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "08 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= M Fri is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= 4 status is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "Fri Jul 01 is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "status = is not a named entity ."}
+{"log": "generating core.28242", "prompt": "core.28242 is a domain entity ."}
+{"log": "generating core.28242", "prompt": "generating is not a named entity ."}
+{"log": "ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map", "prompt": " is a path entity ."}
+{"log": "ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map", "prompt": "/p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map is a domain entity ."}
+{"log": "ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map", "prompt": "coordinate is not a named entity ."}
+{"log": "ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map", "prompt": "map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map is not a named entity ."}
+{"log": "generating core.5570", "prompt": "core.5570 is a domain entity ."}
+{"log": "generating core.5570", "prompt": "generating is not a named entity ."}
+{"log": "ciod: Error loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: invalid or missing program image, No such file or directory", "prompt": " is a path entity ."}
+{"log": "ciod: Error loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: invalid or missing program image, No such file or directory", "prompt": "/home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: is a domain entity ."}
+{"log": "ciod: Error loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: invalid or missing program image, No such file or directory", "prompt": "file is not a named entity ."}
+{"log": "ciod: Error loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: invalid or missing program image, No such file or directory", "prompt": "loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV : is not a named entity ."}
+{"log": "ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory", "prompt": " is a path entity ."}
+{"log": "ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory", "prompt": "/home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: is a domain entity ."}
+{"log": "ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory", "prompt": "file is not a named entity ."}
+{"log": "ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory", "prompt": "image , is not a named entity ."}
+{"log": "generating core.2315", "prompt": "core.2315 is a domain entity ."}
+{"log": "generating core.2315", "prompt": "generating is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "10.0.0.151 is an ip entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "ip=10.0.0.151 is a domain entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "2 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "08 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= M Fri is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= 4 status is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "Fri Jul 01 is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "status = is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "172.16.96.116 is an ip entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "172.16.96.116:33569 is a domain entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "socket is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "message is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "172.16.96.116 is an ip entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "172.16.96.116:51706 is a domain entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "ciod : failed is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "message is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "10.0.0.151 is an ip entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "ip=10.0.0.151 is a domain entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "2 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "08 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= M Fri is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= 4 status is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "Fri Jul 01 is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "status = is not a named entity ."}
+{"log": "generating core.62468", "prompt": "core.62468 is a domain entity ."}
+{"log": "generating core.62468", "prompt": "generating is not a named entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required", "prompt": " is a path entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required", "prompt": "/p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: is a domain entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required", "prompt": "Error is not a named entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required", "prompt": "node map is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "10.0.0.151 is an ip entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "ip=10.0.0.151 is a domain entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "2 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "08 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= M Fri is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= 4 status is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "Fri Jul 01 is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "status = is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370", "prompt": "172.16.96.116 is an ip entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370", "prompt": "172.16.96.116:33370 is a domain entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370", "prompt": "socket is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370", "prompt": "prefix is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "172.16.96.116 is an ip entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "172.16.96.116:51706 is a domain entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "ciod : failed is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706", "prompt": "message is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "10.0.0.151 is an ip entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "ip=10.0.0.151 is a domain entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "2 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "08 is a time entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= M Fri is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "= 4 status is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "Fri Jul 01 is not a named entity ."}
+{"log": "Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005", "prompt": "status = is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "172.16.96.116 is an ip entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "172.16.96.116:33569 is a domain entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "socket is not a named entity ."}
+{"log": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569", "prompt": "message is not a named entity ."}
+{"log": "ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory", "prompt": " is a path entity ."}
+{"log": "ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory", "prompt": "/home/draeger/testQboxhang-nozerobytebug-nosleepyescomm : invalid is not a named entity ."}
+{"log": "generating core.62516", "prompt": "core.62516 is a domain entity ."}
+{"log": "generating core.62516", "prompt": "generating is not a named entity ."}

@@ -100,8 +100,7 @@ class GraphConv(pl.LightningModule):
         )
         # Handling average feature vector
         targets = self.train_avg.expand(preds.shape[0], -1) # B X F
-        if self.on_cuda:
-            targets = targets.cuda()
+        targets = targets.to(self.device)
         # Calculate loss and save to dict
         individual_loss = self.mse_loss(preds, targets).sum(dim=-1) # B
         avg_loss = individual_loss.mean() # float

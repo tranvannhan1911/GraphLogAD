@@ -1,0 +1,787 @@
+{"log": "generating core.8544", "prompt": "core.8544 is a domain entity ."}
+{"log": "generating core.8544", "prompt": "generating is not a named entity ."}
+{"log": "generating core.310", "prompt": "core.310 is a domain entity ."}
+{"log": "generating core.310", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4368", "prompt": "core.4368 is a domain entity ."}
+{"log": "generating core.4368", "prompt": "generating is not a named entity ."}
+{"log": "generating core.34955", "prompt": "core.34955 is a domain entity ."}
+{"log": "generating core.34955", "prompt": "generating is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "generating core.3851", "prompt": "core.3851 is a domain entity ."}
+{"log": "generating core.3851", "prompt": "generating is not a named entity ."}
+{"log": "instruction address space.........0", "prompt": "address space.........0 is not a named entity ."}
+{"log": "generating core.4984", "prompt": "core.4984 is a domain entity ."}
+{"log": "generating core.4984", "prompt": "generating is not a named entity ."}
+{"log": "generating core.12984", "prompt": "core.12984 is a domain entity ."}
+{"log": "generating core.12984", "prompt": "generating is not a named entity ."}
+{"log": "data store interrupt caused by dcbf.........0", "prompt": "by dcbf.........0 is not a named entity ."}
+{"log": "generating core.3510", "prompt": "core.3510 is a domain entity ."}
+{"log": "generating core.3510", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.4501", "prompt": "core.4501 is a domain entity ."}
+{"log": "generating core.4501", "prompt": "generating is not a named entity ."}
+{"log": "wait state enable.................0", "prompt": "wait is not a named entity ."}
+{"log": "generating core.16904", "prompt": "core.16904 is a domain entity ."}
+{"log": "generating core.16904", "prompt": "generating is not a named entity ."}
+{"log": "generating core.30603", "prompt": "core.30603 is a domain entity ."}
+{"log": "generating core.30603", "prompt": "generating is not a named entity ."}
+{"log": "generating core.17999", "prompt": "core.17999 is a domain entity ."}
+{"log": "generating core.17999", "prompt": "generating is not a named entity ."}
+{"log": "6182400 double-hummer alignment exceptions", "prompt": "6182400 double-hummer alignment is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "CE sym 23, at 0x03f89c00, mask 0x10", "prompt": "sym 23 is not a named entity ."}
+{"log": "1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 1", "prompt": "1 is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "generating core.4035", "prompt": "core.4035 is a domain entity ."}
+{"log": "generating core.4035", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: fp cr field .............0", "prompt": "cr is not a named entity ."}
+{"log": "generating core.13067", "prompt": "core.13067 is a domain entity ."}
+{"log": "generating core.13067", "prompt": "generating is not a named entity ."}
+{"log": "generating core.40528", "prompt": "core.40528 is a domain entity ."}
+{"log": "generating core.40528", "prompt": "generating is not a named entity ."}
+{"log": "generating core.14652", "prompt": "core.14652 is a domain entity ."}
+{"log": "generating core.14652", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4182", "prompt": "core.4182 is a domain entity ."}
+{"log": "generating core.4182", "prompt": "generating is not a named entity ."}
+{"log": "generating core.10793", "prompt": "core.10793 is a domain entity ."}
+{"log": "generating core.10793", "prompt": "generating is not a named entity ."}
+{"log": "generating core.29543", "prompt": "core.29543 is a domain entity ."}
+{"log": "generating core.29543", "prompt": "generating is not a named entity ."}
+{"log": "instruction address: 0x00004ed8", "prompt": "address is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.21145", "prompt": "core.21145 is a domain entity ."}
+{"log": "generating core.21145", "prompt": "generating is not a named entity ."}
+{"log": "data store interrupt caused by icbi.........0", "prompt": "interrupt caused by is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.22783", "prompt": "core.22783 is a domain entity ."}
+{"log": "generating core.22783", "prompt": "generating is not a named entity ."}
+{"log": "generating core.19579", "prompt": "core.19579 is a domain entity ."}
+{"log": "generating core.19579", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: fp cr field .............0", "prompt": "cr is not a named entity ."}
+{"log": "generating core.57863", "prompt": "core.57863 is a domain entity ."}
+{"log": "generating core.57863", "prompt": "generating is not a named entity ."}
+{"log": "generating core.26078", "prompt": "core.26078 is a domain entity ."}
+{"log": "generating core.26078", "prompt": "generating is not a named entity ."}
+{"log": "generating core.23080", "prompt": "core.23080 is a domain entity ."}
+{"log": "generating core.23080", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.24314", "prompt": "core.24314 is a domain entity ."}
+{"log": "generating core.24314", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2961", "prompt": "core.2961 is a domain entity ."}
+{"log": "generating core.2961", "prompt": "generating is not a named entity ."}
+{"log": "generating core.29420", "prompt": "core.29420 is a domain entity ."}
+{"log": "generating core.29420", "prompt": "generating is not a named entity ."}
+{"log": "generating core.3792", "prompt": "core.3792 is a domain entity ."}
+{"log": "generating core.3792", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7068", "prompt": "core.7068 is a domain entity ."}
+{"log": "generating core.7068", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "exception syndrome register: 0x00800000", "prompt": "syndrome register : is not a named entity ."}
+{"log": "generating core.12883", "prompt": "core.12883 is a domain entity ."}
+{"log": "generating core.12883", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4876", "prompt": "core.4876 is a domain entity ."}
+{"log": "generating core.4876", "prompt": "generating is not a named entity ."}
+{"log": "112762744 double-hummer alignment exceptions", "prompt": "112762744 double-hummer is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.47736", "prompt": "core.47736 is a domain entity ."}
+{"log": "generating core.47736", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: fp cr field .............0", "prompt": "cr is not a named entity ."}
+{"log": "generating core.3638", "prompt": "core.3638 is a domain entity ."}
+{"log": "generating core.3638", "prompt": "generating is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "generating core.226", "prompt": "core.226 is a domain entity ."}
+{"log": "generating core.226", "prompt": "generating is not a named entity ."}
+{"log": "generating core.27577", "prompt": "core.27577 is a domain entity ."}
+{"log": "generating core.27577", "prompt": "generating is not a named entity ."}
+{"log": "1365301360 double-hummer alignment exceptions", "prompt": "alignment is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "generating core.2481", "prompt": "core.2481 is a domain entity ."}
+{"log": "generating core.2481", "prompt": "generating is not a named entity ."}
+{"log": "Can not get assembly information for node card", "prompt": "node is not a named entity ."}
+{"log": "generating core.7619", "prompt": "core.7619 is a domain entity ."}
+{"log": "generating core.7619", "prompt": "generating is not a named entity ."}
+{"log": "generating core.29732", "prompt": "core.29732 is a domain entity ."}
+{"log": "generating core.29732", "prompt": "generating is not a named entity ."}
+{"log": "generating core.25382", "prompt": "core.25382 is a domain entity ."}
+{"log": "generating core.25382", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1605", "prompt": "core.1605 is a domain entity ."}
+{"log": "generating core.1605", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "guaranteed instruction cache block touch.0", "prompt": "cache is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "floating point instr. enabled.....1", "prompt": ". enabled.....1 is not a named entity ."}
+{"log": "generating core.8803", "prompt": "core.8803 is a domain entity ."}
+{"log": "generating core.8803", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7881", "prompt": "core.7881 is a domain entity ."}
+{"log": "generating core.7881", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1351", "prompt": "core.1351 is a domain entity ."}
+{"log": "generating core.1351", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: fp cr update.............0", "prompt": "program interrupt : is not a named entity ."}
+{"log": "generating core.12643", "prompt": "core.12643 is a domain entity ."}
+{"log": "generating core.12643", "prompt": "generating is not a named entity ."}
+{"log": "634368144 double-hummer alignment exceptions", "prompt": "634368144 double-hummer is not a named entity ."}
+{"log": "program interrupt", "prompt": "interrupt is not a named entity ."}
+{"log": "632431728 double-hummer alignment exceptions", "prompt": "alignment is not a named entity ."}
+{"log": "generating core.18261", "prompt": "core.18261 is a domain entity ."}
+{"log": "generating core.18261", "prompt": "generating is not a named entity ."}
+{"log": "2576000 double-hummer alignment exceptions", "prompt": "2576000 double-hummer alignment is not a named entity ."}
+{"log": "generating core.33399", "prompt": "core.33399 is a domain entity ."}
+{"log": "generating core.33399", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.2210", "prompt": "core.2210 is a domain entity ."}
+{"log": "generating core.2210", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 2, at 0x1b85f080, mask 0x02", "prompt": ", mask is not a named entity ."}
+{"log": "generating core.21175", "prompt": "core.21175 is a domain entity ."}
+{"log": "generating core.21175", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1744", "prompt": "core.1744 is a domain entity ."}
+{"log": "generating core.1744", "prompt": "generating is not a named entity ."}
+{"log": "generating core.26646", "prompt": "core.26646 is a domain entity ."}
+{"log": "generating core.26646", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.36539", "prompt": "core.36539 is a domain entity ."}
+{"log": "generating core.36539", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.9386", "prompt": "core.9386 is a domain entity ."}
+{"log": "generating core.9386", "prompt": "generating is not a named entity ."}
+{"log": "generating core.31192", "prompt": "core.31192 is a domain entity ."}
+{"log": "generating core.31192", "prompt": "generating is not a named entity ."}
+{"log": "auxiliary processor.........................0", "prompt": "auxiliary processor.........................0 is not a named entity ."}
+{"log": "generating core.9652", "prompt": "core.9652 is a domain entity ."}
+{"log": "generating core.9652", "prompt": "generating is not a named entity ."}
+{"log": "generating core.976", "prompt": "core.976 is a domain entity ."}
+{"log": "generating core.976", "prompt": "generating is not a named entity ."}
+{"log": "generating core.10140", "prompt": "core.10140 is a domain entity ."}
+{"log": "generating core.10140", "prompt": "generating is not a named entity ."}
+{"log": "generating core.50230", "prompt": "core.50230 is a domain entity ."}
+{"log": "generating core.50230", "prompt": "generating is not a named entity ."}
+{"log": "generating core.30632", "prompt": "core.30632 is a domain entity ."}
+{"log": "generating core.30632", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7777", "prompt": "core.7777 is a domain entity ."}
+{"log": "generating core.7777", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "machine check enable..............0", "prompt": "enable..............0 is not a named entity ."}
+{"log": "generating core.22905", "prompt": "core.22905 is a domain entity ."}
+{"log": "generating core.22905", "prompt": "generating is not a named entity ."}
+{"log": "generating core.775", "prompt": "core.775 is a domain entity ."}
+{"log": "generating core.775", "prompt": "generating is not a named entity ."}
+{"log": "generating core.12212", "prompt": "core.12212 is a domain entity ."}
+{"log": "generating core.12212", "prompt": "generating is not a named entity ."}
+{"log": "generating core.32657", "prompt": "core.32657 is a domain entity ."}
+{"log": "generating core.32657", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.62462", "prompt": "core.62462 is a domain entity ."}
+{"log": "generating core.62462", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2117", "prompt": "core.2117 is a domain entity ."}
+{"log": "generating core.2117", "prompt": "generating is not a named entity ."}
+{"log": "generating core.17276", "prompt": "core.17276 is a domain entity ."}
+{"log": "generating core.17276", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8879", "prompt": "core.8879 is a domain entity ."}
+{"log": "generating core.8879", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2971", "prompt": "core.2971 is a domain entity ."}
+{"log": "generating core.2971", "prompt": "generating is not a named entity ."}
+{"log": "generating core.51808", "prompt": "core.51808 is a domain entity ."}
+{"log": "generating core.51808", "prompt": "generating is not a named entity ."}
+{"log": "generating core.334", "prompt": "core.334 is a domain entity ."}
+{"log": "generating core.334", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "core configuration register: 0x00002000", "prompt": "0x00002000 is not a named entity ."}
+{"log": "auxiliary processor.........................0", "prompt": "auxiliary processor.........................0 is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.22119", "prompt": "core.22119 is a domain entity ."}
+{"log": "generating core.22119", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.26835", "prompt": "core.26835 is a domain entity ."}
+{"log": "generating core.26835", "prompt": "generating is not a named entity ."}
+{"log": "1315337824 double-hummer alignment exceptions", "prompt": "1315337824 double-hummer alignment is not a named entity ."}
+{"log": "generating core.15967", "prompt": "core.15967 is a domain entity ."}
+{"log": "generating core.15967", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.3292", "prompt": "core.3292 is a domain entity ."}
+{"log": "generating core.3292", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.38077", "prompt": "core.38077 is a domain entity ."}
+{"log": "generating core.38077", "prompt": "generating is not a named entity ."}
+{"log": "core configuration register: 0x00002000", "prompt": "0x00002000 is not a named entity ."}
+{"log": "generating core.10211", "prompt": "core.10211 is a domain entity ."}
+{"log": "generating core.10211", "prompt": "generating is not a named entity ."}
+{"log": "generating core.47007", "prompt": "core.47007 is a domain entity ."}
+{"log": "generating core.47007", "prompt": "generating is not a named entity ."}
+{"log": "generating core.55352", "prompt": "core.55352 is a domain entity ."}
+{"log": "generating core.55352", "prompt": "generating is not a named entity ."}
+{"log": "machine check: i-fetch......................0", "prompt": ": i-fetch......................0 is not a named entity ."}
+{"log": "generating core.58328", "prompt": "core.58328 is a domain entity ."}
+{"log": "generating core.58328", "prompt": "generating is not a named entity ."}
+{"log": "255244071 double-hummer alignment exceptions", "prompt": "alignment is not a named entity ."}
+{"log": "generating core.22494", "prompt": "core.22494 is a domain entity ."}
+{"log": "generating core.22494", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.17222", "prompt": "core.17222 is a domain entity ."}
+{"log": "generating core.17222", "prompt": "generating is not a named entity ."}
+{"log": "generating core.6519", "prompt": "core.6519 is a domain entity ."}
+{"log": "generating core.6519", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.12364", "prompt": "core.12364 is a domain entity ."}
+{"log": "generating core.12364", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8531", "prompt": "core.8531 is a domain entity ."}
+{"log": "generating core.8531", "prompt": "generating is not a named entity ."}
+{"log": "generating core.6028", "prompt": "core.6028 is a domain entity ."}
+{"log": "generating core.6028", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1125", "prompt": "core.1125 is a domain entity ."}
+{"log": "generating core.1125", "prompt": "generating is not a named entity ."}
+{"log": "generating core.284", "prompt": "core.284 is a domain entity ."}
+{"log": "generating core.284", "prompt": "generating is not a named entity ."}
+{"log": "6182400 double-hummer alignment exceptions", "prompt": "6182400 double-hummer alignment is not a named entity ."}
+{"log": "114147592 double-hummer alignment exceptions", "prompt": "114147592 double-hummer is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "store operation.............................1", "prompt": "store operation.............................1 is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "store operation.............................1", "prompt": "store operation.............................1 is not a named entity ."}
+{"log": "generating core.27704", "prompt": "core.27704 is a domain entity ."}
+{"log": "generating core.27704", "prompt": "generating is not a named entity ."}
+{"log": "ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory", "prompt": " is a path entity ."}
+{"log": "ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory", "prompt": "/p/gb2/glosli/8M_5000K/t800 is not a named entity ."}
+{"log": "generating core.2599", "prompt": "core.2599 is a domain entity ."}
+{"log": "generating core.2599", "prompt": "generating is not a named entity ."}
+{"log": "generating core.11564", "prompt": "core.11564 is a domain entity ."}
+{"log": "generating core.11564", "prompt": "generating is not a named entity ."}
+{"log": "generating core.6698", "prompt": "core.6698 is a domain entity ."}
+{"log": "generating core.6698", "prompt": "generating is not a named entity ."}
+{"log": "generating core.418", "prompt": "core.418 is a domain entity ."}
+{"log": "generating core.418", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7623", "prompt": "core.7623 is a domain entity ."}
+{"log": "generating core.7623", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.3959", "prompt": "core.3959 is a domain entity ."}
+{"log": "generating core.3959", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.50841", "prompt": "core.50841 is a domain entity ."}
+{"log": "generating core.50841", "prompt": "generating is not a named entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor", "prompt": " is a path entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor", "prompt": "/p/gb2/welcome3/32k_128x256x1_8x4x4.map: is a domain entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor", "prompt": "Bad file is not a named entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor", "prompt": "node map is not a named entity ."}
+{"log": "generating core.15557", "prompt": "core.15557 is a domain entity ."}
+{"log": "generating core.15557", "prompt": "generating is not a named entity ."}
+{"log": "instruction address: 0x00004ed8", "prompt": "address is not a named entity ."}
+{"log": "generating core.14603", "prompt": "core.14603 is a domain entity ."}
+{"log": "generating core.14603", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.9051", "prompt": "core.9051 is a domain entity ."}
+{"log": "generating core.9051", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: unimplemented operation..0", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.9337", "prompt": "core.9337 is a domain entity ."}
+{"log": "generating core.9337", "prompt": "generating is not a named entity ."}
+{"log": "112481672 double-hummer alignment exceptions", "prompt": "112481672 is not a named entity ."}
+{"log": "generating core.18689", "prompt": "core.18689 is a domain entity ."}
+{"log": "generating core.18689", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8832", "prompt": "core.8832 is a domain entity ."}
+{"log": "generating core.8832", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8147", "prompt": "core.8147 is a domain entity ."}
+{"log": "generating core.8147", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.3985", "prompt": "core.3985 is a domain entity ."}
+{"log": "generating core.3985", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2040", "prompt": "core.2040 is a domain entity ."}
+{"log": "generating core.2040", "prompt": "generating is not a named entity ."}
+{"log": "generating core.32755", "prompt": "core.32755 is a domain entity ."}
+{"log": "generating core.32755", "prompt": "generating is not a named entity ."}
+{"log": "generating core.15459", "prompt": "core.15459 is a domain entity ."}
+{"log": "generating core.15459", "prompt": "generating is not a named entity ."}
+{"log": "generating core.31758", "prompt": "core.31758 is a domain entity ."}
+{"log": "generating core.31758", "prompt": "generating is not a named entity ."}
+{"log": "generating core.52403", "prompt": "core.52403 is a domain entity ."}
+{"log": "generating core.52403", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 10, at 0x08e70580, mask 0x08", "prompt": ", is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.2586", "prompt": "core.2586 is a domain entity ."}
+{"log": "generating core.2586", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "floating point instr. enabled.....1", "prompt": ". enabled.....1 is not a named entity ."}
+{"log": "exception syndrome register: 0x00800000", "prompt": "syndrome register : is not a named entity ."}
+{"log": "generating core.27323", "prompt": "core.27323 is a domain entity ."}
+{"log": "generating core.27323", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2808", "prompt": "core.2808 is a domain entity ."}
+{"log": "generating core.2808", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7828", "prompt": "core.7828 is a domain entity ."}
+{"log": "generating core.7828", "prompt": "generating is not a named entity ."}
+{"log": "generating core.815", "prompt": "core.815 is a domain entity ."}
+{"log": "generating core.815", "prompt": "generating is not a named entity ."}
+{"log": "generating core.24671", "prompt": "core.24671 is a domain entity ."}
+{"log": "generating core.24671", "prompt": "generating is not a named entity ."}
+{"log": "machine check: i-fetch......................0", "prompt": ": i-fetch......................0 is not a named entity ."}
+{"log": "generating core.2606", "prompt": "core.2606 is a domain entity ."}
+{"log": "generating core.2606", "prompt": "generating is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "CE sym 2, at 0x0b85eee0, mask 0x05", "prompt": ", mask is not a named entity ."}
+{"log": "generating core.2409", "prompt": "core.2409 is a domain entity ."}
+{"log": "generating core.2409", "prompt": "generating is not a named entity ."}
+{"log": "generating core.16095", "prompt": "core.16095 is a domain entity ."}
+{"log": "generating core.16095", "prompt": "generating is not a named entity ."}
+{"log": "generating core.36248", "prompt": "core.36248 is a domain entity ."}
+{"log": "generating core.36248", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.84", "prompt": "core.84 is a domain entity ."}
+{"log": "generating core.84", "prompt": "generating is not a named entity ."}
+{"log": "generating core.3804", "prompt": "core.3804 is a domain entity ."}
+{"log": "generating core.3804", "prompt": "generating is not a named entity ."}
+{"log": "generating core.896", "prompt": "core.896 is a domain entity ."}
+{"log": "generating core.896", "prompt": "generating is not a named entity ."}
+{"log": "generating core.886", "prompt": "core.886 is a domain entity ."}
+{"log": "generating core.886", "prompt": "generating is not a named entity ."}
+{"log": "generating core.23838", "prompt": "core.23838 is a domain entity ."}
+{"log": "generating core.23838", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "program interrupt: trap instruction.........0", "prompt": "interrupt : is not a named entity ."}
+{"log": "critical input interrupt enable...0", "prompt": "enable...0 is not a named entity ."}
+{"log": "generating core.12329", "prompt": "core.12329 is a domain entity ."}
+{"log": "generating core.12329", "prompt": "generating is not a named entity ."}
+{"log": "generating core.5967", "prompt": "core.5967 is a domain entity ."}
+{"log": "generating core.5967", "prompt": "generating is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "generating core.15924", "prompt": "core.15924 is a domain entity ."}
+{"log": "generating core.15924", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.20970", "prompt": "core.20970 is a domain entity ."}
+{"log": "generating core.20970", "prompt": "generating is not a named entity ."}
+{"log": "generating core.404", "prompt": "core.404 is a domain entity ."}
+{"log": "generating core.404", "prompt": "generating is not a named entity ."}
+{"log": "generating core.424", "prompt": "core.424 is a domain entity ."}
+{"log": "generating core.424", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1641", "prompt": "core.1641 is a domain entity ."}
+{"log": "generating core.1641", "prompt": "generating is not a named entity ."}
+{"log": "data store interrupt caused by icbi.........0", "prompt": "interrupt caused by is not a named entity ."}
+{"log": "generating core.560", "prompt": "core.560 is a domain entity ."}
+{"log": "generating core.560", "prompt": "generating is not a named entity ."}
+{"log": "generating core.718", "prompt": "core.718 is a domain entity ."}
+{"log": "generating core.718", "prompt": "generating is not a named entity ."}
+{"log": "instruction address: 0x00004ed8", "prompt": "address is not a named entity ."}
+{"log": "CE sym 2, at 0x1b85fe80, mask 0x02", "prompt": ", mask is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.5235", "prompt": "core.5235 is a domain entity ."}
+{"log": "generating core.5235", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: illegal instruction......1", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.783", "prompt": "core.783 is a domain entity ."}
+{"log": "generating core.783", "prompt": "generating is not a named entity ."}
+{"log": "rts panic! - stopping execution", "prompt": "- stopping execution is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.4246", "prompt": "core.4246 is a domain entity ."}
+{"log": "generating core.4246", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.5342", "prompt": "core.5342 is a domain entity ."}
+{"log": "generating core.5342", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2299", "prompt": "core.2299 is a domain entity ."}
+{"log": "generating core.2299", "prompt": "generating is not a named entity ."}
+{"log": "generating core.14589", "prompt": "core.14589 is a domain entity ."}
+{"log": "generating core.14589", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.430", "prompt": "core.430 is a domain entity ."}
+{"log": "generating core.430", "prompt": "generating is not a named entity ."}
+{"log": "generating core.58777", "prompt": "core.58777 is a domain entity ."}
+{"log": "generating core.58777", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2486", "prompt": "core.2486 is a domain entity ."}
+{"log": "generating core.2486", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "floating point instr. enabled.....1", "prompt": ". enabled.....1 is not a named entity ."}
+{"log": "instruction address: 0x00004ed8", "prompt": "address is not a named entity ."}
+{"log": "generating core.3111", "prompt": "core.3111 is a domain entity ."}
+{"log": "generating core.3111", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2296", "prompt": "core.2296 is a domain entity ."}
+{"log": "generating core.2296", "prompt": "generating is not a named entity ."}
+{"log": "344040 double-hummer alignment exceptions", "prompt": "344040 is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.5428", "prompt": "core.5428 is a domain entity ."}
+{"log": "generating core.5428", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.12927", "prompt": "core.12927 is a domain entity ."}
+{"log": "generating core.12927", "prompt": "generating is not a named entity ."}
+{"log": "generating core.17212", "prompt": "core.17212 is a domain entity ."}
+{"log": "generating core.17212", "prompt": "generating is not a named entity ."}
+{"log": "auxiliary processor.........................0", "prompt": "auxiliary processor.........................0 is not a named entity ."}
+{"log": "generating core.2921", "prompt": "core.2921 is a domain entity ."}
+{"log": "generating core.2921", "prompt": "generating is not a named entity ."}
+{"log": "generating core.179", "prompt": "core.179 is a domain entity ."}
+{"log": "generating core.179", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4193", "prompt": "core.4193 is a domain entity ."}
+{"log": "generating core.4193", "prompt": "generating is not a named entity ."}
+{"log": "generating core.30671", "prompt": "core.30671 is a domain entity ."}
+{"log": "generating core.30671", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7192", "prompt": "core.7192 is a domain entity ."}
+{"log": "generating core.7192", "prompt": "generating is not a named entity ."}
+{"log": "generating core.10247", "prompt": "core.10247 is a domain entity ."}
+{"log": "generating core.10247", "prompt": "generating is not a named entity ."}
+{"log": "generating core.20392", "prompt": "core.20392 is a domain entity ."}
+{"log": "generating core.20392", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2079", "prompt": "core.2079 is a domain entity ."}
+{"log": "generating core.2079", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1887", "prompt": "core.1887 is a domain entity ."}
+{"log": "generating core.1887", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: privileged instruction...0", "prompt": "interrupt is not a named entity ."}
+{"log": "instruction address: 0x00004ed8", "prompt": "address is not a named entity ."}
+{"log": "generating core.7193", "prompt": "core.7193 is a domain entity ."}
+{"log": "generating core.7193", "prompt": "generating is not a named entity ."}
+{"log": "generating core.28238", "prompt": "core.28238 is a domain entity ."}
+{"log": "generating core.28238", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1626", "prompt": "core.1626 is a domain entity ."}
+{"log": "generating core.1626", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.23998", "prompt": "core.23998 is a domain entity ."}
+{"log": "generating core.23998", "prompt": "generating is not a named entity ."}
+{"log": "generating core.32116", "prompt": "core.32116 is a domain entity ."}
+{"log": "generating core.32116", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.17560", "prompt": "core.17560 is a domain entity ."}
+{"log": "generating core.17560", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.45353", "prompt": "core.45353 is a domain entity ."}
+{"log": "generating core.45353", "prompt": "generating is not a named entity ."}
+{"log": "generating core.6425", "prompt": "core.6425 is a domain entity ."}
+{"log": "generating core.6425", "prompt": "generating is not a named entity ."}
+{"log": "generating core.26186", "prompt": "core.26186 is a domain entity ."}
+{"log": "generating core.26186", "prompt": "generating is not a named entity ."}
+{"log": "floating pt ex mode 0 enable......0", "prompt": "ex mode is not a named entity ."}
+{"log": "generating core.62940", "prompt": "core.62940 is a domain entity ."}
+{"log": "generating core.62940", "prompt": "generating is not a named entity ."}
+{"log": "generating core.25568", "prompt": "core.25568 is a domain entity ."}
+{"log": "generating core.25568", "prompt": "generating is not a named entity ."}
+{"log": "generating core.21374", "prompt": "core.21374 is a domain entity ."}
+{"log": "generating core.21374", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4525", "prompt": "core.4525 is a domain entity ."}
+{"log": "generating core.4525", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.10019", "prompt": "core.10019 is a domain entity ."}
+{"log": "generating core.10019", "prompt": "generating is not a named entity ."}
+{"log": "core configuration register: 0x00002000", "prompt": "0x00002000 is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.1682", "prompt": "core.1682 is a domain entity ."}
+{"log": "generating core.1682", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2950", "prompt": "core.2950 is a domain entity ."}
+{"log": "generating core.2950", "prompt": "generating is not a named entity ."}
+{"log": "generating core.20088", "prompt": "core.20088 is a domain entity ."}
+{"log": "generating core.20088", "prompt": "generating is not a named entity ."}
+{"log": "generating core.3181", "prompt": "core.3181 is a domain entity ."}
+{"log": "generating core.3181", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.13131", "prompt": "core.13131 is a domain entity ."}
+{"log": "generating core.13131", "prompt": "generating is not a named entity ."}
+{"log": "generating core.5671", "prompt": "core.5671 is a domain entity ."}
+{"log": "generating core.5671", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 22, at 0x049af800, mask 0x02", "prompt": ", mask is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "112625368 double-hummer alignment exceptions", "prompt": "112625368 double-hummer is not a named entity ."}
+{"log": "generating core.26224", "prompt": "core.26224 is a domain entity ."}
+{"log": "generating core.26224", "prompt": "generating is not a named entity ."}
+{"log": "generating core.50505", "prompt": "core.50505 is a domain entity ."}
+{"log": "generating core.50505", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.1822", "prompt": "core.1822 is a domain entity ."}
+{"log": "generating core.1822", "prompt": "generating is not a named entity ."}
+{"log": "instruction address: 0x00004ed8", "prompt": "address is not a named entity ."}
+{"log": "generating core.2092", "prompt": "core.2092 is a domain entity ."}
+{"log": "generating core.2092", "prompt": "generating is not a named entity ."}
+{"log": "Node card is not fully functional", "prompt": "not is not a named entity ."}
+{"log": "generating core.6711", "prompt": "core.6711 is a domain entity ."}
+{"log": "generating core.6711", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt: illegal instruction......0", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.49137", "prompt": "core.49137 is a domain entity ."}
+{"log": "generating core.49137", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.13558", "prompt": "core.13558 is a domain entity ."}
+{"log": "generating core.13558", "prompt": "generating is not a named entity ."}
+{"log": "generating core.19481", "prompt": "core.19481 is a domain entity ."}
+{"log": "generating core.19481", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1433", "prompt": "core.1433 is a domain entity ."}
+{"log": "generating core.1433", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1807", "prompt": "core.1807 is a domain entity ."}
+{"log": "generating core.1807", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2286", "prompt": "core.2286 is a domain entity ."}
+{"log": "generating core.2286", "prompt": "generating is not a named entity ."}
+{"log": "generating core.19296", "prompt": "core.19296 is a domain entity ."}
+{"log": "generating core.19296", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 28, at 0x110067e0, mask 0x02", "prompt": ", is not a named entity ."}
+{"log": "data store interrupt caused by icbi.........0", "prompt": "interrupt caused by is not a named entity ."}
+{"log": "generating core.30675", "prompt": "core.30675 is a domain entity ."}
+{"log": "generating core.30675", "prompt": "generating is not a named entity ."}
+{"log": "generating core.14627", "prompt": "core.14627 is a domain entity ."}
+{"log": "generating core.14627", "prompt": "generating is not a named entity ."}
+{"log": "458720 double-hummer alignment exceptions", "prompt": "458720 double-hummer is not a named entity ."}
+{"log": "generating core.4615", "prompt": "core.4615 is a domain entity ."}
+{"log": "generating core.4615", "prompt": "generating is not a named entity ."}
+{"log": "core configuration register: 0x00002000", "prompt": "0x00002000 is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7", "prompt": "on is not a named entity ."}
+{"log": "program interrupt: imprecise exception......0", "prompt": "interrupt : is not a named entity ."}
+{"log": "generating core.4180", "prompt": "core.4180 is a domain entity ."}
+{"log": "generating core.4180", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7156", "prompt": "core.7156 is a domain entity ."}
+{"log": "generating core.7156", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "disable store gathering..................0", "prompt": "store is not a named entity ."}
+{"log": "generating core.23659", "prompt": "core.23659 is a domain entity ."}
+{"log": "generating core.23659", "prompt": "generating is not a named entity ."}
+{"log": "generating core.14824", "prompt": "core.14824 is a domain entity ."}
+{"log": "generating core.14824", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8153", "prompt": "core.8153 is a domain entity ."}
+{"log": "generating core.8153", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2275", "prompt": "core.2275 is a domain entity ."}
+{"log": "generating core.2275", "prompt": "generating is not a named entity ."}
+{"log": "generating core.23119", "prompt": "core.23119 is a domain entity ."}
+{"log": "generating core.23119", "prompt": "generating is not a named entity ."}
+{"log": "generating core.56320", "prompt": "core.56320 is a domain entity ."}
+{"log": "generating core.56320", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7915", "prompt": "core.7915 is a domain entity ."}
+{"log": "generating core.7915", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.7836", "prompt": "core.7836 is a domain entity ."}
+{"log": "generating core.7836", "prompt": "generating is not a named entity ."}
+{"log": "generating core.3293", "prompt": "core.3293 is a domain entity ."}
+{"log": "generating core.3293", "prompt": "generating is not a named entity ."}
+{"log": "generating core.61963", "prompt": "core.61963 is a domain entity ."}
+{"log": "generating core.61963", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.50240", "prompt": "core.50240 is a domain entity ."}
+{"log": "generating core.50240", "prompt": "generating is not a named entity ."}
+{"log": "generating core.12536", "prompt": "core.12536 is a domain entity ."}
+{"log": "generating core.12536", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 0, at 0x1b858280, mask 0x40", "prompt": "0x1b858280 is not a named entity ."}
+{"log": "generating core.3343", "prompt": "core.3343 is a domain entity ."}
+{"log": "generating core.3343", "prompt": "generating is not a named entity ."}
+{"log": "generating core.45777", "prompt": "core.45777 is a domain entity ."}
+{"log": "generating core.45777", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 0, at 0x1b8584e0, mask 0x80", "prompt": ", mask 0x80 is not a named entity ."}
+{"log": "rts internal error", "prompt": "rts internal is not a named entity ."}
+{"log": "generating core.133", "prompt": "core.133 is a domain entity ."}
+{"log": "generating core.133", "prompt": "generating is not a named entity ."}
+{"log": "generating core.45183", "prompt": "core.45183 is a domain entity ."}
+{"log": "generating core.45183", "prompt": "generating is not a named entity ."}
+{"log": "generating core.26993", "prompt": "core.26993 is a domain entity ."}
+{"log": "generating core.26993", "prompt": "generating is not a named entity ."}
+{"log": "generating core.42", "prompt": "core.42 is a domain entity ."}
+{"log": "generating core.42", "prompt": "generating is not a named entity ."}
+{"log": "generating core.18129", "prompt": "core.18129 is a domain entity ."}
+{"log": "generating core.18129", "prompt": "generating is not a named entity ."}
+{"log": "generating core.24337", "prompt": "core.24337 is a domain entity ."}
+{"log": "generating core.24337", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 20, at 0x1438f9e0, mask 0x40", "prompt": "0x1438f9e0 , mask is not a named entity ."}
+{"log": "generating core.3249", "prompt": "core.3249 is a domain entity ."}
+{"log": "generating core.3249", "prompt": "generating is not a named entity ."}
+{"log": "disable store gathering..................0", "prompt": "store is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "guaranteed instruction cache block touch.0", "prompt": "cache is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.10057", "prompt": "core.10057 is a domain entity ."}
+{"log": "generating core.10057", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 10, at 0x08d10580, mask 0x08", "prompt": "at 0x08d10580 , is not a named entity ."}
+{"log": "icache prefetch depth....................0", "prompt": "prefetch is not a named entity ."}
+{"log": "floating point instr. enabled.....1", "prompt": ". enabled.....1 is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.2558", "prompt": "core.2558 is a domain entity ."}
+{"log": "generating core.2558", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.9949", "prompt": "core.9949 is a domain entity ."}
+{"log": "generating core.9949", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "113982272 double-hummer alignment exceptions", "prompt": "alignment is not a named entity ."}
+{"log": "generating core.5939", "prompt": "core.5939 is a domain entity ."}
+{"log": "generating core.5939", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 20, at 0x01228120, mask 0x10", "prompt": ", mask is not a named entity ."}
+{"log": "generating core.254", "prompt": "core.254 is a domain entity ."}
+{"log": "generating core.254", "prompt": "generating is not a named entity ."}
+{"log": "generating core.29903", "prompt": "core.29903 is a domain entity ."}
+{"log": "generating core.29903", "prompt": "generating is not a named entity ."}
+{"log": "machine state register: 0x00002000", "prompt": "register : 0x00002000 is not a named entity ."}
+{"log": "generating core.6801", "prompt": "core.6801 is a domain entity ."}
+{"log": "generating core.6801", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2600", "prompt": "core.2600 is a domain entity ."}
+{"log": "generating core.2600", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "program interrupt: imprecise exception......0", "prompt": "interrupt : is not a named entity ."}
+{"log": "116332728 double-hummer alignment exceptions", "prompt": "116332728 is not a named entity ."}
+{"log": "generating core.4230", "prompt": "core.4230 is a domain entity ."}
+{"log": "generating core.4230", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7539", "prompt": "core.7539 is a domain entity ."}
+{"log": "generating core.7539", "prompt": "generating is not a named entity ."}
+{"log": "program interrupt", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.15648", "prompt": "core.15648 is a domain entity ."}
+{"log": "generating core.15648", "prompt": "generating is not a named entity ."}
+{"log": "generating core.28329", "prompt": "core.28329 is a domain entity ."}
+{"log": "generating core.28329", "prompt": "generating is not a named entity ."}
+{"log": "114091808 double-hummer alignment exceptions", "prompt": "114091808 double-hummer is not a named entity ."}
+{"log": "generating core.13946", "prompt": "core.13946 is a domain entity ."}
+{"log": "generating core.13946", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.6139", "prompt": "core.6139 is a domain entity ."}
+{"log": "generating core.6139", "prompt": "generating is not a named entity ."}
+{"log": "generating core.7457", "prompt": "core.7457 is a domain entity ."}
+{"log": "generating core.7457", "prompt": "generating is not a named entity ."}
+{"log": "generating core.17493", "prompt": "core.17493 is a domain entity ."}
+{"log": "generating core.17493", "prompt": "generating is not a named entity ."}
+{"log": "generating core.22024", "prompt": "core.22024 is a domain entity ."}
+{"log": "generating core.22024", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "exception syndrome register: 0x08000000", "prompt": "syndrome register : is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.2680", "prompt": "core.2680 is a domain entity ."}
+{"log": "generating core.2680", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.46157", "prompt": "core.46157 is a domain entity ."}
+{"log": "generating core.46157", "prompt": "generating is not a named entity ."}
+{"log": "generating core.32257", "prompt": "core.32257 is a domain entity ."}
+{"log": "generating core.32257", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.7571", "prompt": "core.7571 is a domain entity ."}
+{"log": "generating core.7571", "prompt": "generating is not a named entity ."}
+{"log": "generating core.20367", "prompt": "core.20367 is a domain entity ."}
+{"log": "generating core.20367", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.10429", "prompt": "core.10429 is a domain entity ."}
+{"log": "generating core.10429", "prompt": "generating is not a named entity ."}
+{"log": "generating core.15753", "prompt": "core.15753 is a domain entity ."}
+{"log": "generating core.15753", "prompt": "generating is not a named entity ."}
+{"log": "generating core.63070", "prompt": "core.63070 is a domain entity ."}
+{"log": "generating core.63070", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8575", "prompt": "core.8575 is a domain entity ."}
+{"log": "generating core.8575", "prompt": "generating is not a named entity ."}
+{"log": "generating core.22273", "prompt": "core.22273 is a domain entity ."}
+{"log": "generating core.22273", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "program interrupt", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.4245", "prompt": "core.4245 is a domain entity ."}
+{"log": "generating core.4245", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.2790", "prompt": "core.2790 is a domain entity ."}
+{"log": "generating core.2790", "prompt": "generating is not a named entity ."}
+{"log": "generating core.21112", "prompt": "core.21112 is a domain entity ."}
+{"log": "generating core.21112", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8138", "prompt": "core.8138 is a domain entity ."}
+{"log": "generating core.8138", "prompt": "generating is not a named entity ."}
+{"log": "generating core.15966", "prompt": "core.15966 is a domain entity ."}
+{"log": "generating core.15966", "prompt": "generating is not a named entity ."}
+{"log": "generating core.19942", "prompt": "core.19942 is a domain entity ."}
+{"log": "generating core.19942", "prompt": "generating is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "generating core.27921", "prompt": "core.27921 is a domain entity ."}
+{"log": "generating core.27921", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1172", "prompt": "core.1172 is a domain entity ."}
+{"log": "generating core.1172", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8691", "prompt": "core.8691 is a domain entity ."}
+{"log": "generating core.8691", "prompt": "generating is not a named entity ."}
+{"log": "exception syndrome register: 0x00800000", "prompt": "syndrome register : is not a named entity ."}
+{"log": "program interrupt: illegal instruction......0", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.257", "prompt": "core.257 is a domain entity ."}
+{"log": "generating core.257", "prompt": "generating is not a named entity ."}
+{"log": "generating core.8089", "prompt": "core.8089 is a domain entity ."}
+{"log": "generating core.8089", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "generating core.46654", "prompt": "core.46654 is a domain entity ."}
+{"log": "generating core.46654", "prompt": "generating is not a named entity ."}
+{"log": "exception syndrome register: 0x00800000", "prompt": "syndrome register : is not a named entity ."}
+{"log": "generating core.6545", "prompt": "core.6545 is a domain entity ."}
+{"log": "generating core.6545", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "generating core.4329", "prompt": "core.4329 is a domain entity ."}
+{"log": "generating core.4329", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2605", "prompt": "core.2605 is a domain entity ."}
+{"log": "generating core.2605", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1988", "prompt": "core.1988 is a domain entity ."}
+{"log": "generating core.1988", "prompt": "generating is not a named entity ."}
+{"log": "generating core.20691", "prompt": "core.20691 is a domain entity ."}
+{"log": "generating core.20691", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4622", "prompt": "core.4622 is a domain entity ."}
+{"log": "generating core.4622", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4660", "prompt": "core.4660 is a domain entity ."}
+{"log": "generating core.4660", "prompt": "generating is not a named entity ."}
+{"log": "generating core.5009", "prompt": "core.5009 is a domain entity ."}
+{"log": "generating core.5009", "prompt": "generating is not a named entity ."}
+{"log": "generating core.58616", "prompt": "core.58616 is a domain entity ."}
+{"log": "generating core.58616", "prompt": "generating is not a named entity ."}
+{"log": "generating core.3053", "prompt": "core.3053 is a domain entity ."}
+{"log": "generating core.3053", "prompt": "generating is not a named entity ."}
+{"log": "generating core.6471", "prompt": "core.6471 is a domain entity ."}
+{"log": "generating core.6471", "prompt": "generating is not a named entity ."}
+{"log": "generating core.10299", "prompt": "core.10299 is a domain entity ."}
+{"log": "generating core.10299", "prompt": "generating is not a named entity ."}
+{"log": "generating core.59907", "prompt": "core.59907 is a domain entity ."}
+{"log": "generating core.59907", "prompt": "generating is not a named entity ."}
+{"log": "generating core.18363", "prompt": "core.18363 is a domain entity ."}
+{"log": "generating core.18363", "prompt": "generating is not a named entity ."}
+{"log": "generating core.3824", "prompt": "core.3824 is a domain entity ."}
+{"log": "generating core.3824", "prompt": "generating is not a named entity ."}
+{"log": "generating core.42109", "prompt": "core.42109 is a domain entity ."}
+{"log": "generating core.42109", "prompt": "generating is not a named entity ."}
+{"log": "generating core.28011", "prompt": "core.28011 is a domain entity ."}
+{"log": "generating core.28011", "prompt": "generating is not a named entity ."}
+{"log": "data store interrupt caused by dcbf.........0", "prompt": "by dcbf.........0 is not a named entity ."}
+{"log": "generating core.4614", "prompt": "core.4614 is a domain entity ."}
+{"log": "generating core.4614", "prompt": "generating is not a named entity ."}
+{"log": "generating core.42833", "prompt": "core.42833 is a domain entity ."}
+{"log": "generating core.42833", "prompt": "generating is not a named entity ."}
+{"log": "CE sym 0, at 0x1b8594e0, mask 0x40", "prompt": ", is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.8646", "prompt": "core.8646 is a domain entity ."}
+{"log": "generating core.8646", "prompt": "generating is not a named entity ."}
+{"log": "generating core.4862", "prompt": "core.4862 is a domain entity ."}
+{"log": "generating core.4862", "prompt": "generating is not a named entity ."}
+{"log": "generating core.34015", "prompt": "core.34015 is a domain entity ."}
+{"log": "generating core.34015", "prompt": "generating is not a named entity ."}
+{"log": "debug interrupt enable............0", "prompt": "debug interrupt enable............0 is not a named entity ."}
+{"log": "generating core.841", "prompt": "core.841 is a domain entity ."}
+{"log": "generating core.841", "prompt": "generating is not a named entity ."}
+{"log": "generating core.21353", "prompt": "core.21353 is a domain entity ."}
+{"log": "generating core.21353", "prompt": "generating is not a named entity ."}
+{"log": "instruction cache parity error corrected", "prompt": "parity error corrected is not a named entity ."}
+{"log": "data address: 0x00000002", "prompt": "data is not a named entity ."}
+{"log": "6182400 double-hummer alignment exceptions", "prompt": "6182400 double-hummer alignment is not a named entity ."}
+{"log": "generating core.20015", "prompt": "core.20015 is a domain entity ."}
+{"log": "generating core.20015", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.26955", "prompt": "core.26955 is a domain entity ."}
+{"log": "generating core.26955", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "1969920 double-hummer alignment exceptions", "prompt": "1969920 double-hummer is not a named entity ."}
+{"log": "344040 double-hummer alignment exceptions", "prompt": "344040 is not a named entity ."}
+{"log": "data TLB error interrupt", "prompt": "data is not a named entity ."}
+{"log": "program interrupt: unimplemented operation..0", "prompt": "interrupt is not a named entity ."}
+{"log": "generating core.11379", "prompt": "core.11379 is a domain entity ."}
+{"log": "generating core.11379", "prompt": "generating is not a named entity ."}
+{"log": "632254896 double-hummer alignment exceptions", "prompt": "632254896 double-hummer is not a named entity ."}
+{"log": "generating core.38143", "prompt": "core.38143 is a domain entity ."}
+{"log": "generating core.38143", "prompt": "generating is not a named entity ."}
+{"log": "generating core.26131", "prompt": "core.26131 is a domain entity ."}
+{"log": "generating core.26131", "prompt": "generating is not a named entity ."}
+{"log": "data storage interrupt", "prompt": "data storage is not a named entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes", "prompt": " is a path entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes", "prompt": "/p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: is a domain entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes", "prompt": "/p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map : is not a named entity ."}
+{"log": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes", "prompt": "node map is not a named entity ."}
+{"log": "generating core.18514", "prompt": "core.18514 is a domain entity ."}
+{"log": "generating core.18514", "prompt": "generating is not a named entity ."}
+{"log": "generating core.1957", "prompt": "core.1957 is a domain entity ."}
+{"log": "generating core.1957", "prompt": "generating is not a named entity ."}
+{"log": "generating core.2880", "prompt": "core.2880 is a domain entity ."}
+{"log": "generating core.2880", "prompt": "generating is not a named entity ."}
+{"log": "generating core.12357", "prompt": "core.12357 is a domain entity ."}
+{"log": "generating core.12357", "prompt": "generating is not a named entity ."}
+{"log": "generating core.9778", "prompt": "core.9778 is a domain entity ."}
+{"log": "generating core.9778", "prompt": "generating is not a named entity ."}
+{"log": "generating core.45943", "prompt": "core.45943 is a domain entity ."}
+{"log": "generating core.45943", "prompt": "generating is not a named entity ."}
+{"log": "generating core.19321", "prompt": "core.19321 is a domain entity ."}
+{"log": "generating core.19321", "prompt": "generating is not a named entity ."}
+{"log": "1146800 double-hummer alignment exceptions", "prompt": "1146800 double-hummer is not a named entity ."}
+{"log": "generating core.14021", "prompt": "core.14021 is a domain entity ."}
+{"log": "generating core.14021", "prompt": "generating is not a named entity ."}
+{"log": "259822751 double-hummer alignment exceptions", "prompt": "259822751 double-hummer is not a named entity ."}
+{"log": "generating core.24376", "prompt": "core.24376 is a domain entity ."}
+{"log": "generating core.24376", "prompt": "generating is not a named entity ."}

@@ -27,11 +27,14 @@ conda install pyg -c pyg
 - Install dependencies
 ```
 pip install -r requirements.txt
+pip install torch-scatter -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+pip install torch-sparse -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+pip install torch-geometric
 ```
 
 ### Extract named entities from log messages
 ```
-python NER.py \
+source .env && python NER.py \
     --gen_data ${DATA} \
     --data_name ${DATA_NAME} \
     --output_dir ${OUT_DIR} \
@@ -40,7 +43,7 @@ python NER.py \
     --n_grams ${N_GRAMS} \
     --neg_rate ${NEG_RATE} \
     --labeling_technique ${LABEL_METHOD} \
-    --model_name_or_path ${PRETRAINED_MODEL} \
+    --model_name_or_path ${NER_PRETRAINED_MODEL} \
     --num_train_epochs ${EPOCHS} \
     --do_train \
     --do_eval \
@@ -54,7 +57,7 @@ python NER.py \
 
 ### Generate datasets
 ```
-python graph_generation.py \
+source .env && python graph_generation.py \
     --root ${ROOT} \
     --log_file ${DATA} \
     --inference_type ${INFERENCE} \
@@ -67,12 +70,12 @@ python graph_generation.py \
 
 ### Train graph anomaly detection model
 ```
-python main.py \
+source .env && python main.py \
     --root ${ROOT} \
     --checkpoint_dir ${CKPT} \
     --train_batch_size ${TRAIN_BATCH_SIZE} \
     --eval_batch_size ${EVAL_BATCH_SIZE} \
-    --model_type dynamic \
+    --model_type ${MODEL_TYPE} \
     --pretrained_model_path ${MODEL_PATH} \
     --lambda_seq ${LAMBDA} \
     --classification ${CLASSIFICATION} \
@@ -84,7 +87,8 @@ python main.py \
     --do_eval \
     --multi_granularity \
     --global_weight ${GLOBAL_WEIGHT} \
-    --from_scratch
+    --from_scratch \
+    --no_early_stopping
 ```
 
 

@@ -270,7 +270,12 @@ class HDFSDataset(Dataset):
 
         for raw_path in self.raw_paths:
             # Read data from `raw_path`.
-            graph_list = load_dataset('json', data_files=raw_path)['train']
+            try:
+                graph_list = load_dataset('json', data_files=raw_path)['train']
+            except Exception:
+                import pandas as pd
+                from datasets import Dataset
+                graph_list = Dataset.from_pandas(pd.read_json(raw_path, lines=True))
 
             for graph_dict in tqdm(graph_list):
                 data = self._get_graph_data(graph_dict)
@@ -355,7 +360,12 @@ class BGLDataset(HDFSDataset):
 
         for raw_path in self.raw_paths:
             # Read data from `raw_path`.
-            graph_list = load_dataset('json', data_files=raw_path)['train']
+            try:
+                graph_list = load_dataset('json', data_files=raw_path)['train']
+            except Exception:
+                import pandas as pd
+                from datasets import Dataset
+                graph_list = Dataset.from_pandas(pd.read_json(raw_path, lines=True))
 
             for graph_dict in tqdm(graph_list):
                 data = self._get_graph_data(graph_dict)
@@ -537,7 +547,12 @@ class BGLNodeDataset(HDFSDataset):
         
         for raw_path in self.raw_paths:
             # Read data from `raw_path`.
-            graph_list = load_dataset('json', data_files=raw_path)['train']
+            try:
+                graph_list = load_dataset('json', data_files=raw_path)['train']
+            except Exception:
+                import pandas as pd
+                from datasets import Dataset
+                graph_list = Dataset.from_pandas(pd.read_json(raw_path, lines=True))
 
             for graph_dict in tqdm(graph_list):
                 data = self._get_graph_data(graph_dict)
