@@ -391,7 +391,7 @@ if __name__ == '__main__':
     checkpoint_callback = ModelCheckpoint(
         monitor='val_loss',
         dirpath=checkpoint_dir,
-        save_top_k=20,
+        save_top_k=1, # Giảm từ 20 xuống 1 để tiết kiệm dung lượng đĩa cho Kaggle
     )
 
     # Earlystop default is overridden by this
